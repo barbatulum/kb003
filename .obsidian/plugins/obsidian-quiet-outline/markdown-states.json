@@ -403,11 +403,11 @@
     "cursor": {
       "from": {
         "line": 1,
-        "ch": 2
+        "ch": 0
       },
       "to": {
         "line": 1,
-        "ch": 2
+        "ch": 0
       }
     },
     "expandedKeys": []
