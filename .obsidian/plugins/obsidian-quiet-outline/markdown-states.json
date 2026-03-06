@@ -1,28 +1,28 @@
 {
   "Broughton Archipelago.md": {
-    "scroll": 0,
+    "scroll": 1.4526588350882326,
     "cursor": {
       "from": {
-        "line": 16,
-        "ch": 0
+        "line": 9,
+        "ch": 8
       },
       "to": {
-        "line": 16,
-        "ch": 0
+        "line": 9,
+        "ch": 8
       }
     },
     "expandedKeys": []
   },
   "Overlanding & Expedition.md": {
-    "scroll": 0,
+    "scroll": 7.274999994039536,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 19
+        "line": 25,
+        "ch": 7
       },
       "to": {
-        "line": 4,
-        "ch": 19
+        "line": 25,
+        "ch": 7
       }
     },
     "expandedKeys": [
@@ -44,7 +44,7 @@
     "expandedKeys": []
   },
   "Gemini research.md": {
-    "scroll": 51.699476722917815,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 62,
@@ -56,11 +56,15 @@
       }
     },
     "expandedKeys": [
-      "item-1-0",
-      "item-2-1",
-      "item-2-4",
       "item-2-7",
-      "item-2-10"
+      "item-1-0",
+      "item-2-4",
+      "item-2-1",
+      "item-2-10",
+      "item-2-13",
+      "item-2-16",
+      "item-2-19",
+      "item-2-23"
     ]
   },
   "獨木舟 Paddling Skills.md": {
@@ -110,11 +114,11 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 2
+        "ch": 0
       },
       "to": {
         "line": 0,
-        "ch": 2
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -123,12 +127,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 13,
-        "ch": 17
+        "line": 1,
+        "ch": 23
       },
       "to": {
-        "line": 13,
-        "ch": 17
+        "line": 1,
+        "ch": 23
       }
     },
     "expandedKeys": [
@@ -139,12 +143,12 @@
     "scroll": 79.74166109230828,
     "cursor": {
       "from": {
-        "line": 102,
-        "ch": 0
+        "line": 76,
+        "ch": 13
       },
       "to": {
-        "line": 102,
-        "ch": 0
+        "line": 76,
+        "ch": 13
       }
     },
     "expandedKeys": [
@@ -156,12 +160,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 1,
-        "ch": 11
+        "line": 0,
+        "ch": 7
       },
       "to": {
-        "line": 1,
-        "ch": 11
+        "line": 0,
+        "ch": 7
       }
     },
     "expandedKeys": []
@@ -170,14 +174,66 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
+        "line": 2,
+        "ch": 9
+      },
+      "to": {
+        "line": 2,
+        "ch": 9
+      }
+    },
+    "expandedKeys": []
+  },
+  "Left Side Bar.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
         "ch": 0
       },
       "to": {
-        "line": 4,
+        "line": 5,
         "ch": 0
       }
     },
     "expandedKeys": []
+  },
+  "Vancouver Island Kayaking Destinations.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 22
+      },
+      "to": {
+        "line": 4,
+        "ch": 22
+      }
+    },
+    "expandedKeys": []
+  },
+  "Vancouver Island Kayaing Destinations - Research.md": {
+    "scroll": 176.07440089954193,
+    "cursor": {
+      "from": {
+        "line": 190,
+        "ch": 0
+      },
+      "to": {
+        "line": 190,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-2-7",
+      "item-1-0",
+      "item-2-4",
+      "item-2-1",
+      "item-2-10",
+      "item-2-13",
+      "item-2-16",
+      "item-2-19",
+      "item-2-23"
+    ]
   }
 }

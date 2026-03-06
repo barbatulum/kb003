@@ -1,0 +1,15 @@
+.sidebar-note .inline-title {
+    display: none;
+}
+
+.sidebar-note .view-header {
+    display: none;
+}
+
+.sidebar-note .markdown-preview-view {
+    padding-top: 0px;
+}
+
+.sidebar-note ul {
+    margin-left: 10px;
+}

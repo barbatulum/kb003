@@ -16,7 +16,7 @@ title: Overlanding & Expedition
 - Current/Tide direction/timetable
 ## 划船地點
 (下船點,營地, 潮流, 路線)
-- 海岸線 [[Gemini research]]
+- 海岸線 [[Vancouver Island Kayaing Destinations - Research]]
     - Vancouver Island
     - Sunshine Coast
     - 

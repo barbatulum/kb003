@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e7a557f7993596e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Overlanding & Expedition.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Overlanding & Expedition"
-            }
-          },
-          {
-            "id": "5d52fcd03c8c80ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BC 海上救援.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "BC 海上救援"
-            }
-          },
-          {
             "id": "2b247d1e87e0ada9",
             "type": "leaf",
             "state": {
@@ -85,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Broughton Archipelago.md",
+                "file": "8mlways2l.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Broughton Archipelago"
+              "title": "8mlways2l"
+            }
+          },
+          {
+            "id": "17bc709194d237f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vancouver Island Kayaing Destinations - Research.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vancouver Island Kayaing Destinations - Research"
             }
           },
           {
@@ -109,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIS.md",
+                "file": "Capsized 翻船.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GIS"
+              "title": "Capsized 翻船"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,23 +131,6 @@
             }
           },
           {
-            "id": "bbd3a8d83f49f1b8",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
             "id": "80343784404da79d",
             "type": "leaf",
             "state": {
@@ -180,7 +139,14 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "76d9ed65fdc33c8a",
+        "type": "tabs",
+        "children": [
           {
             "id": "e4ef37c6720cf37f",
             "type": "leaf",
@@ -202,16 +168,33 @@
     "type": "split",
     "children": [
       {
-        "id": "ba4818fc38b03da8",
+        "id": "540313f6f8b79ae2",
         "type": "tabs",
         "children": [
           {
-            "id": "247115bc542f9024",
+            "id": "bbd3a8d83f49f1b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"title\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a70f59ec1ac60868",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skiing.md",
+                "file": "Left Side Bar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,23 +204,80 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Skiing"
+              "title": "Backlinks for Left Side Bar"
             }
           },
           {
-            "id": "1f5f91f6dc0c04ee",
+            "id": "65609faa728a65b8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overlanding & Expedition.md",
+                "file": "Left Side Bar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Overlanding & Expedition"
+              "title": "Outgoing links from Left Side Bar"
             }
           },
+          {
+            "id": "52091eaaf6f6d39c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Left Side Bar.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Left Side Bar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fdc071c5940d5f06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "728acda0672b5a30",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          }
+        ]
+      },
+      {
+        "id": "58038f2bf6c310a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db01e74bac449b0a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5866f030cddbff4e",
+        "type": "tabs",
+        "children": [
           {
             "id": "5db50181eda566f7",
             "type": "leaf",
@@ -252,48 +292,8 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "db01e74bac449b0a",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "f57970dedb3c14e0",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Overlanding & Expedition.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Overlanding & Expedition"
-            }
-          },
-          {
-            "id": "728acda0672b5a30",
-            "type": "leaf",
-            "state": {
-              "type": "quiet-outline",
-              "state": {},
-              "icon": "lines-of-text",
-              "title": "Quiet Outline"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -309,22 +309,26 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ee386ba3667fe333",
+  "active": "17bc709194d237f6",
   "lastOpenFiles": [
+    "Overlanding & Expedition.md",
+    "Broughton Archipelago.md",
+    "Vancouver Island Kayaking Destinations.md",
+    "8mlways2l.md",
+    "Left Side Bar.md",
+    "Capsized 翻船.md",
+    "BC 海上救援.md",
+    "獨木舟 Paddling Skills.md",
+    "Vancouver Island Kayaing Destinations - Research.md",
+    "GIS.md",
+    "Tags",
     "New Text Document.txt",
     "New folder",
-    "GIS.md",
-    "Broughton Archipelago.md",
-    "Gemini research.md",
     "Skin on frame.md",
-    "獨木舟 Paddling Skills.md",
-    "Overlanding & Expedition.md",
-    "8mlways2l.md",
-    "BC 海上救援.md",
-    "Capsized 翻船.md",
     "Skiing.md",
     "Kayak 平移技巧.md"
   ]
