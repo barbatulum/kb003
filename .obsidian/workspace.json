@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "db316173d70c7aaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Haida Gwaii.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Haida Gwaii"
+            }
+          },
+          {
             "id": "3d913b64b0c3ecfb",
             "type": "leaf",
             "state": {
@@ -102,9 +126,81 @@
               "icon": "lucide-file",
               "title": "Capsized 翻船"
             }
+          },
+          {
+            "id": "e9e99a37a39b36fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大熊雨林.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "大熊雨林"
+            }
+          },
+          {
+            "id": "a578f23a6fa9755b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cape Scott.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cape Scott"
+            }
+          },
+          {
+            "id": "ba3b08ffd6460f64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -313,17 +409,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "17bc709194d237f6",
+  "active": "ba3b08ffd6460f64",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Vancouver Island Kayaing Destinations - Research.md",
+    "Howe Sound.md",
+    "8mlways2l.md",
+    "Kyuquot Sound.md",
+    "Haida Gwaii.md",
+    "Cape Scott.md",
+    "Capsized 翻船.md",
+    "大熊雨林.md",
     "Overlanding & Expedition.md",
     "Broughton Archipelago.md",
     "Vancouver Island Kayaking Destinations.md",
-    "8mlways2l.md",
     "Left Side Bar.md",
-    "Capsized 翻船.md",
     "BC 海上救援.md",
     "獨木舟 Paddling Skills.md",
-    "Vancouver Island Kayaing Destinations - Research.md",
     "GIS.md",
     "Tags",
     "New Text Document.txt",
