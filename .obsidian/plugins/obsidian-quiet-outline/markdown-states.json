@@ -213,21 +213,20 @@
     "expandedKeys": []
   },
   "Vancouver Island Kayaing Destinations - Research.md": {
-    "scroll": 33.692459342821536,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 43,
+        "line": 8,
         "ch": 0
       },
       "to": {
-        "line": 43,
+        "line": 8,
         "ch": 0
       }
     },
     "expandedKeys": [
-      "item-2-7",
-      "item-1-0",
-      "item-2-11"
+      "item-2-8",
+      "item-1-0"
     ]
   },
   "大熊雨林.md": {
@@ -407,6 +406,20 @@
       },
       "to": {
         "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Nootka Sound.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
         "ch": 0
       }
     },
