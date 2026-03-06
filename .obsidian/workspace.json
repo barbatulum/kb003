@@ -308,11 +308,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "ee386ba3667fe333",
   "lastOpenFiles": [
+    "New Text Document.txt",
+    "New folder",
     "GIS.md",
     "Broughton Archipelago.md",
     "Gemini research.md",

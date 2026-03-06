@@ -1,0 +1,21 @@
+# video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.flv
+*.wmv
+*.m4v
+
+# 360 / VR
+*.360
+*.vr
+*.thm
+*.insv
+*.prj
+*.lrv
+*.log
+
+# google drive
+*.tmp.driveupload
