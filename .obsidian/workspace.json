@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discovery Passage and Desolation Sound.md",
+                "file": "Vancouver Island Kayaing Destinations - Research.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Discovery Passage and Desolation Sound"
+              "title": "Vancouver Island Kayaing Destinations - Research"
+            }
+          },
+          {
+            "id": "b10dff22872c910a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maps.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Maps"
             }
           },
           {
@@ -200,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -409,18 +433,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "17bc709194d237f6",
+  "active": "b10dff22872c910a",
   "lastOpenFiles": [
     "Vancouver Island Kayaing Destinations - Research.md",
+    "Maps.md",
+    "Clayoquot Sound.md",
+    "8mlways2l.md",
+    "布勞頓群島.md",
+    "Barkley Sound.md",
+    "Capsized 翻船.md",
     "Discovery Passage and Desolation Sound.md",
     "Discovery Passage.md",
-    "8mlways2l.md",
     "South Gulf Islands.md",
     "Howe Sound.md",
     "Kyuquot Sound.md",
     "Haida Gwaii.md",
     "Cape Scott.md",
-    "Capsized 翻船.md",
     "大熊雨林.md",
     "Overlanding & Expedition.md",
     "Broughton Archipelago.md",

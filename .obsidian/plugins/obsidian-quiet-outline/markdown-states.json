@@ -213,19 +213,21 @@
     "expandedKeys": []
   },
   "Vancouver Island Kayaing Destinations - Research.md": {
-    "scroll": 8.319443756783505,
+    "scroll": 33.692459342821536,
     "cursor": {
       "from": {
-        "line": 15,
-        "ch": 84
+        "line": 43,
+        "ch": 0
       },
       "to": {
-        "line": 15,
-        "ch": 84
+        "line": 43,
+        "ch": 0
       }
     },
     "expandedKeys": [
-      "item-1-0"
+      "item-2-7",
+      "item-1-0",
+      "item-2-11"
     ]
   },
   "大熊雨林.md": {
@@ -350,6 +352,62 @@
       "to": {
         "line": 20,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Barkley Sound.md": {
+    "scroll": 2.2055555021321376,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 21
+      },
+      "to": {
+        "line": 4,
+        "ch": 21
+      }
+    },
+    "expandedKeys": []
+  },
+  "布勞頓群島.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 41
+      },
+      "to": {
+        "line": 0,
+        "ch": 41
+      }
+    },
+    "expandedKeys": []
+  },
+  "Clayoquot Sound.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 0
+      },
+      "to": {
+        "line": 2,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Maps.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 2
+      },
+      "to": {
+        "line": 1,
+        "ch": 2
       }
     },
     "expandedKeys": []
