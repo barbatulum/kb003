@@ -213,19 +213,18 @@
     "expandedKeys": []
   },
   "Vancouver Island Kayaing Destinations - Research.md": {
-    "scroll": 5.199999972752165,
+    "scroll": 8.319443756783505,
     "cursor": {
       "from": {
-        "line": 9,
-        "ch": 10
+        "line": 15,
+        "ch": 84
       },
       "to": {
-        "line": 9,
-        "ch": 28
+        "line": 15,
+        "ch": 84
       }
     },
     "expandedKeys": [
-      "item-2-2",
       "item-1-0"
     ]
   },
@@ -300,6 +299,48 @@
     "expandedKeys": []
   },
   "Howe Sound.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 0
+      },
+      "to": {
+        "line": 20,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "South Gulf Islands.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 9
+      }
+    },
+    "expandedKeys": []
+  },
+  "Discovery Passage.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Discovery Passage and Desolation Sound.md": {
     "scroll": 0,
     "cursor": {
       "from": {

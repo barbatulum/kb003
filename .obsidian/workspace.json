@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vancouver Island Kayaing Destinations - Research.md",
+                "file": "Discovery Passage and Desolation Sound.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vancouver Island Kayaing Destinations - Research"
+              "title": "Discovery Passage and Desolation Sound"
             }
           },
           {
@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "South Gulf Islands.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,11 +196,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "South Gulf Islands"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -409,12 +409,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ba3b08ffd6460f64",
+  "active": "17bc709194d237f6",
   "lastOpenFiles": [
-    "Untitled.md",
     "Vancouver Island Kayaing Destinations - Research.md",
-    "Howe Sound.md",
+    "Discovery Passage and Desolation Sound.md",
+    "Discovery Passage.md",
     "8mlways2l.md",
+    "South Gulf Islands.md",
+    "Howe Sound.md",
     "Kyuquot Sound.md",
     "Haida Gwaii.md",
     "Cape Scott.md",
