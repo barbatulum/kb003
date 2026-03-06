@@ -17,24 +17,15 @@ expedition kayak 通常：
     
 
 結果是：
-
 - hip snap 要更強
-    
 - paddle leverage 變差
-    
 - roll timing 變慢
     
-
 很多人在空船 roll 很穩，但 **滿載時成功率會明顯下降**。
-
 如果 roll 失敗兩次：
-
 - 已經耗氧
-    
 - 心跳升高
-    
 - 水況可能更糟
-    
 
 此時 **wet exit + rescue 反而更安全**。
 
@@ -73,19 +64,13 @@ roll 起來立刻再翻。
 **brace → avoid capsize → rescue**
 
 roll 其實代表：
-
 > brace 已經失敗。
 
 所以 expedition paddler 更重視：
-
 - low brace
-    
 - high brace
-    
 - edge control
-    
 - wave timing
-    
 
 如果這些做好，很多翻船可以避免。
 
@@ -96,26 +81,17 @@ roll 其實代表：
 如果是 **group paddling**：
 
 很多人會直接做：
-
 ### T-rescue / bow rescue
 
 流程：
-
 1. 翻船
-    
 2. 敲船底示意
-    
 3. 另一艘 kayak 靠過來
-    
 4. 用對方船頭做支點起身
-    
 
 優點：
-
 - 不用出船
-    
 - 不用 roll
-    
 - 成功率很高
     
 
@@ -127,23 +103,15 @@ roll 其實代表：
 # 5. roll 失敗會拖慢 recovery
 
 如果 paddler：
-
 - 先試 3 次 roll
-    
 - 每次 5–8 秒
-    
 
-結果：
-
+結果:
 - 已經在水下 **20 秒**
-    
 - 可能 panic
-    
 - 失去 paddle
-    
 
 這時 wet exit 再 rescue 反而更混亂。
-
 很多 expedition paddler 的策略是：
 
 > **只試一次 roll。**

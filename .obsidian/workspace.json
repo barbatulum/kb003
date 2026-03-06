@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vancouver Island Kayaing Destinations - Research.md",
+                "file": "Broughton Archipelago.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vancouver Island Kayaing Destinations - Research"
+              "title": "Broughton Archipelago"
             }
           },
           {
@@ -224,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -236,6 +236,7 @@
       {
         "id": "789605b353c464c7",
         "type": "tabs",
+        "dimension": 26.610644257703083,
         "children": [
           {
             "id": "0322c1a3e22991cf",
@@ -264,8 +265,26 @@
         "currentTab": 1
       },
       {
+        "id": "34b998d53c845e67",
+        "type": "tabs",
+        "dimension": 40.056022408963585,
+        "children": [
+          {
+            "id": "728acda0672b5a30",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          }
+        ]
+      },
+      {
         "id": "76d9ed65fdc33c8a",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "e4ef37c6720cf37f",
@@ -359,22 +378,6 @@
         ]
       },
       {
-        "id": "fdc071c5940d5f06",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "728acda0672b5a30",
-            "type": "leaf",
-            "state": {
-              "type": "quiet-outline",
-              "state": {},
-              "icon": "lines-of-text",
-              "title": "Quiet Outline"
-            }
-          }
-        ]
-      },
-      {
         "id": "58038f2bf6c310a7",
         "type": "tabs",
         "children": [
@@ -433,10 +436,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bbd3a8d83f49f1b8",
+  "active": "3d913b64b0c3ecfb",
   "lastOpenFiles": [
-    "Nootka Sound.md",
+    "Broughton Archipelago.md",
+    "Vancouver Island Kayaking Destinations.md",
     "Vancouver Island Kayaing Destinations - Research.md",
+    "Nootka Sound.md",
     "8mlways2l.md",
     "Maps.md",
     "Clayoquot Sound.md",
@@ -452,8 +457,6 @@
     "Cape Scott.md",
     "大熊雨林.md",
     "Overlanding & Expedition.md",
-    "Broughton Archipelago.md",
-    "Vancouver Island Kayaking Destinations.md",
     "Left Side Bar.md",
     "BC 海上救援.md",
     "獨木舟 Paddling Skills.md",
