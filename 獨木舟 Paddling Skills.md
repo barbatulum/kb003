@@ -1,0 +1,10 @@
+- [ACA Strokes & Maneuvers Refinement \| Eskape Kayak](http://eskapekayak.com/aca-instructor-certification-workshops/aca-strokes-maneuvers-refinement/)
+- [This video is about Downwind HD version. \| Surfski Center \| Facebook](https://fb.watch/E0tAaj0Saq/)
+- [Instagram](https://www.instagram.com/reel/DO6R8O4jecB/)
+- [Online Sea Kayaking Turning Tips: Opposite Edge Turns - YouTube](https://youtube.com/watch?v=exeP6x5AZdo&si=4ffxvFznzaMdhpwv)
+- [Online Sea Kayaking - Breaking In and Edge Control - YouTube](https://youtube.com/watch?v=RHEq2EdkKoM&si=iOQ7Vydv9Yc10L5y)
+- [How to Kayak - Intro to Edge Control - YouTube](https://youtube.com/watch?v=OrVIOUcuTVc&si=54hkwkCIfWXPEEQ7)
+- [EnviroYak: Edging a Sea Kayak When Surfing - with Illustrations](http://enviroyak.blogspot.com/2020/03/edging-sea-kayak-when-surfing-with.html#:~:text=So%2C%20edging%20the%20kayak%20on,straight%20and%20on%20the%20wave.)
+- Low brace turn
+- [[Kayak 平移技巧]]
+- Bow rudder bow draw

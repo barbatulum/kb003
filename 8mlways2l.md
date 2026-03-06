@@ -1,0 +1,13 @@
+## Posts
+- 每個地方的照片分享
+## 內容類型
+- Blog
+    - 旅遊紀錄
+    - 行程規劃
+    - kayak 技巧分析
+    - expedition  技巧分析
+    - 購物研究分析
+    - 購物使用心得
+- Share
+    - blogs
+    - videos
