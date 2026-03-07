@@ -294,9 +294,81 @@
               "icon": "lucide-file",
               "title": "Broughton Archipelago 2026"
             }
+          },
+          {
+            "id": "6ab5d0f95823e1b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "360 Photo exif metadata.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "360 Photo exif metadata"
+            }
+          },
+          {
+            "id": "d8d58578a5598309",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Breakfast Burrito.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Breakfast Burrito"
+            }
+          },
+          {
+            "id": "457b8924a519286c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Expedition.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Expedition"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -519,8 +591,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "de3aaa33b2ced661",
+  "active": "d8d58578a5598309",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260307142308.png",
+    "attachments/Pasted image 20260307142258.png",
+    "attachments/Pasted image 20260307142246.png",
+    "Car Camping Meal Recipes.md",
+    "Breakfast Burrito.md",
+    "Overlanding.md",
+    "Expedition.md",
+    "Kayak 平移技巧.md",
+    "Cape Scott.md",
+    "360 Photo exif metadata.md",
+    "attachments/exiftool(-k).exe",
+    "attachments",
     "Broughton Archipelago 2026.md",
     "Ecoflow.md",
     "大熊雨林.md",
@@ -539,14 +623,6 @@
     "Discovery Passage.md",
     "South Gulf Islands.md",
     "Howe Sound.md",
-    "Kyuquot Sound.md",
-    "Haida Gwaii.md",
-    "Cape Scott.md",
-    "Overlanding & Expedition.md",
-    "Left Side Bar.md",
-    "BC 海上救援.md",
-    "獨木舟 Paddling Skills.md",
-    "GIS.md",
     "Tags",
     "New Text Document.txt",
     "New folder"

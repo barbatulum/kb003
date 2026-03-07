@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Breakfast Burrito",
+      "path": "Breakfast Burrito.md"
+    },
+    {
+      "basename": "Car Camping Meal Recipes",
+      "path": "Car Camping Meal Recipes.md"
+    },
+    {
+      "basename": "Overlanding",
+      "path": "Overlanding.md"
+    },
+    {
+      "basename": "Expedition",
+      "path": "Expedition.md"
+    },
+    {
+      "basename": "Kayak 平移技巧",
+      "path": "Kayak 平移技巧.md"
+    },
+    {
+      "basename": "Cape Scott",
+      "path": "Cape Scott.md"
+    },
+    {
+      "basename": "360 Photo exif metadata",
+      "path": "360 Photo exif metadata.md"
+    },
+    {
       "basename": "Broughton Archipelago 2026",
       "path": "Broughton Archipelago 2026.md"
     },
@@ -81,14 +109,6 @@
       "path": "Haida Gwaii.md"
     },
     {
-      "basename": "Cape Scott",
-      "path": "Cape Scott.md"
-    },
-    {
-      "basename": "Overlanding & Expedition",
-      "path": "Overlanding & Expedition.md"
-    },
-    {
       "basename": "Left Side Bar",
       "path": "Left Side Bar.md"
     },
@@ -111,10 +131,6 @@
     {
       "basename": "Skiing",
       "path": "Skiing.md"
-    },
-    {
-      "basename": "Kayak 平移技巧",
-      "path": "Kayak 平移技巧.md"
     }
   ],
   "omittedPaths": [],
