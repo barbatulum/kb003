@@ -325,7 +325,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Breakfast Burrito.md",
+                "file": "冰桶使用技巧.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -340,7 +340,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Breakfast Burrito"
+              "title": "冰桶使用技巧"
+            }
+          },
+          {
+            "id": "72d8c88777114232",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quesadilla.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Quesadilla"
+            }
+          },
+          {
+            "id": "347e383ca70e0b28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Camp Sandwich.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Camp Sandwich"
             }
           },
           {
@@ -593,19 +641,29 @@
   },
   "active": "d8d58578a5598309",
   "lastOpenFiles": [
+    "Overlanding.md",
+    "冰桶使用技巧.md",
+    "Car Camping Meal Recipes.md",
+    "Campfire Sausage & Veggies.md",
+    "attachments/Pasted image 20260307143525.png",
+    "One-Pot Pasta.md",
+    "attachments/Pasted image 20260307143507.png",
+    "常見 Car Camping 食材清單.md",
+    "Breakfast Burrito.md",
+    "360 Photo exif metadata.md",
+    "Quesadilla.md",
+    "Camp Sandwich.md",
+    "attachments/Pasted image 20260307143121.png",
+    "attachments/Pasted image 20260307143103.png",
+    "Broughton Archipelago 2026.md",
     "attachments/Pasted image 20260307142308.png",
     "attachments/Pasted image 20260307142258.png",
     "attachments/Pasted image 20260307142246.png",
-    "Car Camping Meal Recipes.md",
-    "Breakfast Burrito.md",
-    "Overlanding.md",
     "Expedition.md",
     "Kayak 平移技巧.md",
     "Cape Scott.md",
-    "360 Photo exif metadata.md",
     "attachments/exiftool(-k).exe",
     "attachments",
-    "Broughton Archipelago 2026.md",
     "Ecoflow.md",
     "大熊雨林.md",
     "Braca Paddle Assemble.md",
@@ -618,11 +676,6 @@
     "Maps.md",
     "Clayoquot Sound.md",
     "布勞頓群島.md",
-    "Barkley Sound.md",
-    "Discovery Passage and Desolation Sound.md",
-    "Discovery Passage.md",
-    "South Gulf Islands.md",
-    "Howe Sound.md",
     "Tags",
     "New Text Document.txt",
     "New folder"
