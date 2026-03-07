@@ -19,3 +19,5 @@
 
 # google drive
 *.tmp.driveupload
+
+.obsidian/plugins/google-calendar/data.json
