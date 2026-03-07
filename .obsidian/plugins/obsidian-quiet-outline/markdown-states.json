@@ -143,12 +143,12 @@
     "scroll": 98.11596321138039,
     "cursor": {
       "from": {
-        "line": 127,
-        "ch": 0
+        "line": 111,
+        "ch": 11
       },
       "to": {
-        "line": 127,
-        "ch": 0
+        "line": 111,
+        "ch": 11
       }
     },
     "expandedKeys": [
@@ -421,6 +421,20 @@
       "to": {
         "line": 0,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Braca Paddle Assemble.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 3
+      },
+      "to": {
+        "line": 0,
+        "ch": 3
       }
     },
     "expandedKeys": []

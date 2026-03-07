@@ -152,6 +152,30 @@
             }
           },
           {
+            "id": "05ab48ef3a2ece58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Braca Paddle Assemble.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Braca Paddle Assemble"
+            }
+          },
+          {
             "id": "e9e99a37a39b36fe",
             "type": "leaf",
             "state": {
@@ -224,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -366,16 +390,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Left Side Bar.md",
+                "file": "Braca Paddle Assemble.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Left Side Bar"
+              "title": "Outline of Braca Paddle Assemble"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "58038f2bf6c310a7",
@@ -436,8 +461,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3d913b64b0c3ecfb",
+  "active": "05ab48ef3a2ece58",
   "lastOpenFiles": [
+    "Capsized 翻船.md",
+    "Braca Paddle Assemble.md",
     "Broughton Archipelago.md",
     "Vancouver Island Kayaking Destinations.md",
     "Vancouver Island Kayaing Destinations - Research.md",
@@ -447,7 +474,6 @@
     "Clayoquot Sound.md",
     "布勞頓群島.md",
     "Barkley Sound.md",
-    "Capsized 翻船.md",
     "Discovery Passage and Desolation Sound.md",
     "Discovery Passage.md",
     "South Gulf Islands.md",
@@ -465,7 +491,6 @@
     "New Text Document.txt",
     "New folder",
     "Skin on frame.md",
-    "Skiing.md",
-    "Kayak 平移技巧.md"
+    "Skiing.md"
   ]
 }
