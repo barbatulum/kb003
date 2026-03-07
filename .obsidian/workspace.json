@@ -176,6 +176,30 @@
             }
           },
           {
+            "id": "463a7958f3210ca4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecoflow.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ecoflow"
+            }
+          },
+          {
             "id": "e9e99a37a39b36fe",
             "type": "leaf",
             "state": {
@@ -246,9 +270,33 @@
               "icon": "lucide-file",
               "title": "South Gulf Islands"
             }
+          },
+          {
+            "id": "de3aaa33b2ced661",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Broughton Archipelago 2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Broughton Archipelago 2026"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -390,17 +438,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Braca Paddle Assemble.md",
+                "file": "Broughton Archipelago 2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Braca Paddle Assemble"
+              "title": "Outline of Broughton Archipelago 2026"
+            }
+          },
+          {
+            "id": "0ed014eb64324c44",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-month",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "GCal Month View"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "58038f2bf6c310a7",
@@ -461,10 +519,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "05ab48ef3a2ece58",
+  "active": "de3aaa33b2ced661",
   "lastOpenFiles": [
-    "Capsized 翻船.md",
+    "Broughton Archipelago 2026.md",
+    "Ecoflow.md",
+    "大熊雨林.md",
     "Braca Paddle Assemble.md",
+    "Capsized 翻船.md",
     "Broughton Archipelago.md",
     "Vancouver Island Kayaking Destinations.md",
     "Vancouver Island Kayaing Destinations - Research.md",
@@ -481,7 +542,6 @@
     "Kyuquot Sound.md",
     "Haida Gwaii.md",
     "Cape Scott.md",
-    "大熊雨林.md",
     "Overlanding & Expedition.md",
     "Left Side Bar.md",
     "BC 海上救援.md",
@@ -489,8 +549,6 @@
     "GIS.md",
     "Tags",
     "New Text Document.txt",
-    "New folder",
-    "Skin on frame.md",
-    "Skiing.md"
+    "New folder"
   ]
 }

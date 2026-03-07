@@ -429,12 +429,40 @@
     "scroll": 0,
     "cursor": {
       "from": {
+        "line": 7,
+        "ch": 12
+      },
+      "to": {
+        "line": 7,
+        "ch": 12
+      }
+    },
+    "expandedKeys": []
+  },
+  "Ecoflow.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
         "line": 0,
-        "ch": 6
+        "ch": 7
       },
       "to": {
         "line": 0,
-        "ch": 6
+        "ch": 7
+      }
+    },
+    "expandedKeys": []
+  },
+  "Broughton Archipelago 2026.md": {
+    "scroll": 1.5573333740234374,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
       }
     },
     "expandedKeys": []
