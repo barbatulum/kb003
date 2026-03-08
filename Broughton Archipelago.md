@@ -14,3 +14,4 @@ Launching
 - Telegraph Cove
 - Alder Bay
 - Port McNeil
+鄰近紮營點

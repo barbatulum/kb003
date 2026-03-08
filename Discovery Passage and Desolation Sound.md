@@ -1,7 +1,8 @@
 潮汐能量與溫暖海域的交匯
 
-這一海域系統由探索通道（Discovery Passage）、探索群島（Discovery Islands）以及Desolation Sound 組成，其特徵是極端的水流動能與北太平洋最溫暖的海水（夏季可達 $20^\circ\text{C}$）之共存 。
 
+這一海域系統由探索通道（Discovery Passage）、探索群島（Discovery Islands）以及Desolation Sound 組成，其特徵是極端的水流動能與北太平洋最溫暖的海水（夏季可達 $20^\circ\text{C}$）之共存 。
+### 鄰近紮營點
 ### 潮汐 rapids 與Desolation Sound的核心目的地
 
 探索通道內的Seymour Narrow（Seymour Narrows）是全球著名的航行險區，電流速度可達 16 節，足以傾覆商業漁船 。然而，對於裝備精良的玩家，夸德拉島（Quadra Island）周邊的湧流狹道（Surge Narrows）與奧基索洛（Okisollo）急流提供了世界級的潮汐浪衝浪機會 。奧基索洛波（Okisollo Wave）在漲潮時形成寬達 16 米的立浪，是測試皮划艇控制力的極限場地 。

@@ -38,9 +38,6 @@
 ## [[Haida Gwaii]]與[[大熊雨林]]：文化與荒野的巔峰
 
 海達瓜依（Haida Gwaii）與大熊雨林（Great Bear Rainforest）代表了 BC 海岸最偏遠且最具生態價值的區域。
-
-[[Haida Gwaii]]
-[[大熊雨林]]
     
     
 
