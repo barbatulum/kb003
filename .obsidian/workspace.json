@@ -344,6 +344,54 @@
             }
           },
           {
+            "id": "f183ea41bde59eea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Braca 新槳組裝.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Braca 新槳組裝"
+            }
+          },
+          {
+            "id": "a08ca37d965afdb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wing 槳長度.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Wing 槳長度"
+            }
+          },
+          {
             "id": "72d8c88777114232",
             "type": "leaf",
             "state": {
@@ -416,7 +464,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -639,10 +687,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d8d58578a5598309",
+  "active": "f183ea41bde59eea",
   "lastOpenFiles": [
-    "Overlanding.md",
+    "attachments/Pasted image 20260308092659.png",
+    "attachments/Pasted image 20260308092635.png",
+    "attachments/Pasted image 20260308092552.png",
+    "attachments/Pasted image 20260308092328.png",
+    "attachments/Pasted image 20260308092138.png",
+    "attachments/Pasted image 20260308092054.png",
+    "attachments/Pasted image 20260308092032.png",
+    "Wing 槳長度.md",
+    "Braca 新槳組裝.md",
+    "Quesadilla.md",
     "冰桶使用技巧.md",
+    "Expedition.md",
+    "Overlanding.md",
     "Car Camping Meal Recipes.md",
     "Campfire Sausage & Veggies.md",
     "attachments/Pasted image 20260307143525.png",
@@ -651,15 +710,10 @@
     "常見 Car Camping 食材清單.md",
     "Breakfast Burrito.md",
     "360 Photo exif metadata.md",
-    "Quesadilla.md",
     "Camp Sandwich.md",
     "attachments/Pasted image 20260307143121.png",
     "attachments/Pasted image 20260307143103.png",
     "Broughton Archipelago 2026.md",
-    "attachments/Pasted image 20260307142308.png",
-    "attachments/Pasted image 20260307142258.png",
-    "attachments/Pasted image 20260307142246.png",
-    "Expedition.md",
     "Kayak 平移技巧.md",
     "Cape Scott.md",
     "attachments/exiftool(-k).exe",
@@ -673,9 +727,6 @@
     "Vancouver Island Kayaing Destinations - Research.md",
     "Nootka Sound.md",
     "8mlways2l.md",
-    "Maps.md",
-    "Clayoquot Sound.md",
-    "布勞頓群島.md",
     "Tags",
     "New Text Document.txt",
     "New folder"
