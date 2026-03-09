@@ -373,7 +373,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Expedition.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -388,7 +388,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Expedition"
             }
           },
           {
@@ -469,7 +469,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expedition.md",
+                "file": "Useful Links.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Useful Links"
+            }
+          },
+          {
+            "id": "ed5a46f1419622f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Camping Drill I.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -484,11 +508,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Expedition"
+              "title": "Camping Drill I"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -711,11 +735,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "08cc4c465eff1541",
+  "active": "ed5a46f1419622f8",
   "lastOpenFiles": [
-    "Braca 新槳組裝.md",
-    "Untitled.md",
+    "Camping Drill I.md",
+    "Useful Links.md",
     "Expedition.md",
+    "Camp Sandwich.md",
+    "Quesadilla.md",
+    "Wing 槳長度.md",
+    "Overlanding.md",
+    "Braca 新槳組裝.md",
     "Vancouver Island Kayaing Destinations - Research.md",
     "Haida Gwaii.md",
     "大熊雨林.md",
@@ -740,15 +769,10 @@
     "attachments/Pasted image 20260308092902.png",
     "attachments/Pasted image 20260308092831.png",
     "attachments/Pasted image 20260308092802.png",
-    "Wing 槳長度.md",
-    "Quesadilla.md",
-    "Overlanding.md",
     "Car Camping Meal Recipes.md",
     "Campfire Sausage & Veggies.md",
     "One-Pot Pasta.md",
     "常見 Car Camping 食材清單.md",
-    "Breakfast Burrito.md",
-    "360 Photo exif metadata.md",
     "attachments/exiftool(-k).exe",
     "attachments",
     "Tags",

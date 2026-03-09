@@ -484,12 +484,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 3,
-        "ch": 30
+        "line": 7,
+        "ch": 18
       },
       "to": {
-        "line": 3,
-        "ch": 30
+        "line": 7,
+        "ch": 18
       }
     },
     "expandedKeys": []
@@ -498,12 +498,12 @@
     "scroll": 0.0052083335273588665,
     "cursor": {
       "from": {
-        "line": 2,
-        "ch": 12
+        "line": 0,
+        "ch": 18
       },
       "to": {
-        "line": 2,
-        "ch": 12
+        "line": 0,
+        "ch": 18
       }
     },
     "expandedKeys": []
@@ -659,6 +659,34 @@
       },
       "to": {
         "line": 1,
+        "ch": 5
+      }
+    },
+    "expandedKeys": []
+  },
+  "Useful Links.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 55
+      },
+      "to": {
+        "line": 0,
+        "ch": 55
+      }
+    },
+    "expandedKeys": []
+  },
+  "Camping Drill I.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 5
+      },
+      "to": {
+        "line": 6,
         "ch": 5
       }
     },
