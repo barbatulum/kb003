@@ -517,7 +517,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8mlways2l.md",
+                "file": "Useful Links.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -532,11 +532,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "8mlways2l"
+              "title": "Useful Links"
+            }
+          },
+          {
+            "id": "5ac1f0ece3d6dfb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overlanding Apps.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Overlanding Apps"
+            }
+          },
+          {
+            "id": "5470ead684e3d913",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "適合營火的木頭.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "適合營火的木頭"
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -759,11 +807,25 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2f644e66b8347440",
+  "active": "5470ead684e3d913",
   "lastOpenFiles": [
+    "attachments/campfire-fir-spruce.png",
+    "attachments/campfire-Maple.png",
+    "attachments/campfire-Pine.png",
+    "attachments/campfire-Birch.png",
+    "attachments/campfire-Oak.png",
+    "attachments/Pasted image 20260309145443.png",
+    "attachments/Pasted image 20260309145038.png",
+    "attachments/Pasted image 20260309144905.png",
+    "attachments/Pasted image 20260309144646.png",
+    "attachments/Pasted image 20260309144614.png",
+    "attachments/Pasted image 20260309144547.png",
+    "Overlanding Apps.md",
+    "適合營火的木頭.md",
+    "Useful Links.md",
+    "8mlways2l.md",
     "Types of BC Camping Spots.md",
     "Camping Drill I.md",
-    "Useful Links.md",
     "Expedition.md",
     "Camp Sandwich.md",
     "Quesadilla.md",
@@ -783,20 +845,6 @@
     "South Gulf Islands.md",
     "冰桶使用技巧.md",
     "Howe Sound.md",
-    "Broughton Archipelago.md",
-    "attachments/Pasted image 20260308093835.png",
-    "attachments/Pasted image 20260308093735.png",
-    "attachments/Pasted image 20260308093420.png",
-    "attachments/Pasted image 20260308093350.png",
-    "attachments/Pasted image 20260308093306.png",
-    "attachments/Pasted image 20260308093205.png",
-    "attachments/Pasted image 20260308092905.png",
-    "attachments/Pasted image 20260308092902.png",
-    "attachments/Pasted image 20260308092831.png",
-    "attachments/Pasted image 20260308092802.png",
-    "Car Camping Meal Recipes.md",
-    "Campfire Sausage & Veggies.md",
-    "One-Pot Pasta.md",
     "attachments/exiftool(-k).exe",
     "attachments",
     "Tags",

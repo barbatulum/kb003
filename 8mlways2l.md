@@ -9,7 +9,7 @@
 - Journal
     - 去過的rec site
 	    - Twin One Creek
-	    - 
+	    - Cinnamon Recreation Site
     - 旅遊紀錄
 - Share
     - blogs
