@@ -510,9 +510,33 @@
               "icon": "lucide-file",
               "title": "Camping Drill I"
             }
+          },
+          {
+            "id": "2f644e66b8347440",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campspots.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Campspots"
+            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -735,9 +759,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ed5a46f1419622f8",
+  "active": "2f644e66b8347440",
   "lastOpenFiles": [
     "Camping Drill I.md",
+    "Campspots.md",
     "Useful Links.md",
     "Expedition.md",
     "Camp Sandwich.md",
@@ -772,7 +797,6 @@
     "Car Camping Meal Recipes.md",
     "Campfire Sausage & Veggies.md",
     "One-Pot Pasta.md",
-    "常見 Car Camping 食材清單.md",
     "attachments/exiftool(-k).exe",
     "attachments",
     "Tags",
