@@ -517,8 +517,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campspots.md",
-                "mode": "source",
+                "file": "Types of BC Camping Spots.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -532,7 +532,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Campspots"
+              "title": "Types of BC Camping Spots"
             }
           }
         ],
@@ -762,7 +762,7 @@
   "active": "2f644e66b8347440",
   "lastOpenFiles": [
     "Camping Drill I.md",
-    "Campspots.md",
+    "Types of BC Camping Spots.md",
     "Useful Links.md",
     "Expedition.md",
     "Camp Sandwich.md",

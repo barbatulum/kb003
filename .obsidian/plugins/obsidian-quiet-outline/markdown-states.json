@@ -705,5 +705,37 @@
       }
     },
     "expandedKeys": []
+  },
+  "Camping Spots.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-2-0"
+    ]
+  },
+  "BC Camping Spots.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 40
+      },
+      "to": {
+        "line": 12,
+        "ch": 40
+      }
+    },
+    "expandedKeys": [
+      "item-2-0"
+    ]
   }
 }
