@@ -368,6 +368,30 @@
             }
           },
           {
+            "id": "08cc4c465eff1541",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "a08ca37d965afdb6",
             "type": "leaf",
             "state": {
@@ -464,7 +488,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -687,8 +711,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f183ea41bde59eea",
+  "active": "08cc4c465eff1541",
   "lastOpenFiles": [
+    "Braca 新槳組裝.md",
+    "Untitled.md",
     "Expedition.md",
     "Vancouver Island Kayaing Destinations - Research.md",
     "Haida Gwaii.md",
@@ -704,7 +730,6 @@
     "冰桶使用技巧.md",
     "Howe Sound.md",
     "Broughton Archipelago.md",
-    "Braca 新槳組裝.md",
     "attachments/Pasted image 20260308093835.png",
     "attachments/Pasted image 20260308093735.png",
     "attachments/Pasted image 20260308093420.png",
@@ -724,7 +749,6 @@
     "常見 Car Camping 食材清單.md",
     "Breakfast Burrito.md",
     "360 Photo exif metadata.md",
-    "Camp Sandwich.md",
     "attachments/exiftool(-k).exe",
     "attachments",
     "Tags",
