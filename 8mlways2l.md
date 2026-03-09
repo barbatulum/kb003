@@ -5,12 +5,13 @@
     - expedition  技巧分析
     - 購物研究分析
     - 裝備使用心得
-    - 
-- Journal
-    - 去過的rec site
-	    - Twin One Creek
-	    - Cinnamon Recreation Site
+    - Journal
     - 旅遊紀錄
 - Share
     - blogs
     - videos
+---
+- 去過的rec site
+	- Twin One Creek
+	- Cinnamon Recreation Site
+- Crownland找土地技巧

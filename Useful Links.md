@@ -1,3 +1,0 @@
-- [Sites and Trails BC](https://www.sitesandtrailsbc.ca/)
-- [Service Road Atlas](https://backroadstatus.com/?view=50.387070/-127.097397/10)
-- [Alberta Fire Bans](https://albertafirebans.ca/)

@@ -469,7 +469,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful Links.md",
+                "file": "Overlanding Useful Links.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -484,7 +484,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Useful Links"
+              "title": "Overlanding Useful Links"
             }
           },
           {
@@ -517,7 +517,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful Links.md",
+                "file": "Overlanding Useful Links.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -532,7 +532,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Useful Links"
+              "title": "Overlanding Useful Links"
             }
           },
           {
@@ -565,7 +565,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "適合營火的木頭.md",
+                "file": "Overlanding Apps.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -580,7 +580,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "適合營火的木頭"
+              "title": "Overlanding Apps"
             }
           }
         ],
@@ -809,28 +809,27 @@
   },
   "active": "5470ead684e3d913",
   "lastOpenFiles": [
-    "attachments/campfire-fir-spruce.png",
-    "attachments/campfire-Maple.png",
-    "attachments/campfire-Pine.png",
-    "attachments/campfire-Birch.png",
-    "attachments/campfire-Oak.png",
-    "attachments/Pasted image 20260309145443.png",
-    "attachments/Pasted image 20260309145038.png",
-    "attachments/Pasted image 20260309144905.png",
-    "attachments/Pasted image 20260309144646.png",
-    "attachments/Pasted image 20260309144614.png",
-    "attachments/Pasted image 20260309144547.png",
-    "Overlanding Apps.md",
-    "適合營火的木頭.md",
-    "Useful Links.md",
     "8mlways2l.md",
+    "Overlanding Useful Links.md",
+    "Overlanding.md",
+    "適合營火的木頭.md",
+    "attachments/campfire-fir.png",
+    "attachments/Pasted image 20260309151601.png",
+    "attachments/campfire-fir.png.png",
+    "attachments/Pasted image 20260309151456.png",
+    "attachments/campfire-spruce.png",
+    "attachments/campfire-spruce.png.png",
+    "attachments/campfire-spurce.png",
+    "attachments/Pasted image 20260309151343.png",
+    "attachments/Pasted image 20260309151331.png",
+    "attachments/Pasted image 20260309151237.png",
+    "Overlanding Apps.md",
     "Types of BC Camping Spots.md",
     "Camping Drill I.md",
     "Expedition.md",
     "Camp Sandwich.md",
     "Quesadilla.md",
     "Wing 槳長度.md",
-    "Overlanding.md",
     "Braca 新槳組裝.md",
     "Vancouver Island Kayaing Destinations - Research.md",
     "Haida Gwaii.md",
