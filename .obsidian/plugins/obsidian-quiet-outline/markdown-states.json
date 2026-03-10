@@ -160,12 +160,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 16,
-        "ch": 16
+        "line": 20,
+        "ch": 2
       },
       "to": {
-        "line": 16,
-        "ch": 16
+        "line": 20,
+        "ch": 2
       }
     },
     "expandedKeys": []
@@ -753,14 +753,14 @@
     "expandedKeys": []
   },
   "適合營火的木頭.md": {
-    "scroll": 8.406746019431644,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 25,
+        "line": 10,
         "ch": 0
       },
       "to": {
-        "line": 25,
+        "line": 10,
         "ch": 0
       }
     },
@@ -784,12 +784,12 @@
     "scroll": 0.009481481975979275,
     "cursor": {
       "from": {
-        "line": 6,
-        "ch": 34
+        "line": 8,
+        "ch": 3
       },
       "to": {
-        "line": 6,
-        "ch": 34
+        "line": 8,
+        "ch": 0
       }
     },
     "expandedKeys": [

@@ -541,7 +541,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overlanding Apps.md",
+                "file": "適合營火的木頭.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -556,35 +556,24 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Overlanding Apps"
+              "title": "適合營火的木頭"
             }
           },
           {
             "id": "5470ead684e3d913",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Types of BC Camping Spots.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Types of BC Camping Spots"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -807,13 +796,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5470ead684e3d913",
+  "active": "5ac1f0ece3d6dfb4",
   "lastOpenFiles": [
-    "Overlanding Useful Links.md",
     "8mlways2l.md",
-    "Overlanding Apps.md",
-    "Overlanding.md",
     "適合營火的木頭.md",
+    "冰桶使用技巧.md",
+    "Untitled.base",
+    "Overlanding Apps.md",
+    "Types of BC Camping Spots.md",
+    "Overlanding Useful Links.md",
+    "Overlanding.md",
     "attachments/campfire-fir.png",
     "attachments/Pasted image 20260309151601.png",
     "attachments/campfire-fir.png.png",
@@ -824,7 +816,6 @@
     "attachments/Pasted image 20260309151343.png",
     "attachments/Pasted image 20260309151331.png",
     "attachments/Pasted image 20260309151237.png",
-    "Types of BC Camping Spots.md",
     "Camping Drill I.md",
     "Expedition.md",
     "Camp Sandwich.md",
@@ -842,7 +833,6 @@
     "布勞頓群島.md",
     "Discovery Passage and Desolation Sound.md",
     "South Gulf Islands.md",
-    "冰桶使用技巧.md",
     "Howe Sound.md",
     "attachments/exiftool(-k).exe",
     "attachments",
