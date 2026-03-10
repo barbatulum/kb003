@@ -485,11 +485,11 @@
     "cursor": {
       "from": {
         "line": 8,
-        "ch": 0
+        "ch": 22
       },
       "to": {
         "line": 8,
-        "ch": 0
+        "ch": 22
       }
     },
     "expandedKeys": []
@@ -779,5 +779,21 @@
       }
     },
     "expandedKeys": []
+  },
+  "Types of BC Camping Spots.md": {
+    "scroll": 0.009481481975979275,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 34
+      },
+      "to": {
+        "line": 6,
+        "ch": 34
+      }
+    },
+    "expandedKeys": [
+      "item-2-0"
+    ]
   }
 }

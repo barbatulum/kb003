@@ -2,9 +2,9 @@
 tags:
   - Published
 ---
-## BC 露營有三種不同系統
+## BC Public Camping
 
-在 British Columbia，露營地大致可以分成三種類型：  **Provincial Park Campgrounds、Recreation Sites（Rec Sites），以及 Crown Land camping。**
+在 British Columbia，Public Camping 露營地大致可以分成三種類型：  **Provincial Park Campgrounds、Recreation Sites（Rec Sites），以及 Crown Land camping。**
 
 ---
 
