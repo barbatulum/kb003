@@ -11,12 +11,4 @@
     - blogs
     - videos
 ---
-# Posts
-- 去過的rec site
-	- Twin One Creek
-	- Cinnamon Recreation Site
-- Crownland 找土地技巧
-
-# Editing
-- 新增campfire 木材來源 (本地,拾取等等)
-
+![[Blog Post Status.base]]

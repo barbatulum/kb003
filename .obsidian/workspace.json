@@ -565,7 +565,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Types of BC Camping Spots.md",
+                "file": "8mlways2l.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -580,20 +580,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Types of BC Camping Spots"
+              "title": "8mlways2l"
+            }
+          },
+          {
+            "id": "9a205fd22c478d26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8mlways2l.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "8mlways2l"
             }
           },
           {
             "id": "c992fd2c2a31afed",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Blog Post Status.base",
-                "viewName": "Table"
+                "file": "划船健身.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Blog Post Status"
+              "icon": "lucide-file",
+              "title": "划船健身"
             }
           },
           {
@@ -618,6 +653,30 @@
               },
               "icon": "lucide-file",
               "title": "划船健身"
+            }
+          },
+          {
+            "id": "007a21a68b1c3e0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cinnamon Recreation Site.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cinnamon Recreation Site"
             }
           }
         ],
@@ -844,14 +903,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f0477e2e55d3f2e1",
+  "active": "c992fd2c2a31afed",
   "lastOpenFiles": [
     "Expedition.md",
-    "划船健身.md",
-    "Blog Post Status.base",
-    "Crownland 找 camping spots 技巧.md",
-    "Types of BC Camping Spots.md",
     "8mlways2l.md",
+    "Blog Post Status.base",
+    "Cinnamon Recreation Site.md",
+    "Twin One Creek.md",
+    "Types of BC Camping Spots.md",
+    "划船健身.md",
+    "Crownland 找 camping spots 技巧.md",
     "適合營火的木頭.md",
     "冰桶使用技巧.md",
     "Overlanding Apps.md",
@@ -880,8 +941,6 @@
     "Nootka Sound.md",
     "Clayoquot Sound.md",
     "Barkley Sound.md",
-    "布勞頓群島.md",
-    "Discovery Passage and Desolation Sound.md",
     "attachments/exiftool(-k).exe",
     "attachments",
     "Tags",
