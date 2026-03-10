@@ -563,17 +563,65 @@
             "id": "5470ead684e3d913",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Types of BC Camping Spots.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Types of BC Camping Spots"
+            }
+          },
+          {
+            "id": "c992fd2c2a31afed",
+            "type": "leaf",
+            "state": {
               "type": "bases",
               "state": {
-                "file": "Untitled.base",
+                "file": "Blog Post Status.base",
                 "viewName": "Table"
               },
               "icon": "lucide-table",
-              "title": "Untitled"
+              "title": "Blog Post Status"
+            }
+          },
+          {
+            "id": "f0477e2e55d3f2e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "划船健身.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "划船健身"
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -796,14 +844,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5ac1f0ece3d6dfb4",
+  "active": "f0477e2e55d3f2e1",
   "lastOpenFiles": [
+    "Expedition.md",
+    "划船健身.md",
+    "Blog Post Status.base",
+    "Crownland 找 camping spots 技巧.md",
+    "Types of BC Camping Spots.md",
     "8mlways2l.md",
     "適合營火的木頭.md",
     "冰桶使用技巧.md",
-    "Untitled.base",
     "Overlanding Apps.md",
-    "Types of BC Camping Spots.md",
     "Overlanding Useful Links.md",
     "Overlanding.md",
     "attachments/campfire-fir.png",
@@ -817,7 +868,6 @@
     "attachments/Pasted image 20260309151331.png",
     "attachments/Pasted image 20260309151237.png",
     "Camping Drill I.md",
-    "Expedition.md",
     "Camp Sandwich.md",
     "Quesadilla.md",
     "Wing 槳長度.md",
@@ -832,8 +882,6 @@
     "Barkley Sound.md",
     "布勞頓群島.md",
     "Discovery Passage and Desolation Sound.md",
-    "South Gulf Islands.md",
-    "Howe Sound.md",
     "attachments/exiftool(-k).exe",
     "attachments",
     "Tags",

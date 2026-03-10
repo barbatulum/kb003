@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - note["Publish Status"].containsAny("Published", "Refining", "Draft")
+    order:
+      - file.name
+      - Publish Status
+      - tags
+    sort:
+      - property: Publish Status
+        direction: ASC

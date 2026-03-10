@@ -1,6 +1,6 @@
 ---
 tags:
-  - Published
+Publish Status: Published
 ---
 ## BC Public Camping
 
