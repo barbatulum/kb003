@@ -661,7 +661,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overlanding.md",
+                "file": "Lakes Trips 2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -676,7 +676,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Overlanding"
+              "title": "Lakes Trips 2026"
             }
           },
           {
@@ -897,7 +897,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overlanding.md",
+                "file": "Lakes Trips 2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -907,7 +907,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Overlanding"
+              "title": "Backlinks for Lakes Trips 2026"
             }
           }
         ]
@@ -932,11 +932,15 @@
   },
   "active": "4536a1bf56b1d3d6",
   "lastOpenFiles": [
-    "Skiing.md",
+    "Trips.md",
+    "Lakes Trips 2026.md",
+    "Clearwater and Azure Lake.md",
+    "內陸湖泊和河流.md",
+    "Kayak Expedition.md",
     "Overlanding.md",
+    "Skiing.md",
     "8mlways2l.md",
     "GIS.md",
-    "Kayak Expedition.md",
     "獨木舟 Paddling Skills.md",
     "常見 Car Camping 食材清單.md",
     "布勞頓群島.md",
@@ -948,16 +952,12 @@
     "Vancouver Island Kayaking Destinations.md",
     "Types of BC Camping Spots.md",
     "Twin One Creek.md",
-    "Trips.md",
     "South Gulf Islands.md",
     "Skin on frame.md",
     "Overlanding Useful Links.md",
     "Overlanding Apps.md",
     "One-Pot Pasta.md",
     "Nootka Sound.md",
-    "Media.md",
-    "Kyuquot Sound.md",
-    "Kayak 平移技巧.md",
     "Blog Post Status.base",
     "attachments/campfire-fir.png",
     "attachments/Pasted image 20260309151601.png",
