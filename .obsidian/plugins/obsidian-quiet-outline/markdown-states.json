@@ -973,12 +973,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 0
+        "line": 2,
+        "ch": 15
       },
       "to": {
-        "line": 0,
-        "ch": 0
+        "line": 2,
+        "ch": 15
       }
     },
     "expandedKeys": [
@@ -989,14 +989,17 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 1,
-        "ch": 5
+        "line": 8,
+        "ch": 0
       },
       "to": {
-        "line": 1,
-        "ch": 5
+        "line": 8,
+        "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-2-0",
+      "item-3-1"
+    ]
   }
 }

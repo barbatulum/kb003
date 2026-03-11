@@ -680,12 +680,12 @@
             }
           },
           {
-            "id": "007a21a68b1c3e0e",
+            "id": "deddf5a7ec9921cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cinnamon Recreation Site.md",
+                "file": "Clearwater and Azure Lake.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -700,11 +700,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cinnamon Recreation Site"
+              "title": "Clearwater and Azure Lake"
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -897,7 +897,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lakes Trips 2026.md",
+                "file": "Clearwater and Azure Lake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -907,7 +907,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lakes Trips 2026"
+              "title": "Backlinks for Clearwater and Azure Lake"
             }
           }
         ]
@@ -930,16 +930,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4536a1bf56b1d3d6",
+  "active": "deddf5a7ec9921cf",
   "lastOpenFiles": [
-    "Trips.md",
+    "attachments/wells_gray_clearwater_azure_marine_map_f0ac0fd443.pdf",
     "Lakes Trips 2026.md",
     "Clearwater and Azure Lake.md",
+    "Capsized 翻船.md",
+    "8mlways2l.md",
+    "Trips.md",
+    "Cinnamon Recreation Site.md",
     "內陸湖泊和河流.md",
     "Kayak Expedition.md",
     "Overlanding.md",
     "Skiing.md",
-    "8mlways2l.md",
     "GIS.md",
     "獨木舟 Paddling Skills.md",
     "常見 Car Camping 食材清單.md",
@@ -955,9 +958,6 @@
     "South Gulf Islands.md",
     "Skin on frame.md",
     "Overlanding Useful Links.md",
-    "Overlanding Apps.md",
-    "One-Pot Pasta.md",
-    "Nootka Sound.md",
     "Blog Post Status.base",
     "attachments/campfire-fir.png",
     "attachments/Pasted image 20260309151601.png",

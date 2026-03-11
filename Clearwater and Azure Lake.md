@@ -1,4 +1,5 @@
 ### Campgrounds
+![[wells_gray_clearwater_azure_marine_map_f0ac0fd443.pdf]]
 #### Azure Lake
 - [Rainbow Falls](https://maps.app.goo.gl/A5XLRxJSejozAont6)
 - [Four & a Half Mile](https://maps.app.goo.gl/ZP8eLSgxmuUvVZCz9)
@@ -7,6 +8,7 @@
 
 #### Clearwater Lake
 - [Barella Creek](https://maps.app.goo.gl/kF83MXLHjtSssNq67)
+- [Huntley View](https://maps.app.goo.gl/UVnwSMP9sLx3YUZq6)
 - [Huckleberry](https://maps.app.goo.gl/A6kBuYqr7zYXT2847)
 - [Ivory Creek](https://maps.app.goo.gl/euXnoFhG2RXqFige8)
 - [Bar View](https://maps.app.goo.gl/V1SJybynKY1hJbyf7)
