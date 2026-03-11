@@ -974,11 +974,11 @@
     "cursor": {
       "from": {
         "line": 2,
-        "ch": 15
+        "ch": 0
       },
       "to": {
         "line": 2,
-        "ch": 15
+        "ch": 0
       }
     },
     "expandedKeys": [
@@ -989,12 +989,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 8,
-        "ch": 0
+        "line": 9,
+        "ch": 5
       },
       "to": {
-        "line": 8,
-        "ch": 0
+        "line": 9,
+        "ch": 5
       }
     },
     "expandedKeys": [
