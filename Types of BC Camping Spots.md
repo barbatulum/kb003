@@ -1,6 +1,7 @@
 ---
 tags:
 Publish Status: Published
+Publish Link: https://8mways2.live/types-of-bc-camping-spots/
 ---
 ## BC Public Camping
 

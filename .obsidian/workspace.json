@@ -613,7 +613,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "划船健身.md",
+                "file": "Broughton Archipelago.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -628,31 +628,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "划船健身"
-            }
-          },
-          {
-            "id": "f0477e2e55d3f2e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "划船健身.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "划船健身"
+              "title": "Broughton Archipelago"
             }
           },
           {
@@ -765,6 +741,7 @@
       {
         "id": "540313f6f8b79ae2",
         "type": "tabs",
+        "dimension": 30.45822102425876,
         "children": [
           {
             "id": "bbd3a8d83f49f1b8",
@@ -784,36 +761,17 @@
             }
           },
           {
-            "id": "a70f59ec1ac60868",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Left Side Bar.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Left Side Bar"
-            }
-          },
-          {
             "id": "65609faa728a65b8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Left Side Bar.md",
+                "file": "Broughton Archipelago.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Left Side Bar"
+              "title": "Outgoing links from Broughton Archipelago"
             }
           },
           {
@@ -842,11 +800,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "58038f2bf6c310a7",
         "type": "tabs",
+        "dimension": 20.485175202156334,
         "children": [
           {
             "id": "db01e74bac449b0a",
@@ -861,13 +820,7 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          }
-        ]
-      },
-      {
-        "id": "5866f030cddbff4e",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "5db50181eda566f7",
             "type": "leaf",
@@ -881,6 +834,32 @@
               },
               "icon": "lucide-tags",
               "title": "Tags"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c8ed7c7696d83b6a",
+        "type": "tabs",
+        "dimension": 49.056603773584904,
+        "children": [
+          {
+            "id": "e4d31058fcaad646",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Broughton Archipelago.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Broughton Archipelago"
             }
           }
         ]
@@ -906,17 +885,23 @@
   "active": "c992fd2c2a31afed",
   "lastOpenFiles": [
     "Expedition.md",
+    "Vancouver Island Kayaing Destinations - Research.md",
+    "Wing 槳長度.md",
+    "Braca 新槳組裝.md",
+    "划船地點.md",
     "8mlways2l.md",
+    "Broughton Archipelago.md",
     "Blog Post Status.base",
+    "Types of BC Camping Spots.md",
+    "適合營火的木頭.md",
+    "Overlanding Useful Links.md",
+    "野生動物預防.md",
+    "划船健身.md",
     "Cinnamon Recreation Site.md",
     "Twin One Creek.md",
-    "Types of BC Camping Spots.md",
-    "划船健身.md",
     "Crownland 找 camping spots 技巧.md",
-    "適合營火的木頭.md",
     "冰桶使用技巧.md",
     "Overlanding Apps.md",
-    "Overlanding Useful Links.md",
     "Overlanding.md",
     "attachments/campfire-fir.png",
     "attachments/Pasted image 20260309151601.png",
@@ -931,16 +916,11 @@
     "Camping Drill I.md",
     "Camp Sandwich.md",
     "Quesadilla.md",
-    "Wing 槳長度.md",
-    "Braca 新槳組裝.md",
-    "Vancouver Island Kayaing Destinations - Research.md",
     "Haida Gwaii.md",
     "大熊雨林.md",
     "Cape Scott.md",
     "Kyuquot Sound.md",
     "Nootka Sound.md",
-    "Clayoquot Sound.md",
-    "Barkley Sound.md",
     "attachments/exiftool(-k).exe",
     "attachments",
     "Tags",
