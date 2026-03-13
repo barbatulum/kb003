@@ -685,7 +685,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clearwater and Azure Lake.md",
+                "file": "Lakes Trips 2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -700,7 +700,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Clearwater and Azure Lake"
+              "title": "Lakes Trips 2026"
             }
           }
         ],
@@ -897,7 +897,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clearwater and Azure Lake.md",
+                "file": "Lakes Trips 2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -907,7 +907,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Clearwater and Azure Lake"
+              "title": "Backlinks for Lakes Trips 2026"
             }
           }
         ]
@@ -932,8 +932,8 @@
   },
   "active": "deddf5a7ec9921cf",
   "lastOpenFiles": [
-    "Lakes Trips 2026.md",
     "Clearwater and Azure Lake.md",
+    "Lakes Trips 2026.md",
     "attachments/wells_gray_clearwater_azure_marine_map_f0ac0fd443.pdf",
     "Capsized 翻船.md",
     "8mlways2l.md",
