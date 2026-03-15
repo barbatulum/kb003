@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Vue Note",
+      "path": "Vue Note.md"
+    },
+    {
       "basename": "8mlways2l",
       "path": "8mlways2l.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Blog Post Status",
       "path": "Blog Post Status.base"
-    },
-    {
-      "basename": "適合營火的木頭",
-      "path": "適合營火的木頭.md"
     }
   ],
   "omittedPaths": [],

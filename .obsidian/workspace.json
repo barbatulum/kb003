@@ -726,9 +726,33 @@
               "icon": "lucide-file",
               "title": "8mlways2l"
             }
+          },
+          {
+            "id": "fb2eab5ceeda8e87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vue Note.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vue Note"
+            }
           }
         ],
-        "currentTab": 29
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -921,7 +945,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8mlways2l.md",
+                "file": "Vue Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -931,7 +955,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 8mlways2l"
+              "title": "Backlinks for Vue Note"
             }
           }
         ]
@@ -954,10 +978,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ff6a324f3784c448",
+  "active": "fb2eab5ceeda8e87",
   "lastOpenFiles": [
-    "Overlanding 電力 Setup.md",
     "8mlways2l.md",
+    "Vue Note.md",
+    "Overlanding 電力 Setup.md",
     "Lakes Trips 2026.md",
     "Clearwater and Azure Lake.md",
     "attachments/wells_gray_clearwater_azure_marine_map_f0ac0fd443.pdf",
@@ -982,7 +1007,6 @@
     "Twin One Creek.md",
     "South Gulf Islands.md",
     "Skin on frame.md",
-    "Overlanding Useful Links.md",
     "Blog Post Status.base",
     "attachments/campfire-fir.png",
     "attachments/Pasted image 20260309151601.png",
