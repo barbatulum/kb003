@@ -733,7 +733,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vue Note.md",
+                "file": "360 Photo exif metadata.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -748,7 +748,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vue Note"
+              "title": "360 Photo exif metadata"
             }
           }
         ],
@@ -945,7 +945,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue Note.md",
+                "file": "360 Photo exif metadata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -955,7 +955,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vue Note"
+              "title": "Backlinks for 360 Photo exif metadata"
             }
           }
         ]
@@ -980,8 +980,8 @@
   },
   "active": "fb2eab5ceeda8e87",
   "lastOpenFiles": [
-    "8mlways2l.md",
     "Vue Note.md",
+    "8mlways2l.md",
     "Overlanding 電力 Setup.md",
     "Lakes Trips 2026.md",
     "Clearwater and Azure Lake.md",

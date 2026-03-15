@@ -558,7 +558,7 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 452
+        "ch": 0
       },
       "to": {
         "line": 0,
@@ -1020,12 +1020,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 0
+        "line": 1,
+        "ch": 50
       },
       "to": {
-        "line": 0,
-        "ch": 0
+        "line": 1,
+        "ch": 50
       }
     },
     "expandedKeys": []
