@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Skiing",
+      "path": "Skiing.md"
+    },
+    {
       "basename": "360 Photo exif metadata",
       "path": "360 Photo exif metadata.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "Overlanding",
       "path": "Overlanding.md"
-    },
-    {
-      "basename": "Skiing",
-      "path": "Skiing.md"
     },
     {
       "basename": "GIS",

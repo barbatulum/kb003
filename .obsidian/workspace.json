@@ -733,7 +733,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "360 Photo exif metadata.md",
+                "file": "Skiing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -748,7 +748,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "360 Photo exif metadata"
+              "title": "Skiing"
             }
           }
         ],
@@ -945,7 +945,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "360 Photo exif metadata.md",
+                "file": "Skiing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -955,7 +955,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 360 Photo exif metadata"
+              "title": "Backlinks for Skiing"
             }
           }
         ]
@@ -980,6 +980,7 @@
   },
   "active": "fb2eab5ceeda8e87",
   "lastOpenFiles": [
+    "360 Photo exif metadata.md",
     "Vue Note.md",
     "8mlways2l.md",
     "Overlanding 電力 Setup.md",
@@ -1006,7 +1007,6 @@
     "Types of BC Camping Spots.md",
     "Twin One Creek.md",
     "South Gulf Islands.md",
-    "Skin on frame.md",
     "Blog Post Status.base",
     "attachments/campfire-fir.png",
     "attachments/Pasted image 20260309151601.png",

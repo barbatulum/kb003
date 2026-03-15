@@ -99,11 +99,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 10,
+        "line": 11,
         "ch": 3
       },
       "to": {
-        "line": 10,
+        "line": 11,
         "ch": 3
       }
     },
