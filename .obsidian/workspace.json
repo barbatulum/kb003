@@ -757,7 +757,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blue River.md",
+                "file": "Tarp Setup.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -772,7 +772,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Blue River"
+              "title": "Tarp Setup"
             }
           }
         ],
@@ -969,7 +969,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blue River.md",
+                "file": "Tarp Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -979,7 +979,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Blue River"
+              "title": "Backlinks for Tarp Setup"
             }
           }
         ]
@@ -1004,18 +1004,25 @@
   },
   "active": "e97b214abfe13669",
   "lastOpenFiles": [
-    "attachments/Pasted image 20260316094732.png",
-    "attachments/Pasted image 20260316093457.png",
-    "attachments/Pasted image 20260316093251.png",
-    "attachments/Pasted image 20260316093007.png",
-    "attachments/Pasted image 20260316092924.png",
+    "attachments/Pasted image 20260316110213.png",
+    "attachments/Pasted image 20260316110039.png",
+    "attachments/Pasted image 20260316105901.png",
+    "attachments/Pasted image 20260316105734.png",
+    "attachments/Pasted image 20260316105532.png",
+    "attachments/Pasted image 20260316105352.png",
+    "attachments/Pasted image 20260316105141.png",
+    "attachments/Pasted image 20260316104656.png",
+    "attachments/Pasted image 20260316104101.png",
+    "attachments/Pasted image 20260316103912.png",
+    "attachments/Pasted image 20260316103825.png",
+    "8mlways2l.md",
+    "Tarp Setup.md",
     "Blue River.md",
     "Lakes Trips 2026.md",
     "Trips.md",
     "Skiing.md",
     "360 Photo exif metadata.md",
     "Vue Note.md",
-    "8mlways2l.md",
     "Overlanding 電力 Setup.md",
     "Clearwater and Azure Lake.md",
     "attachments/wells_gray_clearwater_azure_marine_map_f0ac0fd443.pdf",
@@ -1034,14 +1041,7 @@
     "Wing 槳長度.md",
     "Vancouver Island Kayaking Destinations - Research.md",
     "Vancouver Island Kayaking Destinations.md",
-    "Types of BC Camping Spots.md",
     "Blog Post Status.base",
-    "attachments/campfire-fir.png",
-    "attachments/Pasted image 20260309151601.png",
-    "attachments/campfire-fir.png.png",
-    "attachments/Pasted image 20260309151456.png",
-    "attachments/campfire-spruce.png",
-    "attachments/campfire-spruce.png.png",
     "attachments/exiftool(-k).exe",
     "attachments",
     "Tags",

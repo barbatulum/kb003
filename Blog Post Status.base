@@ -9,5 +9,7 @@ views:
       - Publish Status
       - tags
     sort:
+      - property: file.name
+        direction: ASC
       - property: Publish Status
         direction: ASC
