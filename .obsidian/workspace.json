@@ -733,7 +733,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skiing.md",
+                "file": "Lakes Trips 2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -748,11 +748,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Skiing"
+              "title": "Lakes Trips 2026"
+            }
+          },
+          {
+            "id": "e97b214abfe13669",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blue River.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Blue River"
             }
           }
         ],
-        "currentTab": 30
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -945,7 +969,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skiing.md",
+                "file": "Blue River.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -955,7 +979,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Skiing"
+              "title": "Backlinks for Blue River"
             }
           }
         ]
@@ -978,22 +1002,28 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fb2eab5ceeda8e87",
+  "active": "e97b214abfe13669",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260316094732.png",
+    "attachments/Pasted image 20260316093457.png",
+    "attachments/Pasted image 20260316093251.png",
+    "attachments/Pasted image 20260316093007.png",
+    "attachments/Pasted image 20260316092924.png",
+    "Blue River.md",
+    "Lakes Trips 2026.md",
+    "Trips.md",
+    "Skiing.md",
     "360 Photo exif metadata.md",
     "Vue Note.md",
     "8mlways2l.md",
     "Overlanding 電力 Setup.md",
-    "Lakes Trips 2026.md",
     "Clearwater and Azure Lake.md",
     "attachments/wells_gray_clearwater_azure_marine_map_f0ac0fd443.pdf",
     "Capsized 翻船.md",
-    "Trips.md",
     "Cinnamon Recreation Site.md",
     "內陸湖泊和河流.md",
     "Kayak Expedition.md",
     "Overlanding.md",
-    "Skiing.md",
     "GIS.md",
     "獨木舟 Paddling Skills.md",
     "常見 Car Camping 食材清單.md",
@@ -1005,8 +1035,6 @@
     "Vancouver Island Kayaking Destinations - Research.md",
     "Vancouver Island Kayaking Destinations.md",
     "Types of BC Camping Spots.md",
-    "Twin One Creek.md",
-    "South Gulf Islands.md",
     "Blog Post Status.base",
     "attachments/campfire-fir.png",
     "attachments/Pasted image 20260309151601.png",
@@ -1014,10 +1042,6 @@
     "attachments/Pasted image 20260309151456.png",
     "attachments/campfire-spruce.png",
     "attachments/campfire-spruce.png.png",
-    "attachments/campfire-spurce.png",
-    "attachments/Pasted image 20260309151343.png",
-    "attachments/Pasted image 20260309151331.png",
-    "attachments/Pasted image 20260309151237.png",
     "attachments/exiftool(-k).exe",
     "attachments",
     "Tags",

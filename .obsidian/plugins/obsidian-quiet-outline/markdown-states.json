@@ -118,7 +118,7 @@
       },
       "to": {
         "line": 0,
-        "ch": 0
+        "ch": 10
       }
     },
     "expandedKeys": []
@@ -989,12 +989,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 12,
-        "ch": 0
+        "line": 15,
+        "ch": 2
       },
       "to": {
-        "line": 12,
-        "ch": 0
+        "line": 15,
+        "ch": 2
       }
     },
     "expandedKeys": [
@@ -1029,5 +1029,21 @@
       }
     },
     "expandedKeys": []
+  },
+  "Blue River.md": {
+    "scroll": 7.0122124631081535,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 40
+      },
+      "to": {
+        "line": 11,
+        "ch": 40
+      }
+    },
+    "expandedKeys": [
+      "item-3-2"
+    ]
   }
 }

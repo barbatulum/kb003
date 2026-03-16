@@ -1,4 +1,5 @@
-[[Clearwater and Azure Lake]]
+- [[Clearwater and Azure Lake]]
+- [[Blue River]]
 ## Clearwater and Azure Lake
 
 ### Day 1
@@ -12,6 +13,5 @@ From
 ### Day 2-B
 
 # Blue River
-- 經典路線要在八月底從, 56月市融雪季流速很快, 從北方 15 公里的 **Highway 5 跨河大橋**（接近 Lempriere 區域）下船划到 River Safari
 - Blue River 小水道來回
 - Mud Lake to Delta, 風向通常是西向東, 回來會逆風
