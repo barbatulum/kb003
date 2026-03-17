@@ -36,6 +36,12 @@ tags:
 四角固定 , 中間 pole, 像 **金字塔**。
 抗雨, 抗風, 保暖
 
+# Knots
+
+- 主繩 (樹 ↔ 樹): Trucker's Hitch
+- Tarp 四角: Taut-Line Hitch
+- Tarp 連接點: Bowline or Clove Hitch
+- 主繩上滑動調整 tarp 位置: Prusik Knot
 # Tips
 
 | 沙灘上可以利用獨木舟當固定點                           | 帳篷出口                                 |

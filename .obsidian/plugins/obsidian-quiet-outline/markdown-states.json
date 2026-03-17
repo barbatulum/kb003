@@ -484,15 +484,15 @@
     "expandedKeys": []
   },
   "Overlanding.md": {
-    "scroll": 0,
+    "scroll": 1.5644444783528646,
     "cursor": {
       "from": {
-        "line": 11,
-        "ch": 2
+        "line": 17,
+        "ch": 0
       },
       "to": {
-        "line": 11,
-        "ch": 2
+        "line": 17,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -928,7 +928,7 @@
     "expandedKeys": []
   },
   "Kayak Expedition.md": {
-    "scroll": 0,
+    "scroll": 0.004278075045793962,
     "cursor": {
       "from": {
         "line": 7,
@@ -1047,15 +1047,57 @@
     ]
   },
   "Tarp Setup.md": {
-    "scroll": 6.820868679829146,
+    "scroll": 14.49695299195016,
     "cursor": {
       "from": {
-        "line": 15,
-        "ch": 8
+        "line": 43,
+        "ch": 19
       },
       "to": {
-        "line": 15,
-        "ch": 8
+        "line": 43,
+        "ch": 19
+      }
+    },
+    "expandedKeys": []
+  },
+  "Knots.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Knots & Hitches.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 1
+      },
+      "to": {
+        "line": 5,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Hitches.md": {
+    "scroll": 12.984844749719597,
+    "cursor": {
+      "from": {
+        "line": 29,
+        "ch": 0
+      },
+      "to": {
+        "line": 29,
+        "ch": 0
       }
     },
     "expandedKeys": []

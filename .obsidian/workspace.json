@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b247d1e87e0ada9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capsized 翻船.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Capsized 翻船"
-            }
-          },
-          {
             "id": "ee386ba3667fe333",
             "type": "leaf",
             "state": {
@@ -774,9 +750,81 @@
               "icon": "lucide-file",
               "title": "Tarp Setup"
             }
+          },
+          {
+            "id": "83af1f73a2d22a78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overlanding.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Overlanding"
+            }
+          },
+          {
+            "id": "0abd37e50bbc2eda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knots.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Knots"
+            }
+          },
+          {
+            "id": "710714d7c54eb201",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hitches.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Hitches"
+            }
           }
         ],
-        "currentTab": 31
+        "currentTab": 33
       }
     ],
     "direction": "vertical"
@@ -969,7 +1017,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tarp Setup.md",
+                "file": "Hitches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -979,7 +1027,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tarp Setup"
+              "title": "Backlinks for Hitches"
             }
           }
         ]
@@ -1002,8 +1050,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e97b214abfe13669",
+  "active": "710714d7c54eb201",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260317110350.png",
+    "attachments/Pasted image 20260317110153.png",
+    "attachments/Pasted image 20260317105420.png",
+    "attachments/Pasted image 20260317105349.png",
+    "Knots.md",
+    "Hitches.md",
+    "8mlways2l.md",
+    "Overlanding.md",
+    "Knots & Hitches.md",
+    "Capsized 翻船.md",
+    "Tarp Setup.md",
+    "Lakes Trips 2026.md",
+    "Trips.md",
+    "Media.md",
+    "Kayak Expedition.md",
     "attachments/Pasted image 20260316110213.png",
     "attachments/Pasted image 20260316110039.png",
     "attachments/Pasted image 20260316105901.png",
@@ -1011,36 +1074,21 @@
     "attachments/Pasted image 20260316105532.png",
     "attachments/Pasted image 20260316105352.png",
     "attachments/Pasted image 20260316105141.png",
-    "attachments/Pasted image 20260316104656.png",
-    "attachments/Pasted image 20260316104101.png",
-    "attachments/Pasted image 20260316103912.png",
-    "attachments/Pasted image 20260316103825.png",
-    "8mlways2l.md",
-    "Tarp Setup.md",
     "Blue River.md",
-    "Lakes Trips 2026.md",
-    "Trips.md",
     "Skiing.md",
     "360 Photo exif metadata.md",
     "Vue Note.md",
     "Overlanding 電力 Setup.md",
     "Clearwater and Azure Lake.md",
     "attachments/wells_gray_clearwater_azure_marine_map_f0ac0fd443.pdf",
-    "Capsized 翻船.md",
     "Cinnamon Recreation Site.md",
     "內陸湖泊和河流.md",
-    "Kayak Expedition.md",
-    "Overlanding.md",
     "GIS.md",
     "獨木舟 Paddling Skills.md",
     "常見 Car Camping 食材清單.md",
     "布勞頓群島.md",
     "大熊雨林.md",
     "冰桶使用技巧.md",
-    "Wing 槳技巧.md",
-    "Wing 槳長度.md",
-    "Vancouver Island Kayaking Destinations - Research.md",
-    "Vancouver Island Kayaking Destinations.md",
     "Blog Post Status.base",
     "attachments/exiftool(-k).exe",
     "attachments",
