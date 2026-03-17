@@ -900,7 +900,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ef304b43531412ad",
@@ -1052,6 +1053,10 @@
   },
   "active": "710714d7c54eb201",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260317115931.png",
+    "attachments/Pasted image 20260317110718.png",
+    "attachments/Pasted image 20260317110701.png",
+    "attachments/Pasted image 20260317110513.png",
     "attachments/Pasted image 20260317110350.png",
     "attachments/Pasted image 20260317110153.png",
     "attachments/Pasted image 20260317105420.png",
@@ -1070,10 +1075,6 @@
     "attachments/Pasted image 20260316110213.png",
     "attachments/Pasted image 20260316110039.png",
     "attachments/Pasted image 20260316105901.png",
-    "attachments/Pasted image 20260316105734.png",
-    "attachments/Pasted image 20260316105532.png",
-    "attachments/Pasted image 20260316105352.png",
-    "attachments/Pasted image 20260316105141.png",
     "Blue River.md",
     "Skiing.md",
     "360 Photo exif metadata.md",
