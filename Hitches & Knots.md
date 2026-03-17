@@ -9,8 +9,10 @@
 | 受力會「鎖住」拉緊後不容易鬆 | 調整帳篷張力（防塌、防積水） | 張力不是非常緊               |
 |                |                | 長時間受力(潮濕)會「卡死」        |
 
-
-
+#### Midshipman’s Hitch
+(改良版 taut-line)
+![[Pasted image 20260317123458.png]]
+比 taut-line 更不容易滑的調整結, 但也相對更不容易調整
 ### Trucker's Hitch
 ![[Pasted image 20260317110153.png|300]]
 
@@ -44,9 +46,34 @@ Bowline = 最好的「固定圈」結，但不是拉緊用的結
 | 可直接在物體上打        |        |               |
 | 解開很容易           |        |               |
 
+#### Clove hitch rope end
+![[Pasted image 20260317121531.png|300]]
+用在繩子末端更鬆調整時用,最後再換成正式的結
+#### Anchor Hitch
+![[Pasted image 20260317124457.png]]![[Pasted image 20260317124640.png|300px]]
+
+比 Clove 更適用金屬換環狀物部會越拉越鬆, 但是不像 clove 可以調整
+
+
+
 ### Prusik Knot
 ![[Pasted image 20260317110701.png|300]]![[Pasted image 20260317110718.png|300]]
 
 | 優點         | Usages                | 缺點  |
 | ---------- | --------------------- | --- |
 | 可滑 → 拉緊會鎖死 | 適合 tarp ridge line 系統 |     |
+### Alpine Butterfly Loop
+![[Pasted image 20260317121738.png]]
+在繩子「中間」做出一個固定 loop 的結
+- Bowline → 在「繩尾」做 loop
+- Alpine Butterfly → 在「繩中間」做 loop
+
+
+| 優點                       | Usages    | 缺點         |
+| ------------------------ | --------- | ---------- |
+| 左右拉都不會變形                 | 在繩中間建立固定點 | 不能滑, 不能調張力 |
+| 結構很穩, 比 clove hitch 安全很多 |           |            |
+| 受力後仍好解                   |           |            |
+| 繩子使用中也可以加                |           |            |
+
+

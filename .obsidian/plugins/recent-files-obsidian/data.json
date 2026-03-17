@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Hitches",
-      "path": "Hitches.md"
+      "basename": "Hitches & Knots",
+      "path": "Hitches & Knots.md"
     },
     {
-      "basename": "Knots",
-      "path": "Knots.md"
+      "basename": "接繩",
+      "path": "接繩.md"
     },
     {
-      "basename": "8mlways2l",
-      "path": "8mlways2l.md"
+      "basename": "收繩",
+      "path": "收繩.md"
     },
     {
       "basename": "Overlanding",
       "path": "Overlanding.md"
+    },
+    {
+      "basename": "8mlways2l",
+      "path": "8mlways2l.md"
     },
     {
       "basename": "Capsized 翻船",
@@ -191,10 +195,6 @@
     {
       "basename": "Campfire Sausage & Veggies",
       "path": "Campfire Sausage & Veggies.md"
-    },
-    {
-      "basename": "Camp Sandwich",
-      "path": "Camp Sandwich.md"
     }
   ],
   "omittedPaths": [],

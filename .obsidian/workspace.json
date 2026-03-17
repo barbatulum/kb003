@@ -776,12 +776,12 @@
             }
           },
           {
-            "id": "0abd37e50bbc2eda",
+            "id": "68a0ecf4a18fcf97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knots.md",
+                "file": "收繩.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -796,7 +796,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Knots"
+              "title": "收繩"
+            }
+          },
+          {
+            "id": "50414b802ebc3cf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "接繩.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "接繩"
             }
           },
           {
@@ -805,7 +829,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hitches.md",
+                "file": "Hitches & Knots.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -820,11 +844,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hitches"
+              "title": "Hitches & Knots"
             }
           }
         ],
-        "currentTab": 33
+        "currentTab": 34
       }
     ],
     "direction": "vertical"
@@ -1018,7 +1042,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hitches.md",
+                "file": "Hitches & Knots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1028,7 +1052,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hitches"
+              "title": "Backlinks for Hitches & Knots"
             }
           }
         ]
@@ -1053,18 +1077,22 @@
   },
   "active": "710714d7c54eb201",
   "lastOpenFiles": [
-    "attachments/Pasted image 20260317115931.png",
-    "attachments/Pasted image 20260317110718.png",
-    "attachments/Pasted image 20260317110701.png",
-    "attachments/Pasted image 20260317110513.png",
-    "attachments/Pasted image 20260317110350.png",
-    "attachments/Pasted image 20260317110153.png",
-    "attachments/Pasted image 20260317105420.png",
-    "attachments/Pasted image 20260317105349.png",
-    "Knots.md",
-    "Hitches.md",
-    "8mlways2l.md",
+    "接繩.md",
+    "收繩.md",
     "Overlanding.md",
+    "Hitches & Knots.md",
+    "Knots.md",
+    "attachments/Pasted image 20260317125253.png",
+    "attachments/Pasted image 20260317125010.png",
+    "8mlways2l.md",
+    "attachments/Pasted image 20260317124744.png",
+    "attachments/Pasted image 20260317124640.png",
+    "attachments/Pasted image 20260317124457.png",
+    "attachments/Pasted image 20260317123458.png",
+    "attachments/Pasted image 20260317122958.png",
+    "attachments/Pasted image 20260317122752.png",
+    "attachments/Pasted image 20260317122634.png",
+    "attachments/Pasted image 20260317121738.png",
     "Knots & Hitches.md",
     "Capsized 翻船.md",
     "Tarp Setup.md",
@@ -1072,9 +1100,6 @@
     "Trips.md",
     "Media.md",
     "Kayak Expedition.md",
-    "attachments/Pasted image 20260316110213.png",
-    "attachments/Pasted image 20260316110039.png",
-    "attachments/Pasted image 20260316105901.png",
     "Blue River.md",
     "Skiing.md",
     "360 Photo exif metadata.md",
@@ -1088,8 +1113,6 @@
     "獨木舟 Paddling Skills.md",
     "常見 Car Camping 食材清單.md",
     "布勞頓群島.md",
-    "大熊雨林.md",
-    "冰桶使用技巧.md",
     "Blog Post Status.base",
     "attachments/exiftool(-k).exe",
     "attachments",
