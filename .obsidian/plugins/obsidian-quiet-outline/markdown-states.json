@@ -928,15 +928,15 @@
     "expandedKeys": []
   },
   "Kayak Expedition.md": {
-    "scroll": 0.004278075045793962,
+    "scroll": 8.959595133486943,
     "cursor": {
       "from": {
-        "line": 7,
-        "ch": 14
+        "line": 26,
+        "ch": 17
       },
       "to": {
-        "line": 7,
-        "ch": 14
+        "line": 26,
+        "ch": 17
       }
     },
     "expandedKeys": []
@@ -1139,12 +1139,12 @@
     "scroll": 8.457842511391586,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 0
+        "line": 15,
+        "ch": 19
       },
       "to": {
-        "line": 0,
-        "ch": 0
+        "line": 15,
+        "ch": 19
       }
     },
     "expandedKeys": [

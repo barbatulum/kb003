@@ -757,7 +757,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overlanding.md",
+                "file": "Kayak Expedition.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -772,7 +772,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Overlanding"
+              "title": "Kayak Expedition"
             }
           },
           {
@@ -848,7 +848,7 @@
             }
           }
         ],
-        "currentTab": 34
+        "currentTab": 31
       }
     ],
     "direction": "vertical"
@@ -924,8 +924,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ef304b43531412ad",
@@ -1042,7 +1041,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hitches & Knots.md",
+                "file": "Kayak Expedition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1052,7 +1051,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hitches & Knots"
+              "title": "Backlinks for Kayak Expedition"
             }
           }
         ]
@@ -1075,11 +1074,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "710714d7c54eb201",
+  "active": "83af1f73a2d22a78",
   "lastOpenFiles": [
-    "接繩.md",
-    "收繩.md",
     "Overlanding.md",
+    "收繩.md",
+    "接繩.md",
     "Hitches & Knots.md",
     "Knots.md",
     "attachments/Pasted image 20260317125253.png",
