@@ -757,8 +757,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kayak Expedition.md",
-                "mode": "source",
+                "file": "BC Coastal Kayaking Weather, Ocean & Navigation Apps.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -772,7 +772,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kayak Expedition"
+              "title": "BC Coastal Kayaking Weather, Ocean & Navigation Apps"
             }
           },
           {
@@ -1041,7 +1041,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kayak Expedition.md",
+                "file": "BC Coastal Kayaking Weather, Ocean & Navigation Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1051,7 +1051,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kayak Expedition"
+              "title": "Backlinks for BC Coastal Kayaking Weather, Ocean & Navigation Apps"
             }
           }
         ]
@@ -1076,6 +1076,8 @@
   },
   "active": "83af1f73a2d22a78",
   "lastOpenFiles": [
+    "Kayak Expedition.md",
+    "BC Coastal Kayaking Weather, Ocean & Navigation Apps.md",
     "Overlanding.md",
     "收繩.md",
     "接繩.md",
@@ -1098,7 +1100,6 @@
     "Lakes Trips 2026.md",
     "Trips.md",
     "Media.md",
-    "Kayak Expedition.md",
     "Blue River.md",
     "Skiing.md",
     "360 Photo exif metadata.md",

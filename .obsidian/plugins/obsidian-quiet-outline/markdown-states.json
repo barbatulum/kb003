@@ -928,15 +928,15 @@
     "expandedKeys": []
   },
   "Kayak Expedition.md": {
-    "scroll": 15.828282785225909,
+    "scroll": 5.756613239209213,
     "cursor": {
       "from": {
-        "line": 34,
-        "ch": 65
+        "line": 20,
+        "ch": 58
       },
       "to": {
-        "line": 34,
-        "ch": 65
+        "line": 20,
+        "ch": 58
       }
     },
     "expandedKeys": []
@@ -1151,5 +1151,19 @@
       "item-3-0",
       "item-3-4"
     ]
+  },
+  "BC Coastal Kayaking Weather, Ocean & Navigation Apps.md": {
+    "scroll": 44.283331298828124,
+    "cursor": {
+      "from": {
+        "line": 71,
+        "ch": 42
+      },
+      "to": {
+        "line": 60,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }
