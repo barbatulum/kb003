@@ -32,7 +32,7 @@ Publish Status: Published
 **[FishWeather](https://apps.apple.com/us/app/fishweather-marine-forecasts/id555644333)**
 - 聚合 buoy / lighthouse / 私人站觀測 + 短期預測, 用來確認"現在"天氣海況.
 - 即時風況 (real wind / gust / trend)
-- 加拿大只有在溫哥華,維多利亞範圍才實用, 其他地區氣象站和buoy數量太少.
+- 加拿大只有在溫哥華,維多利亞範圍才實用, 其他地區氣象站和 buoy 數量太少.
 
 **[MyRadar](https://apps.apple.com/us/app/myradar-accurate-weather-radar/id322439990)**  
 即時降雨 / 雷達 (storm / rain band) , 對風,海況,預測幫助有限.
