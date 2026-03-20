@@ -1,5 +1,5 @@
 ---
-theme:
+theme: destination
 Publish Status: Refining
 Publish Link: https://8mways2.live/vancouver-island-paddling-destinations/
 ---

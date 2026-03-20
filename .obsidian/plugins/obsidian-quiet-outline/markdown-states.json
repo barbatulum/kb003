@@ -118,7 +118,7 @@
       },
       "to": {
         "line": 0,
-        "ch": 10
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -901,17 +901,15 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 30
+        "line": 3,
+        "ch": 0
       },
       "to": {
-        "line": 4,
-        "ch": 30
+        "line": 3,
+        "ch": 0
       }
     },
-    "expandedKeys": [
-      "item-1-0"
-    ]
+    "expandedKeys": []
   },
   "Trips.md": {
     "scroll": 0,
@@ -931,12 +929,12 @@
     "scroll": 5.756613239209213,
     "cursor": {
       "from": {
-        "line": 20,
-        "ch": 58
+        "line": 13,
+        "ch": 6
       },
       "to": {
-        "line": 20,
-        "ch": 58
+        "line": 13,
+        "ch": 6
       }
     },
     "expandedKeys": []
@@ -1122,7 +1120,7 @@
     ]
   },
   "收繩.md": {
-    "scroll": 2.1923808938428544,
+    "scroll": 7.342555518687346,
     "cursor": {
       "from": {
         "line": 2,
@@ -1156,11 +1154,39 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 21,
-        "ch": 34
+        "line": 9,
+        "ch": 25
       },
       "to": {
-        "line": 15,
+        "line": 9,
+        "ch": 25
+      }
+    },
+    "expandedKeys": []
+  },
+  "Maligne Lake Trip.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 3,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Banff.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 3,
         "ch": 0
       }
     },

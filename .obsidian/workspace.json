@@ -776,12 +776,12 @@
             }
           },
           {
-            "id": "68a0ecf4a18fcf97",
+            "id": "1739b688f8c0f939",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收繩.md",
+                "file": "Maligne Lake Trip.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -796,7 +796,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "收繩"
+              "title": "Maligne Lake Trip"
+            }
+          },
+          {
+            "id": "68a0ecf4a18fcf97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Banff.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Banff"
             }
           },
           {
@@ -846,9 +870,22 @@
               "icon": "lucide-file",
               "title": "Hitches & Knots"
             }
+          },
+          {
+            "id": "964dd679aaa87029",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Destinations.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Destinations"
+            }
           }
         ],
-        "currentTab": 31
+        "currentTab": 33
       }
     ],
     "direction": "vertical"
@@ -1041,7 +1078,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BC Coastal Kayaking Weather, Ocean & Navigation Apps.md",
+                "file": "Banff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1051,7 +1088,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for BC Coastal Kayaking Weather, Ocean & Navigation Apps"
+              "title": "Backlinks for Banff"
             }
           }
         ]
@@ -1074,18 +1111,27 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "83af1f73a2d22a78",
+  "active": "68a0ecf4a18fcf97",
   "lastOpenFiles": [
+    "Destinations.base",
+    "Vancouver Island Kayaking Destinations - Research.md",
+    "Vancouver Island Kayaking Destinations.md",
     "Kayak Expedition.md",
-    "BC Coastal Kayaking Weather, Ocean & Navigation Apps.md",
-    "Overlanding.md",
+    "Broughton Archipelago.md",
+    "8mlways2l.md",
+    "GIS.md",
     "收繩.md",
     "接繩.md",
     "Hitches & Knots.md",
+    "Blog Post Status.base",
+    "Untitled.md",
+    "Banff.md",
+    "Maligne Lake Trip.md",
+    "BC Coastal Kayaking Weather, Ocean & Navigation Apps.md",
+    "Overlanding.md",
     "Knots.md",
     "attachments/Pasted image 20260317125253.png",
     "attachments/Pasted image 20260317125010.png",
-    "8mlways2l.md",
     "attachments/Pasted image 20260317124744.png",
     "attachments/Pasted image 20260317124640.png",
     "attachments/Pasted image 20260317124457.png",
@@ -1104,16 +1150,7 @@
     "Skiing.md",
     "360 Photo exif metadata.md",
     "Vue Note.md",
-    "Overlanding 電力 Setup.md",
-    "Clearwater and Azure Lake.md",
     "attachments/wells_gray_clearwater_azure_marine_map_f0ac0fd443.pdf",
-    "Cinnamon Recreation Site.md",
-    "內陸湖泊和河流.md",
-    "GIS.md",
-    "獨木舟 Paddling Skills.md",
-    "常見 Car Camping 食材清單.md",
-    "布勞頓群島.md",
-    "Blog Post Status.base",
     "attachments/exiftool(-k).exe",
     "attachments",
     "Tags",
