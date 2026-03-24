@@ -805,7 +805,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overlanding 收納與空間配置.md",
+                "file": "360 Photo exif metadata.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -820,7 +820,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Overlanding 收納與空間配置"
+              "title": "360 Photo exif metadata"
             }
           },
           {
@@ -1078,7 +1078,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overlanding 收納與空間配置.md",
+                "file": "360 Photo exif metadata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1088,7 +1088,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Overlanding 收納與空間配置"
+              "title": "Backlinks for 360 Photo exif metadata"
             }
           }
         ]
@@ -1113,8 +1113,9 @@
   },
   "active": "68a0ecf4a18fcf97",
   "lastOpenFiles": [
-    "8mlways2l.md",
+    "Media.md",
     "Overlanding 收納與空間配置.md",
+    "8mlways2l.md",
     "Banff.md",
     "Destinations.base",
     "Vancouver Island Kayaking Destinations - Research.md",
@@ -1145,7 +1146,6 @@
     "Tarp Setup.md",
     "Lakes Trips 2026.md",
     "Trips.md",
-    "Media.md",
     "Blue River.md",
     "Skiing.md",
     "360 Photo exif metadata.md",

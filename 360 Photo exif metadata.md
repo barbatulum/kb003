@@ -1,1 +1,4 @@
 `"C:\Program Files\exiftool-13.45_64\exiftool(-k).exe" -overwrite_original "-XMP-GPano:ProjectionType=equirectangular" "-XMP-GPano:UsePanoramaViewer=True" "-XMP-GPano:FullPanoWidthPixels=7680" "-XMP-GPano:FullPanoHeightPixels=3840" "-XMP-GPano:CroppedAreaImageWidthPixels=7680" "-XMP-GPano:CroppedAreaImageHeightPixels=3840" "-XMP-GPano:CroppedAreaLeftPixels=0" "-XMP-GPano:CroppedAreaTopPixels=0" C:\Camera-Footage\Yoga\IMG_20181016_203827_00_005.jpg`
+
+
+"C:\Program Files\exiftool-13.45_64\exiftool(-k).exe" -overwrite_original "-XMP-GPano:ProjectionType=equirectangular" "-XMP-GPano:UsePanoramaViewer=True" "-XMP-GPano:FullPanoWidthPixels=11904" "-XMP-GPano:FullPanoHeightPixels=5952" "-XMP-GPano:CroppedAreaImageWidthPixels=11904" "-XMP-GPano:CroppedAreaImageHeightPixels=5952" "-XMP-GPano:CroppedAreaLeftPixels=0" "-XMP-GPano:CroppedAreaTopPixels=0" C:\Camera-Footage\260321-Whistler\IMG_20181014_204506_00_006.jpg
