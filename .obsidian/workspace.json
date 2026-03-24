@@ -805,7 +805,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "360 Photo exif metadata.md",
+                "file": "Broughton Archipelago.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -820,7 +820,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "360 Photo exif metadata"
+              "title": "Broughton Archipelago"
             }
           },
           {
@@ -1078,7 +1078,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "360 Photo exif metadata.md",
+                "file": "Broughton Archipelago.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1088,7 +1088,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 360 Photo exif metadata"
+              "title": "Backlinks for Broughton Archipelago"
             }
           }
         ]
@@ -1113,9 +1113,11 @@
   },
   "active": "68a0ecf4a18fcf97",
   "lastOpenFiles": [
+    "8mlways2l.md",
+    "Kayaking Equipment.md",
+    "360 Photo exif metadata.md",
     "Media.md",
     "Overlanding 收納與空間配置.md",
-    "8mlways2l.md",
     "Banff.md",
     "Destinations.base",
     "Vancouver Island Kayaking Destinations - Research.md",
@@ -1148,7 +1150,6 @@
     "Trips.md",
     "Blue River.md",
     "Skiing.md",
-    "360 Photo exif metadata.md",
     "Vue Note.md",
     "attachments/wells_gray_clearwater_azure_marine_map_f0ac0fd443.pdf",
     "attachments/exiftool(-k).exe",

@@ -15,3 +15,6 @@ Launching
 - Alder Bay
 - Port McNeil
 鄰近紮營點
+
+裝備
+食物裝鋁袋放船上備用
