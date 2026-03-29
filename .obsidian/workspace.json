@@ -824,6 +824,18 @@
             }
           },
           {
+            "id": "c2fedee174471a76",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
+          },
+          {
             "id": "50414b802ebc3cf2",
             "type": "leaf",
             "state": {
@@ -885,7 +897,7 @@
             }
           }
         ],
-        "currentTab": 33
+        "currentTab": 34
       }
     ],
     "direction": "vertical"
@@ -1078,7 +1090,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Broughton Archipelago.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1088,7 +1099,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Broughton Archipelago"
+              "title": "Backlinks"
             }
           }
         ]
@@ -1111,7 +1122,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "68a0ecf4a18fcf97",
+  "active": "c2fedee174471a76",
   "lastOpenFiles": [
     "8mlways2l.md",
     "Kayaking Equipment.md",
