@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Hiking",
+      "path": "Hiking.md"
+    },
+    {
+      "basename": "綁鞋帶",
+      "path": "綁鞋帶.md"
+    },
+    {
+      "basename": "BC Coastal Kayaking Weather, Ocean & Navigation Apps",
+      "path": "BC Coastal Kayaking Weather, Ocean & Navigation Apps.md"
+    },
+    {
       "basename": "Broughton Archipelago",
       "path": "Broughton Archipelago.md"
     },
@@ -63,10 +75,6 @@
     {
       "basename": "Maligne Lake Trip",
       "path": "Maligne Lake Trip.md"
-    },
-    {
-      "basename": "BC Coastal Kayaking Weather, Ocean & Navigation Apps",
-      "path": "BC Coastal Kayaking Weather, Ocean & Navigation Apps.md"
     },
     {
       "basename": "Overlanding",
@@ -191,14 +199,6 @@
     {
       "basename": "Haida Gwaii",
       "path": "Haida Gwaii.md"
-    },
-    {
-      "basename": "Ecoflow",
-      "path": "Ecoflow.md"
-    },
-    {
-      "basename": "Discovery Passage and Desolation Sound",
-      "path": "Discovery Passage and Desolation Sound.md"
     }
   ],
   "omittedPaths": [],

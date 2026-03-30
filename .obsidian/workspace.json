@@ -827,12 +827,72 @@
             "id": "c2fedee174471a76",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "BC Coastal Kayaking Weather, Ocean & Navigation Apps.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "BC Coastal Kayaking Weather, Ocean & Navigation Apps"
+            }
+          },
+          {
+            "id": "963fbb567f7c3b03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "綁鞋帶.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "綁鞋帶"
+            }
+          },
+          {
+            "id": "4e3ec254cf91b3f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hiking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Hiking"
             }
           },
           {
@@ -897,7 +957,7 @@
             }
           }
         ],
-        "currentTab": 34
+        "currentTab": 36
       }
     ],
     "direction": "vertical"
@@ -990,7 +1050,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"theme\"]",
+                "query": "stations",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -1040,8 +1100,7 @@
               "title": "GCal Month View"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "58038f2bf6c310a7",
@@ -1090,6 +1149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hiking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1099,7 +1159,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Hiking"
             }
           }
         ]
@@ -1122,8 +1182,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c2fedee174471a76",
+  "active": "4e3ec254cf91b3f4",
   "lastOpenFiles": [
+    "綁鞋帶.md",
+    "Hiking.md",
+    "attachments/Pasted image 20260330113219.png",
+    "BC Coastal Kayaking Weather, Ocean & Navigation Apps.md",
     "8mlways2l.md",
     "Kayaking Equipment.md",
     "360 Photo exif metadata.md",
@@ -1141,7 +1205,6 @@
     "Hitches & Knots.md",
     "Blog Post Status.base",
     "Maligne Lake Trip.md",
-    "BC Coastal Kayaking Weather, Ocean & Navigation Apps.md",
     "Overlanding.md",
     "Knots.md",
     "attachments/Pasted image 20260317125253.png",
@@ -1153,15 +1216,12 @@
     "attachments/Pasted image 20260317122958.png",
     "attachments/Pasted image 20260317122752.png",
     "attachments/Pasted image 20260317122634.png",
-    "attachments/Pasted image 20260317121738.png",
     "Knots & Hitches.md",
     "Capsized 翻船.md",
     "Tarp Setup.md",
     "Lakes Trips 2026.md",
     "Trips.md",
     "Blue River.md",
-    "Skiing.md",
-    "Vue Note.md",
     "attachments/wells_gray_clearwater_azure_marine_map_f0ac0fd443.pdf",
     "attachments/exiftool(-k).exe",
     "attachments",
