@@ -877,7 +877,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hiking.md",
+                "file": "Broughton Archipelago.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -892,7 +892,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hiking"
+              "title": "Broughton Archipelago"
             }
           },
           {
@@ -1149,7 +1149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hiking.md",
+                "file": "Broughton Archipelago.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1159,7 +1159,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hiking"
+              "title": "Backlinks for Broughton Archipelago"
             }
           }
         ]
@@ -1184,8 +1184,8 @@
   },
   "active": "4e3ec254cf91b3f4",
   "lastOpenFiles": [
-    "綁鞋帶.md",
     "Hiking.md",
+    "綁鞋帶.md",
     "attachments/Pasted image 20260330113219.png",
     "BC Coastal Kayaking Weather, Ocean & Navigation Apps.md",
     "8mlways2l.md",
