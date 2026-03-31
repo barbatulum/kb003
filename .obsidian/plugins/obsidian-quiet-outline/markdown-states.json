@@ -3,12 +3,12 @@
     "scroll": 31.203869374475953,
     "cursor": {
       "from": {
-        "line": 45,
-        "ch": 16
+        "line": 38,
+        "ch": 12
       },
       "to": {
-        "line": 45,
-        "ch": 16
+        "line": 38,
+        "ch": 12
       }
     },
     "expandedKeys": []
@@ -113,12 +113,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 1,
-        "ch": 9
+        "line": 0,
+        "ch": 0
       },
       "to": {
-        "line": 1,
-        "ch": 9
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -1216,6 +1216,34 @@
       "to": {
         "line": 0,
         "ch": 36
+      }
+    },
+    "expandedKeys": []
+  },
+  "Bowron Lakes.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Sawyard Forest.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 114
+      },
+      "to": {
+        "line": 4,
+        "ch": 114
       }
     },
     "expandedKeys": []

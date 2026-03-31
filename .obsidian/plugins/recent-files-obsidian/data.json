@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Sawyard Forest",
+      "path": "Sawyard Forest.md"
+    },
+    {
+      "basename": "Bowron Lakes",
+      "path": "Bowron Lakes.md"
+    },
+    {
       "basename": "Broughton Archipelago",
       "path": "Broughton Archipelago.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Kayak 平移技巧",
       "path": "Kayak 平移技巧.md"
-    },
-    {
-      "basename": "Howe Sound",
-      "path": "Howe Sound.md"
-    },
-    {
-      "basename": "Haida Gwaii",
-      "path": "Haida Gwaii.md"
     }
   ],
   "omittedPaths": [],

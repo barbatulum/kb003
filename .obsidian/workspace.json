@@ -896,6 +896,54 @@
             }
           },
           {
+            "id": "b11afc394aa3fc6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bowron Lakes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bowron Lakes"
+            }
+          },
+          {
+            "id": "9e07de1a9f51808e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sawyard Forest.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sawyard Forest"
+            }
+          },
+          {
             "id": "50414b802ebc3cf2",
             "type": "leaf",
             "state": {
@@ -957,7 +1005,7 @@
             }
           }
         ],
-        "currentTab": 36
+        "currentTab": 38
       }
     ],
     "direction": "vertical"
@@ -1149,7 +1197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Broughton Archipelago.md",
+                "file": "Sawyard Forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1159,7 +1207,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Broughton Archipelago"
+              "title": "Backlinks for Sawyard Forest"
             }
           }
         ]
@@ -1182,8 +1230,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4e3ec254cf91b3f4",
+  "active": "9e07de1a9f51808e",
   "lastOpenFiles": [
+    "Bowron Lakes.md",
+    "Sawyard Forest.md",
+    "Broughton Archipelago.md",
     "Hiking.md",
     "綁鞋帶.md",
     "attachments/Pasted image 20260330113219.png",
@@ -1198,7 +1249,6 @@
     "Vancouver Island Kayaking Destinations - Research.md",
     "Vancouver Island Kayaking Destinations.md",
     "Kayak Expedition.md",
-    "Broughton Archipelago.md",
     "GIS.md",
     "收繩.md",
     "接繩.md",
@@ -1220,8 +1270,6 @@
     "Capsized 翻船.md",
     "Tarp Setup.md",
     "Lakes Trips 2026.md",
-    "Trips.md",
-    "Blue River.md",
     "attachments/wells_gray_clearwater_azure_marine_map_f0ac0fd443.pdf",
     "attachments/exiftool(-k).exe",
     "attachments",
