@@ -925,7 +925,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sawyard Forest.md",
+                "file": "Overlanding.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -940,7 +940,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sawyard Forest"
+              "title": "Overlanding"
+            }
+          },
+          {
+            "id": "4b382fbfc3ff741d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Broughton Archipelago.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Broughton Archipelago"
             }
           },
           {
@@ -1197,7 +1221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sawyard Forest.md",
+                "file": "Overlanding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1207,7 +1231,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sawyard Forest"
+              "title": "Backlinks for Overlanding"
             }
           }
         ]
@@ -1232,9 +1256,11 @@
   },
   "active": "9e07de1a9f51808e",
   "lastOpenFiles": [
-    "Bowron Lakes.md",
-    "Sawyard Forest.md",
     "Broughton Archipelago.md",
+    "用水.md",
+    "Overlanding.md",
+    "Sawyard Forest.md",
+    "Bowron Lakes.md",
     "Hiking.md",
     "綁鞋帶.md",
     "attachments/Pasted image 20260330113219.png",
@@ -1255,7 +1281,6 @@
     "Hitches & Knots.md",
     "Blog Post Status.base",
     "Maligne Lake Trip.md",
-    "Overlanding.md",
     "Knots.md",
     "attachments/Pasted image 20260317125253.png",
     "attachments/Pasted image 20260317125010.png",
@@ -1269,7 +1294,6 @@
     "Knots & Hitches.md",
     "Capsized 翻船.md",
     "Tarp Setup.md",
-    "Lakes Trips 2026.md",
     "attachments/wells_gray_clearwater_azure_marine_map_f0ac0fd443.pdf",
     "attachments/exiftool(-k).exe",
     "attachments",

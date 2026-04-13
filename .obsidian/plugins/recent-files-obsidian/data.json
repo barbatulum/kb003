@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Overlanding",
+      "path": "Overlanding.md"
+    },
+    {
+      "basename": "Broughton Archipelago",
+      "path": "Broughton Archipelago.md"
+    },
+    {
+      "basename": "用水",
+      "path": "用水.md"
+    },
+    {
       "basename": "Sawyard Forest",
       "path": "Sawyard Forest.md"
     },
     {
       "basename": "Bowron Lakes",
       "path": "Bowron Lakes.md"
-    },
-    {
-      "basename": "Broughton Archipelago",
-      "path": "Broughton Archipelago.md"
     },
     {
       "basename": "Hiking",
@@ -83,10 +91,6 @@
     {
       "basename": "Maligne Lake Trip",
       "path": "Maligne Lake Trip.md"
-    },
-    {
-      "basename": "Overlanding",
-      "path": "Overlanding.md"
     },
     {
       "basename": "Capsized 翻船",
@@ -195,10 +199,6 @@
     {
       "basename": "Kyuquot Sound",
       "path": "Kyuquot Sound.md"
-    },
-    {
-      "basename": "Kayak 平移技巧",
-      "path": "Kayak 平移技巧.md"
     }
   ],
   "omittedPaths": [],

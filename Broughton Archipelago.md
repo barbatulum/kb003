@@ -3,6 +3,7 @@ theme: destination
 tags:
   - Vancouver-Island
 ---
+- [鯨魚湯](https://chatgpt.com/share/69cbc62b-7678-832d-99de-c5c993c601d0)
 ## 天氣
 - 潮汐幅度：Alert Bay 參考站（Station 08280）的潮差在該年度大潮期間可超過 $4.5$ 公尺。
 - 季節性海象：6 月底至 7 月初是海霧（Marine Fog）的高發期，通常在清晨 6 點至 9 點間能見度最低，午後則伴隨強勁的西北風 。
