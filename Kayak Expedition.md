@@ -2,6 +2,9 @@
 - [[獨木舟 Paddling Skills]]
 	- [[Kayak 平移技巧]]
 - [[Capsized 翻船]]
+# 天氣
+- [[穿越海峽]]
+- 
 # Expedition
 - [[野生動物預防]]
 - [[Vancouver Island Kayaking Destinations]] (下船點,營地, 潮流, 路線)

@@ -926,14 +926,14 @@
     "expandedKeys": []
   },
   "Kayak Expedition.md": {
-    "scroll": 5.756613239209213,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 13,
+        "line": 5,
         "ch": 6
       },
       "to": {
-        "line": 13,
+        "line": 5,
         "ch": 6
       }
     },
@@ -1258,6 +1258,20 @@
       "to": {
         "line": 1,
         "ch": 32
+      }
+    },
+    "expandedKeys": []
+  },
+  "穿越海峽.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 16,
+        "ch": 88
+      },
+      "to": {
+        "line": 16,
+        "ch": 2
       }
     },
     "expandedKeys": []

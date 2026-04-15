@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "穿越海峽",
+      "path": "穿越海峽.md"
+    },
+    {
+      "basename": "Kayak Expedition",
+      "path": "Kayak Expedition.md"
+    },
+    {
       "basename": "Overlanding",
       "path": "Overlanding.md"
     },
@@ -63,10 +71,6 @@
     {
       "basename": "Vancouver Island Kayaking Destinations",
       "path": "Vancouver Island Kayaking Destinations.md"
-    },
-    {
-      "basename": "Kayak Expedition",
-      "path": "Kayak Expedition.md"
     },
     {
       "basename": "GIS",
@@ -195,10 +199,6 @@
     {
       "basename": "Nootka Sound",
       "path": "Nootka Sound.md"
-    },
-    {
-      "basename": "Kyuquot Sound",
-      "path": "Kyuquot Sound.md"
     }
   ],
   "omittedPaths": [],

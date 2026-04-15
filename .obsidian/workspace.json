@@ -925,7 +925,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overlanding.md",
+                "file": "Kayak Expedition.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -940,7 +940,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Overlanding"
+              "title": "Kayak Expedition"
+            }
+          },
+          {
+            "id": "bf5785e080fd7ae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "穿越海峽.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "穿越海峽"
             }
           },
           {
@@ -1029,7 +1053,7 @@
             }
           }
         ],
-        "currentTab": 38
+        "currentTab": 39
       }
     ],
     "direction": "vertical"
@@ -1221,7 +1245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overlanding.md",
+                "file": "穿越海峽.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1231,7 +1255,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Overlanding"
+              "title": "Backlinks for 穿越海峽"
             }
           }
         ]
@@ -1254,11 +1278,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9e07de1a9f51808e",
+  "active": "bf5785e080fd7ae1",
   "lastOpenFiles": [
+    "穿越海峽.md",
+    "Kayak Expedition.md",
+    "Overlanding.md",
     "Broughton Archipelago.md",
     "用水.md",
-    "Overlanding.md",
     "Sawyard Forest.md",
     "Bowron Lakes.md",
     "Hiking.md",
@@ -1274,7 +1300,6 @@
     "Destinations.base",
     "Vancouver Island Kayaking Destinations - Research.md",
     "Vancouver Island Kayaking Destinations.md",
-    "Kayak Expedition.md",
     "GIS.md",
     "收繩.md",
     "接繩.md",
@@ -1293,7 +1318,6 @@
     "attachments/Pasted image 20260317122634.png",
     "Knots & Hitches.md",
     "Capsized 翻船.md",
-    "Tarp Setup.md",
     "attachments/wells_gray_clearwater_azure_marine_map_f0ac0fd443.pdf",
     "attachments/exiftool(-k).exe",
     "attachments",
