@@ -1263,17 +1263,20 @@
     "expandedKeys": []
   },
   "穿越海峽.md": {
-    "scroll": 0.6973262042558006,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 5,
+        "line": 17,
         "ch": 3
       },
       "to": {
-        "line": 5,
+        "line": 17,
         "ch": 3
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-4",
+      "item-2-6"
+    ]
   }
 }
