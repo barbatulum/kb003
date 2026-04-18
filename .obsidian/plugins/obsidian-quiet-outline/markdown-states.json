@@ -1266,12 +1266,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 17,
-        "ch": 3
+        "line": 8,
+        "ch": 67
       },
       "to": {
-        "line": 17,
-        "ch": 3
+        "line": 8,
+        "ch": 67
       }
     },
     "expandedKeys": [

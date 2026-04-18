@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "穿越海峽",
       "path": "穿越海峽.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "One-Pot Pasta",
       "path": "One-Pot Pasta.md"
-    },
-    {
-      "basename": "Nootka Sound",
-      "path": "Nootka Sound.md"
     }
   ],
   "omittedPaths": [],
