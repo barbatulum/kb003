@@ -117,7 +117,7 @@
         "ch": 0
       },
       "to": {
-        "line": 0,
+        "line": 1,
         "ch": 0
       }
     },
@@ -316,15 +316,15 @@
     "expandedKeys": []
   },
   "South Gulf Islands.md": {
-    "scroll": 0,
+    "scroll": 0.8586666706339517,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 9
+        "line": 24,
+        "ch": 2
       },
       "to": {
-        "line": 4,
-        "ch": 9
+        "line": 24,
+        "ch": 2
       }
     },
     "expandedKeys": []
