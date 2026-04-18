@@ -1,9 +1,13 @@
+- [[Saturna and Pender Island]]
 # Paddling
 - [[獨木舟 Paddling Skills]]
 	- [[Kayak 平移技巧]]
 - [[Capsized 翻船]]
 - [[洋流與礁岩滑行]]
 - [[槳語 哨音]]
+- [[裝艙原則]]
+- [[登岸 Landing]]
+- [[救援]]
 # 天氣
 - [[穿越海峽]]
 - 
@@ -22,5 +26,6 @@
 - [[Skin on frame]]
 # 裝備
 - [[Braca 新槳組裝]]
+- [[槳型]]
 
 # [[BC Coastal Kayaking Weather, Ocean & Navigation Apps]]

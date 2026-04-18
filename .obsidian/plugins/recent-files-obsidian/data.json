@@ -5,12 +5,32 @@
       "path": "洋流與礁岩滑行.md"
     },
     {
-      "basename": "槳語 哨音",
-      "path": "槳語 哨音.md"
+      "basename": "Saturna and Pender Island",
+      "path": "Saturna and Pender Island.md"
+    },
+    {
+      "basename": "救援",
+      "path": "救援.md"
+    },
+    {
+      "basename": "登岸 Landing",
+      "path": "登岸 Landing.md"
     },
     {
       "basename": "Kayak Expedition",
       "path": "Kayak Expedition.md"
+    },
+    {
+      "basename": "槳語 哨音",
+      "path": "槳語 哨音.md"
+    },
+    {
+      "basename": "槳型",
+      "path": "槳型.md"
+    },
+    {
+      "basename": "裝艙原則",
+      "path": "裝艙原則.md"
     },
     {
       "basename": "洋流",
@@ -179,26 +199,6 @@
     {
       "basename": "Vancouver Island Kayaking Destinations",
       "path": "Vancouver Island Kayaking Destinations.md"
-    },
-    {
-      "basename": "GIS",
-      "path": "GIS.md"
-    },
-    {
-      "basename": "收繩",
-      "path": "收繩.md"
-    },
-    {
-      "basename": "Blog Post Status",
-      "path": "Blog Post Status.base"
-    },
-    {
-      "basename": "Trips",
-      "path": "Trips.md"
-    },
-    {
-      "basename": "Blue River",
-      "path": "Blue River.md"
     }
   ],
   "omittedPaths": [],

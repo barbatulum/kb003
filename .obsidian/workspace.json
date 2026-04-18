@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "5ead6b557a46445e",
+            "id": "cc4d3394343494d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "槳語 哨音.md",
+                "file": "Saturna and Pender Island.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "槳語 哨音"
+              "title": "Saturna and Pender Island"
             }
           },
           {
-            "id": "85a0d9fde4d09ed9",
+            "id": "81f58685a9591c72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kayak Expedition.md",
+                "file": "救援.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kayak Expedition"
+              "title": "救援"
+            }
+          },
+          {
+            "id": "488a7a7d25e70ccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "登岸 Landing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "登岸 Landing"
             }
           }
         ]
@@ -306,9 +330,14 @@
   },
   "active": "8063e8d1c5742071",
   "lastOpenFiles": [
-    "槳語 哨音.md",
+    "Saturna and Pender Island.md",
+    "救援.md",
+    "登岸 Landing.md",
     "Kayak Expedition.md",
     "洋流與礁岩滑行.md",
+    "槳語 哨音.md",
+    "槳型.md",
+    "裝艙原則.md",
     "洋流.md",
     "洋流/沿岸滑行.md",
     "洋流",
@@ -328,11 +357,6 @@
     "Camping Drill I.md",
     "適合營火的木頭.md",
     "Lakes Trips 2026.md",
-    "Tarp Setup.md",
-    "BC Coastal Kayaking Weather, Ocean & Navigation Apps.md",
-    "Maligne Lake Trip.md",
-    "綁鞋帶.md",
-    "Bowron Lakes.md",
     "Destinations.base",
     "attachments/Pasted image 20260416130850.png",
     "attachments/Pasted image 20260416130839.png",
