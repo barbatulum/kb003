@@ -966,118 +966,9 @@
               "icon": "lucide-file",
               "title": "穿越海峽"
             }
-          },
-          {
-            "id": "c6a79ff3e8291aaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "South Gulf Islands.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "South Gulf Islands"
-            }
-          },
-          {
-            "id": "4b382fbfc3ff741d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Broughton Archipelago.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Broughton Archipelago"
-            }
-          },
-          {
-            "id": "50414b802ebc3cf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "接繩.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "接繩"
-            }
-          },
-          {
-            "id": "710714d7c54eb201",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hitches & Knots.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Hitches & Knots"
-            }
-          },
-          {
-            "id": "964dd679aaa87029",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Destinations.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Destinations"
-            }
           }
         ],
-        "currentTab": 40
+        "currentTab": 39
       }
     ],
     "direction": "vertical"
@@ -1269,7 +1160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "South Gulf Islands.md",
+                "file": "穿越海峽.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1279,7 +1170,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for South Gulf Islands"
+              "title": "Backlinks for 穿越海峽"
             }
           }
         ]
@@ -1302,8 +1193,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c6a79ff3e8291aaf",
+  "active": "bf5785e080fd7ae1",
   "lastOpenFiles": [
+    "Destinations.base",
+    "Hitches & Knots.md",
+    "接繩.md",
+    "Broughton Archipelago.md",
+    "South Gulf Islands.md",
     "Untitled.md",
     "穿越海峽.md",
     "attachments/Pasted image 20260416130850.png",
@@ -1314,7 +1210,6 @@
     "attachments/Pasted image 20260416130726.png",
     "Kayak Expedition.md",
     "Overlanding.md",
-    "Broughton Archipelago.md",
     "用水.md",
     "Sawyard Forest.md",
     "Bowron Lakes.md",
@@ -1328,20 +1223,15 @@
     "Media.md",
     "Overlanding 收納與空間配置.md",
     "Banff.md",
-    "Destinations.base",
     "Vancouver Island Kayaking Destinations - Research.md",
     "Vancouver Island Kayaking Destinations.md",
     "GIS.md",
     "收繩.md",
-    "接繩.md",
-    "Hitches & Knots.md",
     "Blog Post Status.base",
     "Maligne Lake Trip.md",
-    "Knots.md",
     "attachments/Pasted image 20260317125253.png",
     "attachments/Pasted image 20260317125010.png",
     "attachments/Pasted image 20260317124744.png",
-    "Knots & Hitches.md",
     "attachments/wells_gray_clearwater_azure_marine_map_f0ac0fd443.pdf",
     "attachments/exiftool(-k).exe",
     "attachments",
