@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "洋流與礁岩滑行.md",
+                "file": "360 Photo exif metadata.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "洋流與礁岩滑行"
+              "title": "360 Photo exif metadata"
             }
           },
           {
@@ -196,7 +196,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stations",
+                "query": "meta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -295,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "洋流與礁岩滑行.md",
+                "file": "360 Photo exif metadata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,7 +305,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 洋流與礁岩滑行"
+              "title": "Backlinks for 360 Photo exif metadata"
             }
           }
         ]
@@ -330,11 +330,11 @@
   },
   "active": "8063e8d1c5742071",
   "lastOpenFiles": [
+    "洋流與礁岩滑行.md",
     "Saturna and Pender Island.md",
     "救援.md",
     "登岸 Landing.md",
     "Kayak Expedition.md",
-    "洋流與礁岩滑行.md",
     "槳語 哨音.md",
     "槳型.md",
     "裝艙原則.md",
