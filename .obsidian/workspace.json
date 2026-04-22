@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Checleset Bay, Bunsby, and Southeast Brooks Peninsula.md",
+                "file": "Kayak Expedition.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Checleset Bay, Bunsby, and Southeast Brooks Peninsula"
+              "title": "Kayak Expedition"
             }
           },
           {
@@ -344,7 +344,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Checleset Bay, Bunsby, and Southeast Brooks Peninsula.md",
+                "file": "Kayak Expedition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -354,7 +354,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Checleset Bay, Bunsby, and Southeast Brooks Peninsula"
+              "title": "Backlinks for Kayak Expedition"
             }
           }
         ]
@@ -379,6 +379,7 @@
   },
   "active": "0f6dab5436fe10a2",
   "lastOpenFiles": [
+    "Cape Scott.md",
     "Kayak Expedition.md",
     "Checleset Bay, Bunsby, and Southeast Brooks Peninsula.md",
     "Vancouver Island Kayaking Destinations - Research.md",
@@ -401,7 +402,6 @@
     "Capsized 翻船.md",
     "Ecoflow.md",
     "大熊雨林.md",
-    "Cape Scott.md",
     "South Gulf Islands.md",
     "Braca 新槳組裝.md",
     "Quesadilla.md",

@@ -33,6 +33,8 @@
 	    - [[Kyuquot sound]]
 	    - [[Checleset Bay, Bunsby, and Southeast Brooks Peninsula]]
 	    - [[Quatsino Sound and NW Brooks Peninsula]]
+	    - [[Cape Scott]]
+	    - [[Goletas Channel - NE Vancouver Island region]]
 
 # Misc
 - [[Overlanding Useful Links]]
