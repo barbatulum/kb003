@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kayak Expedition.md",
+                "file": "Checleset Bay, Bunsby, and Southeast Brooks Peninsula.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kayak Expedition"
+              "title": "Checleset Bay, Bunsby, and Southeast Brooks Peninsula"
+            }
+          },
+          {
+            "id": "a60d689182a4569d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vancouver Island Kayaking Destinations - Research.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vancouver Island Kayaking Destinations - Research"
             }
           },
           {
@@ -320,7 +344,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kayak Expedition.md",
+                "file": "Checleset Bay, Bunsby, and Southeast Brooks Peninsula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -330,7 +354,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kayak Expedition"
+              "title": "Backlinks for Checleset Bay, Bunsby, and Southeast Brooks Peninsula"
             }
           }
         ]
@@ -355,10 +379,12 @@
   },
   "active": "0f6dab5436fe10a2",
   "lastOpenFiles": [
-    "Broughton Archipelago.md",
     "Kayak Expedition.md",
-    "Broken Group.md",
+    "Checleset Bay, Bunsby, and Southeast Brooks Peninsula.md",
+    "Vancouver Island Kayaking Destinations - Research.md",
     "Barkley Sound.md",
+    "Broughton Archipelago.md",
+    "Broken Group.md",
     "360 Photo exif metadata.md",
     "洋流與礁岩滑行.md",
     "Saturna and Pender Island.md",
@@ -380,8 +406,6 @@
     "Braca 新槳組裝.md",
     "Quesadilla.md",
     "Camp Sandwich.md",
-    "Overlanding Useful Links.md",
-    "Camping Drill I.md",
     "Destinations.base",
     "attachments/Pasted image 20260416130850.png",
     "attachments/Pasted image 20260416130839.png",

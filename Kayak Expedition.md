@@ -19,11 +19,20 @@
 	- 海岸線
 	   [[Vancouver Island Kayaking Destinations - Research]]
 	    - Vancouver Island
+		    - [[Barkley Sound]]
+			    - [[Broken Group]]
+			    - Deer Group
 		    - [[Broughton Archipelago]]
-		    - [[Broken Group]]
-		    - [[Tofino]]
-	    - Sunshine Coast
-	    - 
+		    - Clayoquot Sound
+			    - [[Tofino]]
+			- [[Discovery Islands]]
+			    - [[Desolation Sound]]
+		    - [[South Gulf Islands]]
+	    - [[Nootka Sound]]
+	    - [[Nuchatlitz and Esperanza Inlet]]
+	    - [[Kyuquot sound]]
+	    - [[Checleset Bay, Bunsby, and Southeast Brooks Peninsula]]
+	    - [[Quatsino Sound and NW Brooks Peninsula]]
 
 # Misc
 - [[Overlanding Useful Links]]
