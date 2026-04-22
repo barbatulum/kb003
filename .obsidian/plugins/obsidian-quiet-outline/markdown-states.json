@@ -558,11 +558,11 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 451
+        "ch": 452
       },
       "to": {
         "line": 0,
-        "ch": 1
+        "ch": 0
       }
     },
     "expandedKeys": []
