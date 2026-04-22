@@ -1,6 +1,6 @@
 {
   "Broughton Archipelago.md": {
-    "scroll": 0,
+    "scroll": 45.757936121685205,
     "cursor": {
       "from": {
         "line": 5,
@@ -361,12 +361,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 3,
-        "ch": 9
+        "line": 5,
+        "ch": 0
       },
       "to": {
-        "line": 3,
-        "ch": 9
+        "line": 5,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -926,15 +926,15 @@
     "expandedKeys": []
   },
   "Kayak Expedition.md": {
-    "scroll": 0,
+    "scroll": 3.8989897121666584,
     "cursor": {
       "from": {
-        "line": 9,
-        "ch": 8
+        "line": 23,
+        "ch": 18
       },
       "to": {
-        "line": 9,
-        "ch": 8
+        "line": 23,
+        "ch": 18
       }
     },
     "expandedKeys": []
@@ -1367,11 +1367,11 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 1
+        "ch": 0
       },
       "to": {
         "line": 0,
-        "ch": 1
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -1528,6 +1528,34 @@
       "to": {
         "line": 22,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Broken Groups.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Broken Group.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 14
+      },
+      "to": {
+        "line": 5,
+        "ch": 14
       }
     },
     "expandedKeys": []

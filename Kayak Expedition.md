@@ -13,12 +13,17 @@
 - 
 # Expedition
 - [[野生動物預防]]
+# Destinations
 - [[Vancouver Island Kayaking Destinations]] (下船點,營地, 潮流, 路線)
 	- [[內陸湖泊和河流]]
-	- 海岸線 [[Vancouver Island Kayaking Destinations - Research]]
+	- 海岸線
+	   [[Vancouver Island Kayaking Destinations - Research]]
 	    - Vancouver Island
+		    - [[Broughton Archipelago]]
+		    - [[Broken Group]]
+		    - [[Tofino]]
 	    - Sunshine Coast
-	    - [[Broughton Archipelago]]
+	    - 
 
 # Misc
 - [[Overlanding Useful Links]]
