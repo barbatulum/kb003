@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vancouver Island Kayaking Destinations - Research.md",
+                "file": "Saturna Island.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vancouver Island Kayaking Destinations - Research"
+              "title": "Saturna Island"
             }
           },
           {
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -368,7 +368,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camping Tent Setup.md",
+                "file": "Saturna Island.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -378,7 +378,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Camping Tent Setup"
+              "title": "Backlinks for Saturna Island"
             }
           }
         ]
@@ -401,19 +401,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "88770ae24fbf3038",
+  "active": "a60d689182a4569d",
   "lastOpenFiles": [
-    "Kayak Expedition.md",
+    "Saturna and Pender Island.md",
+    "Saturna Island.md",
+    "Vancouver Island Kayaking Destinations - Research.md",
     "Camping Tent Setup.md",
+    "Kayak Expedition.md",
     "Cape Scott.md",
     "Checleset Bay, Bunsby, and Southeast Brooks Peninsula.md",
-    "Vancouver Island Kayaking Destinations - Research.md",
     "Barkley Sound.md",
     "Broughton Archipelago.md",
     "Broken Group.md",
     "360 Photo exif metadata.md",
     "洋流與礁岩滑行.md",
-    "Saturna and Pender Island.md",
     "救援.md",
     "登岸 Landing.md",
     "槳語 哨音.md",
@@ -429,7 +430,6 @@
     "大熊雨林.md",
     "South Gulf Islands.md",
     "Braca 新槳組裝.md",
-    "Quesadilla.md",
     "Destinations.base",
     "attachments/Pasted image 20260416130850.png",
     "attachments/Pasted image 20260416130839.png",
