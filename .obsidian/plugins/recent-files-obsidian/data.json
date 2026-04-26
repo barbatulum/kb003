@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Camping Tent Setup",
+      "path": "Camping Tent Setup.md"
+    },
+    {
       "basename": "Kayak Expedition",
       "path": "Kayak Expedition.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Hiking",
       "path": "Hiking.md"
-    },
-    {
-      "basename": "Media",
-      "path": "Media.md"
     }
   ],
   "omittedPaths": [],

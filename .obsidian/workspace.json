@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "88770ae24fbf3038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Camping Tent Setup.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Camping Tent Setup"
+            }
+          },
+          {
             "id": "a60d689182a4569d",
             "type": "leaf",
             "state": {
@@ -152,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -344,7 +368,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kayak Expedition.md",
+                "file": "Camping Tent Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -354,7 +378,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kayak Expedition"
+              "title": "Backlinks for Camping Tent Setup"
             }
           }
         ]
@@ -377,10 +401,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0f6dab5436fe10a2",
+  "active": "88770ae24fbf3038",
   "lastOpenFiles": [
-    "Cape Scott.md",
     "Kayak Expedition.md",
+    "Camping Tent Setup.md",
+    "Cape Scott.md",
     "Checleset Bay, Bunsby, and Southeast Brooks Peninsula.md",
     "Vancouver Island Kayaking Destinations - Research.md",
     "Barkley Sound.md",
@@ -405,7 +430,6 @@
     "South Gulf Islands.md",
     "Braca 新槳組裝.md",
     "Quesadilla.md",
-    "Camp Sandwich.md",
     "Destinations.base",
     "attachments/Pasted image 20260416130850.png",
     "attachments/Pasted image 20260416130839.png",
