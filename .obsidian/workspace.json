@@ -109,8 +109,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blue River.md",
-                "mode": "preview",
+                "file": "Overlanding Useful Links.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Blue River"
+              "title": "Overlanding Useful Links"
             }
           },
           {
@@ -368,7 +368,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blue River.md",
+                "file": "Overlanding Useful Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -378,7 +378,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Blue River"
+              "title": "Backlinks for Overlanding Useful Links"
             }
           }
         ]
@@ -403,9 +403,9 @@
   },
   "active": "81f58685a9591c72",
   "lastOpenFiles": [
+    "Blue River.md",
     "登岸 Landing.md",
     "Kinbasket Lake.md",
-    "Blue River.md",
     "attachments/Pasted image 20260427094518.png",
     "attachments/Pasted image 20260427094503.png",
     "attachments/Pasted image 20260427094441.png",
