@@ -23,3 +23,6 @@
 - 
 
  North Thompson River 是北往南流, 七八月比較慢, 五六月融雪季流速很快
+
+# Kinbasket Lake
+![[Kinbasket Lake]]

@@ -487,12 +487,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 5
+        "line": 8,
+        "ch": 24
       },
       "to": {
-        "line": 4,
-        "ch": 5
+        "line": 8,
+        "ch": 24
       }
     },
     "expandedKeys": []
@@ -932,12 +932,12 @@
     "scroll": 13.143262497922207,
     "cursor": {
       "from": {
-        "line": 29,
-        "ch": 30
+        "line": 46,
+        "ch": 6
       },
       "to": {
-        "line": 29,
-        "ch": 30
+        "line": 46,
+        "ch": 6
       }
     },
     "expandedKeys": []
@@ -1032,15 +1032,15 @@
     "expandedKeys": []
   },
   "Blue River.md": {
-    "scroll": 7.0122124631081535,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 11,
-        "ch": 40
+        "line": 10,
+        "ch": 6
       },
       "to": {
-        "line": 11,
-        "ch": 40
+        "line": 10,
+        "ch": 8
       }
     },
     "expandedKeys": [
@@ -1483,12 +1483,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 22,
-        "ch": 88
+        "line": 0,
+        "ch": 13
       },
       "to": {
-        "line": 22,
-        "ch": 88
+        "line": 0,
+        "ch": 13
       }
     },
     "expandedKeys": []
@@ -1595,12 +1595,26 @@
     "scroll": 0,
     "cursor": {
       "from": {
+        "line": 12,
+        "ch": 0
+      },
+      "to": {
+        "line": 12,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Kinbasket Lake.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
         "line": 6,
-        "ch": 12
+        "ch": 0
       },
       "to": {
         "line": 6,
-        "ch": 12
+        "ch": 0
       }
     },
     "expandedKeys": []
