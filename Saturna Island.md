@@ -4,3 +4,4 @@ Veruna Beach
 Winter Point
 Brown Ridge
 Thompson Park / Saturna Beach
+Launch Point
