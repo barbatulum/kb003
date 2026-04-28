@@ -16,6 +16,7 @@
 # Destinations
 - [[Vancouver Island Kayaking Destinations]] (下船點,營地, 潮流, 路線)
 	- [[內陸湖泊和河流]]
+		- [Paddling Near Edmonton, Alberta, Canada: Guide to Lakes](https://edmontoncanoeing.blogspot.com/p/guide-to-lakes.html)
 	- 海岸線
 	   [[Vancouver Island Kayaking Destinations - Research]]
 	    - Vancouver Island

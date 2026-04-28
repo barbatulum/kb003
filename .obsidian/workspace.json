@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overlanding.md",
+                "file": "Kayak Expedition.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Overlanding"
+              "title": "Kayak Expedition"
             }
           },
           {
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -368,7 +368,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overlanding Useful Links.md",
+                "file": "Kayak Expedition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -378,7 +378,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Overlanding Useful Links"
+              "title": "Backlinks for Kayak Expedition"
             }
           }
         ]
@@ -401,8 +401,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "81f58685a9591c72",
+  "active": "0f6dab5436fe10a2",
   "lastOpenFiles": [
+    "Overlanding.md",
+    "Saturna Island.md",
+    "Saturna and Pender Island.md",
+    "Overlanding Useful Links.md",
     "Blue River.md",
     "登岸 Landing.md",
     "Kinbasket Lake.md",
@@ -410,9 +414,6 @@
     "attachments/Pasted image 20260427094503.png",
     "attachments/Pasted image 20260427094441.png",
     "救援.md",
-    "Saturna and Pender Island.md",
-    "Saturna Island.md",
-    "Overlanding.md",
     "Barkley Sound.md",
     "Camping Tent Setup.md",
     "Kayak Expedition.md",
@@ -432,7 +433,6 @@
     "8mlways2l.md",
     "Haida Gwaii.md",
     "Capsized 翻船.md",
-    "Ecoflow.md",
     "Destinations.base",
     "attachments/Pasted image 20260416130850.png",
     "attachments/Pasted image 20260416130839.png",
