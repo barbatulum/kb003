@@ -39,36 +39,48 @@ Saturna 和 Pender 的 VRZ 內不得漁撈或行船。為人力船安全考量�
 不能橫渡 VRZ 中間水域
 看到鯨時立刻退到 400m / 1000m 外（取決於是 SRKW 或其他）
 
-
-
 # 路線
+
+## Saturna Island South
 ![[Pasted image 20260429104444.png]]
 
-海事頻道
+## Saturna Island East
+![[Pasted image 20260429135553.png]]
+
+
+## South Pender Island
+![[Pasted image 20260429135635.png]]
+
+## North Pender Island East
+![[Pasted image 20260429135658.png]]
+
 
 # 潮汐洋流規劃
 ## Current
-### Active Pass (Mayne Island 早上 slack 前出發, 越早越好,看情況通過水道, 利用 slack 通過 Georgeson Passage)
-|      |           |           | km/h |      |
-| ---- | --------- | --------- | ---- | ---- |
-| 6/27 | 6:25      | ebb       | 7.13 | 225° |
-| Sat  | **9:45**  | **slack** |      |      |
-|      | 1:24      | flood     | 8.58 | 45°  |
-|      | 17:10     | slack     |      |      |
-|      | 20:09     | ebb       | 5.45 | 225° |
-|      |           |           |      |      |
-| 6/28 | 7:06      | ebb       | 7.04 | 225° |
-| Sun  | **10:22** | **slack** |      |      |
-|      | 14:02     | flood     | 8.89 | 45°  |
-|      | **17:48** | **slack** |      |      |
-|      | 20:49     | ebb       | 5.82 | 225° |
-|      |           |           |      |      |
-| 6/29 | 7:06      | ebb       | 7.04 | 225° |
-| Mon  | **10:22** | **slack** |      |      |
-|      | 14:02     | flood     | 8.89 | 45°  |
-|      | **17:48** | **slack** |      |      |
-|      | 20:49     | ebb       | 5.82 | 225° |
-### Skipjack Island (Saturna east, 早上 ebb 過後出發)
+### Active Pass, flood往北, ebb往南(including Pender Island Hopebay)
+- Mayne Island 早上 slack 前出發, 越早越好,看情況通過水道, 利用 slack 通過 Georgeson Passage
+- Pender Island從 Hopebay, slack 前(ebb)出發, 先南後北
+
+|      |           |           | km/h |      |     |      |           |           | km/h |      |
+| ---- | --------- | --------- | ---- | ---- | --- | ---- | --------- | --------- | ---- | ---- |
+| 6/27 | 6:25      | ebb       | 7.13 | 225° |     | 7/1  | **5:01**  | **slack** |      |      |
+| Sat  | **9:45**  | **slack** |      |      |     | Wed  | 9:02      | ebb       | 7.09 | 225° |
+|      | 1:24      | flood     | 8.58 | 45°  |     |      | **12:13** | **slack** |      |      |
+|      | **17:10** | **slack** |      |      |     |      | 15:51     | flood     | 9.17 | 45°  |
+|      | 20:09     | ebb       | 5.45 | 225° |     |      | **19:31** | **slack** |      |      |
+|      |           |           |      |      |     |      |           |           |      |      |
+| 6/28 | 7:06      | ebb       | 7.04 | 225° |     | 7/2  | **5:45**  | **slack** |      |      |
+| Sun  | **10:22** | **slack** |      |      |     | Thur | 9:39      | ebb       | 7.06 | 225° |
+|      | 14:02     | flood     | 8.89 | 45°  |     |      | **12:50** | **slack** |      |      |
+|      | **17:48** | **slack** |      |      |     |      | 16:25     | flood     | 9.05 | 45°  |
+|      | 20:49     | ebb       | 5.82 | 225° |     |      | **20:02** | **slack** |      |      |
+|      |           |           |      |      |     |      |           |           |      |      |
+| 6/29 | 7:45      | ebb       | 7.03 | 225° |     | 7/3  | **6:32**  | **slack** |      |      |
+| Mon  | **11:00** | **slack** |      |      |     | Fri  | 10:18     | ebb       | 6.86 | 225° |
+|      | 14:40     | flood     | 9.07 | 45°  |     |      | **13:27** | **slack** |      |      |
+|      | **18:24** | **slack** |      |      |     |      | 16:59     | flood     | 8.72 | 45°  |
+|      | 21:26     | ebb       | 6.07 | 225° |     |      | **20:32** | **slack** |      |      |
+### Skipjack Island (Saturna east, 早上 ebb 過後出發, flood往東北, ebb往西北西)
 |      |           |           | km/h |      |
 | ---- | --------- | --------- | ---- | ---- |
 | 6/27 | **3:43**  | **slack** |      |      |
