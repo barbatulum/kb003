@@ -1497,15 +1497,17 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 3,
-        "ch": 18
+        "line": 9,
+        "ch": 83
       },
       "to": {
-        "line": 3,
-        "ch": 18
+        "line": 9,
+        "ch": 83
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-1"
+    ]
   },
   "自救.md": {
     "scroll": 0,

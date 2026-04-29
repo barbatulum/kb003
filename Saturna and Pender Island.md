@@ -1,7 +1,46 @@
 ---
 theme: destination
 ---
+# Reference
+- [KAYAKING SATURNA ISLAND, BC - Our Home Has 6 Wheels](https://www.ourhomehas6wheels.com/kayaking-saturna-island/)
 [[Saturna Island]]
+
+# 鯨魚
+- Plumper Sound
+  夾在 Pender Island 和 Saturna Island 之間的內海。鯨況相對較弱，是航行通道而非主要覓食區。San Juan Safaris 的航程記錄顯示偶爾會穿越此處看到 humpback 和 orca，但不是主要賞鯨點。
+- Swanson Channel
+  位於 Pender Island 外側，是 Southern Resident Killer Whale（SRKW）指定的 critical habitat 覓食重點區。自 2019 年起設有 Interim Sanctuary Zone（ISZ），六月到十一月禁止船隻進入。也就是說——這裡鯨況理論上很好，但船隻（包括休閒船和 kayak）在旺季無法靠近。
+- Boundary Pass
+  連接 Haro Strait 和 Strait of Georgia，是 SRKW 三族（J、K、L pod）的重要覓食走廊，與鮭魚洄游路徑重疊。ECHO Program 在六月到十一月實施商船減速，2026 年還擴增到三月，因為 SRKW 出現率提升。賞鯨旺季五到十月，但 SRKW 數量已降到約 75 頭，遇見率逐年下降。Bigg's (Transient Orca, 過境型虎鯨) 和 humpback 反而出現頻率上升。
+- Gray Whale 灰鯨 — 3–5 月限定
+  Sounders 是一小群固定在 Puget Sound 北部停留覓食的灰鯨，靠吃潮間帶的 ghost shrimp（泥蝦）。主要 3–5 月北遷時經過。
+- 海豚
+  Harbour Porpoise / Dall's Porpoise / Pacific White-sided Dolphin
+  一整年都有，especially Dall's porpoise 會衝浪船頭。
+### Pender Island
+- Oaks Bluff Park：100 公尺高，兩個觀景點俯瞰 Swanson Channel。角度好，但鯨隻在 Swanson Channel 活動時會比 East Point 距離遠。 
+- Gowlland Point（South Pender 東南角）：看 Boundary Pass 入口，視野接近 East Point 但人少很多。
+- Thieves Bay：Whale Trail 認證點，Swanson Channel 日落視角。
+
+
+
+
+### 座頭鯨出沒熱點
+![[Pasted image 20260429100652.png]]
+# 保育航行限制區![[Pasted image 20260429095324.png]]
+Interim Order 禁止船隻（包括 kayak、canoe、paddleboard 等人力推進船）在 SRKW critical habitat 以及 Campbell River 到 Ucluelet 以北的 BC 沿岸水域接近任何 killer whale 距離 400 公尺以內。全年有效，從 2025 年 6 月 1 日到 2026 年 5 月 31 日。 Government of Canada
+注意：2026 年 6 月 1 日起，SRKW 的距離從 400m 升級到 1000m（其他 orca 仍是 400m）。
+**Vessel Restricted Zones（VRZ，原 ISZ）**
+North Pender 西南外海（Swanson Channel 側）
+Saturna 東側（East Point 外海）
+Saturna 和 Pender 的 VRZ 內不得漁撈或行船。為人力船安全考量，沿岸有 20 公尺通行廊道供 kayaker 通過。若鯨在 VRZ 內，paddler 仍須保持距離 400 公尺以外。 
+**實務意義：**
+可以沿 Saturna 東岸或 Pender 西南岸 kayak，但必須貼著岸線 20 公尺內通過 VRZ
+不能橫渡 VRZ 中間水域
+看到鯨時立刻退到 400m / 1000m 外（取決於是 SRKW 或其他）
+
+
+
 路線
 
 海事頻道

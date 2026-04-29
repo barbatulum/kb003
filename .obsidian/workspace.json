@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mud Lake Delta.md",
+                "file": "Saturna and Pender Island.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mud Lake Delta"
+              "title": "Saturna and Pender Island"
             }
           },
           {
@@ -392,7 +392,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mud Lake Delta.md",
+                "file": "Saturna and Pender Island.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -402,7 +402,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mud Lake Delta"
+              "title": "Backlinks for Saturna and Pender Island"
             }
           }
         ]
@@ -427,8 +427,10 @@
   },
   "active": "5282e635ada85e63",
   "lastOpenFiles": [
-    "attachments/Pasted image 20260429092530.png",
+    "attachments/Pasted image 20260429100652.png",
+    "attachments/Pasted image 20260429095324.png",
     "Mud Lake Delta.md",
+    "attachments/Pasted image 20260429092530.png",
     "Blue River.md",
     "Kayak Expedition.md",
     "Overlanding.md",
@@ -463,8 +465,6 @@
     "attachments/Pasted image 20260416130823.png",
     "attachments/Pasted image 20260416130803.png",
     "attachments/Pasted image 20260416130744.png",
-    "attachments/Pasted image 20260416130726.png",
-    "attachments/Pasted image 20260330113219.png",
     "Blog Post Status.base",
     "attachments/wells_gray_clearwater_azure_marine_map_f0ac0fd443.pdf",
     "attachments/exiftool(-k).exe",
