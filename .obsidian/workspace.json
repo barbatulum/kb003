@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "427c98ad4d2694bd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "attachments/Pasted image 20260429100652.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260429100652"
+            }
+          },
+          {
             "id": "a60d689182a4569d",
             "type": "leaf",
             "state": {
@@ -427,7 +439,9 @@
   },
   "active": "5282e635ada85e63",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260429104444.png",
     "attachments/Pasted image 20260429100652.png",
+    "Saturna and Pender Island.md",
     "attachments/Pasted image 20260429095324.png",
     "Mud Lake Delta.md",
     "attachments/Pasted image 20260429092530.png",
@@ -435,7 +449,6 @@
     "Kayak Expedition.md",
     "Overlanding.md",
     "Saturna Island.md",
-    "Saturna and Pender Island.md",
     "Overlanding Useful Links.md",
     "登岸 Landing.md",
     "Kinbasket Lake.md",
@@ -464,7 +477,6 @@
     "attachments/Pasted image 20260416130839.png",
     "attachments/Pasted image 20260416130823.png",
     "attachments/Pasted image 20260416130803.png",
-    "attachments/Pasted image 20260416130744.png",
     "Blog Post Status.base",
     "attachments/wells_gray_clearwater_azure_marine_map_f0ac0fd443.pdf",
     "attachments/exiftool(-k).exe",
