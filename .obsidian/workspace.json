@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kayak Expedition.md",
+                "file": "Blue River.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kayak Expedition"
+              "title": "Blue River"
+            }
+          },
+          {
+            "id": "5282e635ada85e63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mud Lake Delta.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mud Lake Delta"
             }
           },
           {
@@ -176,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -368,7 +392,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kayak Expedition.md",
+                "file": "Mud Lake Delta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -378,7 +402,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kayak Expedition"
+              "title": "Backlinks for Mud Lake Delta"
             }
           }
         ]
@@ -401,13 +425,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0f6dab5436fe10a2",
+  "active": "5282e635ada85e63",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260429092530.png",
+    "Mud Lake Delta.md",
+    "Blue River.md",
+    "Kayak Expedition.md",
     "Overlanding.md",
     "Saturna Island.md",
     "Saturna and Pender Island.md",
     "Overlanding Useful Links.md",
-    "Blue River.md",
     "登岸 Landing.md",
     "Kinbasket Lake.md",
     "attachments/Pasted image 20260427094518.png",
@@ -416,7 +443,6 @@
     "救援.md",
     "Barkley Sound.md",
     "Camping Tent Setup.md",
-    "Kayak Expedition.md",
     "Vancouver Island Kayaking Destinations - Research.md",
     "Cape Scott.md",
     "Checleset Bay, Bunsby, and Southeast Brooks Peninsula.md",
@@ -431,8 +457,6 @@
     "洋流/沿岸滑行.md",
     "洋流",
     "8mlways2l.md",
-    "Haida Gwaii.md",
-    "Capsized 翻船.md",
     "Destinations.base",
     "attachments/Pasted image 20260416130850.png",
     "attachments/Pasted image 20260416130839.png",

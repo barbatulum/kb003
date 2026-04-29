@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Mud Lake Delta",
+      "path": "Mud Lake Delta.md"
+    },
+    {
+      "basename": "Blue River",
+      "path": "Blue River.md"
+    },
+    {
       "basename": "Kayak Expedition",
       "path": "Kayak Expedition.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Overlanding Useful Links",
       "path": "Overlanding Useful Links.md"
-    },
-    {
-      "basename": "Blue River",
-      "path": "Blue River.md"
     },
     {
       "basename": "登岸 Landing",
@@ -195,10 +199,6 @@
     {
       "basename": "接繩",
       "path": "接繩.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     }
   ],
   "omittedPaths": [],

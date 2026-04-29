@@ -4,7 +4,7 @@
 ### Blue River to Mud Lake ![[Pasted image 20260316093251.png]]
   要注意North Thompson那段會逆流, 如果流速快最好不要這樣走
   
-### Mud Lake to Delta
+### [[Mud Lake Delta]]
 風向通常是西向東, 回來會逆風![[Pasted image 20260316093457.png]]
 #### 河道
 - 紅色是 Beaver marsh side channel, channel 很窄, beaver dam, 水草很多, dead end
