@@ -27,8 +27,9 @@ theme: destination
 
 ### 座頭鯨出沒熱點
 ![[Pasted image 20260429100652.png]]
-# 保育航行限制區![[Pasted image 20260429095324.png]]
-Interim Order 禁止船隻（包括 kayak、canoe、paddleboard 等人力推進船）在 SRKW critical habitat 以及 Campbell River 到 Ucluelet 以北的 BC 沿岸水域接近任何 killer whale 距離 400 公尺以內。全年有效，從 2025 年 6 月 1 日到 2026 年 5 月 31 日。 Government of Canada
+# 保育航行限制區
+![[Pasted image 20260429095324.png]]
+Interim Order 禁止船隻（包括 kayak、canoe、paddleboard ）在 SRKW critical habitat 以及 Campbell River 到 Ucluelet 以北的 BC 沿岸水域接近任何 killer whale 距離 400 公尺以內。全年有效，從 2025 年 6 月 1 日到 2026 年 5 月 31 日。 Government of Canada
 注意：2026 年 6 月 1 日起，SRKW 的距離從 400m 升級到 1000m（其他 orca 仍是 400m）。
 **Vessel Restricted Zones（VRZ，原 ISZ）**
 North Pender 西南外海（Swanson Channel 側）
