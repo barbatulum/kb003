@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overlanding.md",
+                "file": "360 Photo exif metadata.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Overlanding"
+              "title": "360 Photo exif metadata"
             }
           },
           {
@@ -404,7 +404,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overlanding.md",
+                "file": "360 Photo exif metadata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -414,7 +414,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Overlanding"
+              "title": "Backlinks for 360 Photo exif metadata"
             }
           }
         ]
@@ -439,8 +439,8 @@
   },
   "active": "5282e635ada85e63",
   "lastOpenFiles": [
-    "Skiing.md",
     "Overlanding.md",
+    "Skiing.md",
     "Saturna and Pender Island.md",
     "attachments/Pasted image 20260429135658.png",
     "attachments/Pasted image 20260429135635.png",
