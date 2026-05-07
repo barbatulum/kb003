@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "360 Photo exif metadata.md",
+                "file": "Kayak Expedition.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "360 Photo exif metadata"
+              "title": "Kayak Expedition"
+            }
+          },
+          {
+            "id": "2d86ac0021592d9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "野生動物預防.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "野生動物預防"
+            }
+          },
+          {
+            "id": "2b53f56c0ca310e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weather and Lee cocking.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Weather and Lee cocking"
             }
           },
           {
@@ -212,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -404,7 +452,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "360 Photo exif metadata.md",
+                "file": "野生動物預防.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -414,7 +462,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 360 Photo exif metadata"
+              "title": "Backlinks for 野生動物預防"
             }
           }
         ]
@@ -437,9 +485,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5282e635ada85e63",
+  "active": "2d86ac0021592d9b",
   "lastOpenFiles": [
+    "Kayak Expedition.md",
     "Overlanding.md",
+    "Destinations.base",
+    "8mlways2l.md",
+    "浪上.md",
+    "Weather and Lee cocking.md",
+    "獨木舟 Paddling Skills.md",
+    "360 Photo exif metadata.md",
     "Skiing.md",
     "Saturna and Pender Island.md",
     "attachments/Pasted image 20260429135658.png",
@@ -452,7 +507,6 @@
     "Mud Lake Delta.md",
     "attachments/Pasted image 20260429092530.png",
     "Blue River.md",
-    "Kayak Expedition.md",
     "Saturna Island.md",
     "Overlanding Useful Links.md",
     "登岸 Landing.md",
@@ -467,16 +521,9 @@
     "Checleset Bay, Bunsby, and Southeast Brooks Peninsula.md",
     "Broughton Archipelago.md",
     "Broken Group.md",
-    "360 Photo exif metadata.md",
     "洋流與礁岩滑行.md",
     "槳語 哨音.md",
-    "槳型.md",
-    "裝艙原則.md",
-    "洋流.md",
-    "洋流/沿岸滑行.md",
     "洋流",
-    "8mlways2l.md",
-    "Destinations.base",
     "Blog Post Status.base",
     "attachments/wells_gray_clearwater_azure_marine_map_f0ac0fd443.pdf",
     "attachments/exiftool(-k).exe",

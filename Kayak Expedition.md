@@ -2,6 +2,8 @@
 # Paddling
 - [[獨木舟 Paddling Skills]]
 	- [[Kayak 平移技巧]]
+	- [[Weather and Lee cocking]]
+	- [[浪上]]
 - [[Capsized 翻船]]
 - [[洋流與礁岩滑行]]
 - [[槳語 哨音]]
