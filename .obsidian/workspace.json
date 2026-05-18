@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "0df8efaaf7a9c4d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "離岸流.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "離岸流"
+            }
+          },
+          {
             "id": "2d86ac0021592d9b",
             "type": "leaf",
             "state": {
@@ -452,7 +476,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "車是基地 vs 車只是交通工具.md",
+                "file": "離岸流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -462,7 +486,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 車是基地 vs 車只是交通工具"
+              "title": "Backlinks for 離岸流"
             }
           }
         ]
@@ -485,18 +509,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2d86ac0021592d9b",
+  "active": "0df8efaaf7a9c4d7",
   "lastOpenFiles": [
-    "8mlways2l.md",
+    "穿越海峽.md",
+    "離岸流.md",
+    "Kayak Expedition.md",
+    "評估流速.md",
+    "洋流與礁岩滑行.md",
+    "浪上.md",
     "車是基地 vs 車只是交通工具.md",
+    "8mlways2l.md",
     "Hiking.md",
     "Overlanding.md",
     "Skiing.md",
     "360 Photo exif metadata.md",
     "野生動物預防.md",
-    "Kayak Expedition.md",
     "Destinations.base",
-    "浪上.md",
     "Weather and Lee cocking.md",
     "獨木舟 Paddling Skills.md",
     "Saturna and Pender Island.md",
@@ -520,10 +548,6 @@
     "Barkley Sound.md",
     "Camping Tent Setup.md",
     "Vancouver Island Kayaking Destinations - Research.md",
-    "Cape Scott.md",
-    "Checleset Bay, Bunsby, and Southeast Brooks Peninsula.md",
-    "Broughton Archipelago.md",
-    "Broken Group.md",
     "洋流",
     "Blog Post Status.base",
     "attachments/wells_gray_clearwater_azure_marine_map_f0ac0fd443.pdf",

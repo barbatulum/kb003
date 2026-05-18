@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "離岸流",
+      "path": "離岸流.md"
+    },
+    {
+      "basename": "穿越海峽",
+      "path": "穿越海峽.md"
+    },
+    {
+      "basename": "Kayak Expedition",
+      "path": "Kayak Expedition.md"
+    },
+    {
+      "basename": "評估流速",
+      "path": "評估流速.md"
+    },
+    {
+      "basename": "洋流與礁岩滑行",
+      "path": "洋流與礁岩滑行.md"
+    },
+    {
+      "basename": "浪上",
+      "path": "浪上.md"
+    },
+    {
       "basename": "車是基地 vs 車只是交通工具",
       "path": "車是基地 vs 車只是交通工具.md"
     },
@@ -29,16 +53,8 @@
       "path": "野生動物預防.md"
     },
     {
-      "basename": "Kayak Expedition",
-      "path": "Kayak Expedition.md"
-    },
-    {
       "basename": "Destinations",
       "path": "Destinations.base"
-    },
-    {
-      "basename": "浪上",
-      "path": "浪上.md"
     },
     {
       "basename": "Weather and Lee cocking",
@@ -113,10 +129,6 @@
       "path": "Broken Group.md"
     },
     {
-      "basename": "洋流與礁岩滑行",
-      "path": "洋流與礁岩滑行.md"
-    },
-    {
       "basename": "槳語 哨音",
       "path": "槳語 哨音.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "BC Coastal Kayaking Weather, Ocean & Navigation Apps",
       "path": "BC Coastal Kayaking Weather, Ocean & Navigation Apps.md"
-    },
-    {
-      "basename": "Maligne Lake Trip",
-      "path": "Maligne Lake Trip.md"
-    },
-    {
-      "basename": "綁鞋帶",
-      "path": "綁鞋帶.md"
-    },
-    {
-      "basename": "Bowron Lakes",
-      "path": "Bowron Lakes.md"
     }
   ],
   "omittedPaths": [],
