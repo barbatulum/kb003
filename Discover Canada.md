@@ -43,6 +43,14 @@ ROYAL NEW FRANCE
 蓋友·卡爾頓爵士（多徹斯特勛爵）作為魁北克省督在 1782-83 年間監督了保皇黨向新斯科細亞和魁北克的遷移
 # Timeline
 
+# The Beginnings of Democracy
+The first representative assembly 於 1758 年在新斯科細亞省哈利法克斯選出。愛德華王子島於 1773 年緊隨其後，新伯倫瑞克則於 1785 年跟進。
+
+The Constitutional Act of 1791 將魁北克省分為上加拿大（Upper Canada，後來的安大略省），主要為保皇黨、新教徒和講英語的人口；以及下加拿大（Lower Canada，後來的魁北克省），絕大多數為天主教徒和講法語的人口。
+該法令還首次授予這兩個加拿大地區由人民選出的立法議會。「加拿大」（Canada）這個名字也在這時成為官方名稱，並一直沿用至今。大西洋殖民地和這兩個加拿大地區被統稱為英屬北美（British North America）。
+
+
+
 原住民
 - 因紐特人
   依靠北極野生動物維生。
