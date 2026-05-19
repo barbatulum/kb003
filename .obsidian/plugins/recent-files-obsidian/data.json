@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Discover Canada",
+      "path": "Discover Canada.md"
+    },
+    {
+      "basename": "車是基地 vs 車只是交通工具",
+      "path": "車是基地 vs 車只是交通工具.md"
+    },
+    {
       "basename": "Saturna and Pender Island",
       "path": "Saturna and Pender Island.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "浪上",
       "path": "浪上.md"
-    },
-    {
-      "basename": "車是基地 vs 車只是交通工具",
-      "path": "車是基地 vs 車只是交通工具.md"
     },
     {
       "basename": "8mlways2l",
@@ -195,10 +199,6 @@
     {
       "basename": "Tarp Setup",
       "path": "Tarp Setup.md"
-    },
-    {
-      "basename": "BC Coastal Kayaking Weather, Ocean & Navigation Apps",
-      "path": "BC Coastal Kayaking Weather, Ocean & Navigation Apps.md"
     }
   ],
   "omittedPaths": [],
