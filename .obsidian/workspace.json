@@ -315,9 +315,9 @@
               "state": {
                 "file": "Untitled.canvas",
                 "viewState": {
-                  "x": 301.4501376472166,
-                  "y": 62.35975420158894,
-                  "zoom": -0.6666666666666667
+                  "x": 1205,
+                  "y": 1009,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -550,7 +550,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "559a8e8b69bbf609",
+  "active": "728acda0672b5a30",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Untitled 3.md",
