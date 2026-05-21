@@ -1612,7 +1612,7 @@
     "expandedKeys": []
   },
   "Kinbasket Lake.md": {
-    "scroll": 0,
+    "scroll": 18.639571842991657,
     "cursor": {
       "from": {
         "line": 6,
@@ -1718,6 +1718,34 @@
       },
       "to": {
         "line": 51,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Untitled 2.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Untitled 3.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
         "ch": 0
       }
     },

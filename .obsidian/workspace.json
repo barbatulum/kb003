@@ -306,9 +306,26 @@
               "icon": "lucide-file",
               "title": "Kinbasket Lake"
             }
+          },
+          {
+            "id": "559a8e8b69bbf609",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 301.4501376472166,
+                  "y": 62.35975420158894,
+                  "zoom": -0.6666666666666667
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -500,7 +517,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kinbasket Lake.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -510,7 +527,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kinbasket Lake"
+              "title": "Backlinks for Untitled"
             }
           }
         ]
@@ -533,8 +550,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0f1530060c2c8f28",
+  "active": "559a8e8b69bbf609",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled 3.md",
+    "Kinbasket Lake.md",
+    "Untitled.base",
+    "Untitled 2.md",
+    "Untitled 1.md",
     "Discover Canada.md",
     "車是基地 vs 車只是交通工具.md",
     "Saturna and Pender Island.md",
@@ -565,13 +588,8 @@
     "attachments/Pasted image 20260429092530.png",
     "Blue River.md",
     "Overlanding Useful Links.md",
-    "登岸 Landing.md",
-    "Kinbasket Lake.md",
     "attachments/Pasted image 20260427094518.png",
     "attachments/Pasted image 20260427094503.png",
-    "救援.md",
-    "Barkley Sound.md",
-    "Camping Tent Setup.md",
     "洋流",
     "Blog Post Status.base",
     "attachments/wells_gray_clearwater_azure_marine_map_f0ac0fd443.pdf",
