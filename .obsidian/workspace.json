@@ -311,21 +311,52 @@
             "id": "559a8e8b69bbf609",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 1205,
-                  "y": 1009,
-                  "zoom": 0
+                "file": "洋流與礁岩滑行.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "洋流與礁岩滑行"
+            }
+          },
+          {
+            "id": "75f1957a998ac503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bow rudder.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bow rudder"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -418,7 +449,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "metad",
+                "query": "rudder",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -517,7 +548,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Bow rudder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -527,7 +558,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Bow rudder"
             }
           }
         ]
@@ -550,24 +581,28 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "728acda0672b5a30",
+  "active": "75f1957a998ac503",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260604112520.png",
+    "attachments/Pasted image 20260604112425.png",
+    "Bow rudder.md",
+    "洋流與礁岩滑行.md",
+    "Capsized 翻船.md",
+    "Saturna and Pender Island.md",
+    "車是基地 vs 車只是交通工具.md",
+    "Discover Canada.md",
+    "Kinbasket Lake.md",
     "Untitled.canvas",
     "Untitled 3.md",
-    "Kinbasket Lake.md",
     "Untitled.base",
     "Untitled 2.md",
     "Untitled 1.md",
-    "Discover Canada.md",
-    "車是基地 vs 車只是交通工具.md",
-    "Saturna and Pender Island.md",
     "Saturna Island.md",
     "Overlanding.md",
     "離岸流.md",
     "穿越海峽.md",
     "Kayak Expedition.md",
     "評估流速.md",
-    "洋流與礁岩滑行.md",
     "浪上.md",
     "8mlways2l.md",
     "Hiking.md",
@@ -586,10 +621,7 @@
     "attachments/Pasted image 20260429095324.png",
     "Mud Lake Delta.md",
     "attachments/Pasted image 20260429092530.png",
-    "Blue River.md",
-    "Overlanding Useful Links.md",
     "attachments/Pasted image 20260427094518.png",
-    "attachments/Pasted image 20260427094503.png",
     "洋流",
     "Blog Post Status.base",
     "attachments/wells_gray_clearwater_azure_marine_map_f0ac0fd443.pdf",

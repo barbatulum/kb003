@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Untitled.canvas"
+      "basename": "Bow rudder",
+      "path": "Bow rudder.md"
+    },
+    {
+      "basename": "洋流與礁岩滑行",
+      "path": "洋流與礁岩滑行.md"
+    },
+    {
+      "basename": "Capsized 翻船",
+      "path": "Capsized 翻船.md"
+    },
+    {
+      "basename": "Saturna and Pender Island",
+      "path": "Saturna and Pender Island.md"
+    },
+    {
+      "basename": "車是基地 vs 車只是交通工具",
+      "path": "車是基地 vs 車只是交通工具.md"
+    },
+    {
+      "basename": "Discover Canada",
+      "path": "Discover Canada.md"
     },
     {
       "basename": "Kinbasket Lake",
       "path": "Kinbasket Lake.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.canvas"
     },
     {
       "basename": "Untitled 2",
@@ -15,18 +39,6 @@
     {
       "basename": "Untitled 1",
       "path": "Untitled 1.md"
-    },
-    {
-      "basename": "Discover Canada",
-      "path": "Discover Canada.md"
-    },
-    {
-      "basename": "車是基地 vs 車只是交通工具",
-      "path": "車是基地 vs 車只是交通工具.md"
-    },
-    {
-      "basename": "Saturna and Pender Island",
-      "path": "Saturna and Pender Island.md"
     },
     {
       "basename": "Saturna Island",
@@ -51,10 +63,6 @@
     {
       "basename": "評估流速",
       "path": "評估流速.md"
-    },
-    {
-      "basename": "洋流與礁岩滑行",
-      "path": "洋流與礁岩滑行.md"
     },
     {
       "basename": "浪上",
@@ -169,10 +177,6 @@
       "path": "Haida Gwaii.md"
     },
     {
-      "basename": "Capsized 翻船",
-      "path": "Capsized 翻船.md"
-    },
-    {
       "basename": "Ecoflow",
       "path": "Ecoflow.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Camp Sandwich",
       "path": "Camp Sandwich.md"
-    },
-    {
-      "basename": "Camping Drill I",
-      "path": "Camping Drill I.md"
     }
   ],
   "omittedPaths": [],
