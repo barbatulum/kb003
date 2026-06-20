@@ -1,5 +1,6 @@
 ---
 theme: destination
+tags:
 ---
 # Reference
 - [KAYAKING SATURNA ISLAND, BC - Our Home Has 6 Wheels](https://www.ourhomehas6wheels.com/kayaking-saturna-island/)
