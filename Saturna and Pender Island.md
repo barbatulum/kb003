@@ -44,16 +44,20 @@ Saturna 和 Pender 的 VRZ 內不得漁撈或行船。為人力船安全考量�
 # 路線
 
 ## Saturna Island South
+早上八九十點出發, 中午過後約一兩點到達 Narvaez Bay 折返
 ![[Pasted image 20260429104444.png]]
 
-## Saturna Island East
+## Saturna Island East 
+大致上是早上去 slack 前過(順流), 用中午的slack(後,順流) 回來
 ![[Pasted image 20260429135553.png]]
 
 
 ## South Pender Island
+約中午出發,兩三點左右環繞東側開放水域
 ![[Pasted image 20260429135635.png]]
 
 ## North Pender Island East
+早上不用太早,下午三四點流速慢的時候到達北端就好,然後回頭
 ![[Pasted image 20260429135658.png]]
 
 
