@@ -337,7 +337,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Saturna and Pender Island.md",
+                "file": "360 Photo exif metadata.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -352,7 +352,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Saturna and Pender Island"
+              "title": "360 Photo exif metadata"
             }
           }
         ],
@@ -449,7 +449,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rudder",
+                "query": "exif",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -548,7 +548,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Saturna and Pender Island.md",
+                "file": "360 Photo exif metadata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -558,7 +558,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Saturna and Pender Island"
+              "title": "Backlinks for 360 Photo exif metadata"
             }
           }
         ]
@@ -583,12 +583,12 @@
   },
   "active": "75f1957a998ac503",
   "lastOpenFiles": [
+    "Saturna and Pender Island.md",
     "Bow rudder.md",
     "attachments/Pasted image 20260604112520.png",
     "attachments/Pasted image 20260604112425.png",
     "洋流與礁岩滑行.md",
     "Capsized 翻船.md",
-    "Saturna and Pender Island.md",
     "車是基地 vs 車只是交通工具.md",
     "Discover Canada.md",
     "Kinbasket Lake.md",
