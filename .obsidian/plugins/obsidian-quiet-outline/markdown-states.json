@@ -558,12 +558,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 3,
-        "ch": 463
+        "line": 5,
+        "ch": 0
       },
       "to": {
-        "line": 3,
-        "ch": 0
+        "line": 5,
+        "ch": 394
       }
     },
     "expandedKeys": []
