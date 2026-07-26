@@ -1,6 +1,6 @@
 {
   "Broughton Archipelago.md": {
-    "scroll": 45.757936121685205,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 5,
@@ -278,12 +278,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 9,
-        "ch": 9
+        "line": 6,
+        "ch": 31
       },
       "to": {
-        "line": 9,
-        "ch": 9
+        "line": 6,
+        "ch": 31
       }
     },
     "expandedKeys": []
@@ -1763,6 +1763,62 @@
       "to": {
         "line": 0,
         "ch": 37
+      }
+    },
+    "expandedKeys": []
+  },
+  "App ideas.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 26
+      },
+      "to": {
+        "line": 6,
+        "ch": 26
+      }
+    },
+    "expandedKeys": []
+  },
+  "Untitled 4.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Haida Gwaii Trip.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Trips 2027.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 0
+      },
+      "to": {
+        "line": 2,
+        "ch": 0
       }
     },
     "expandedKeys": []

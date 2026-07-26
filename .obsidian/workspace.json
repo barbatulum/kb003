@@ -354,9 +354,105 @@
               "icon": "lucide-file",
               "title": "360 Photo exif metadata"
             }
+          },
+          {
+            "id": "801a2d8be85f18c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Broughton Archipelago.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Broughton Archipelago"
+            }
+          },
+          {
+            "id": "06fb150a4d4ac5bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Haida Gwaii.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Haida Gwaii"
+            }
+          },
+          {
+            "id": "8c70cebeb8ae95d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Haida Gwaii Trip.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Haida Gwaii Trip"
+            }
+          },
+          {
+            "id": "ad34d046891f99c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trips 2027.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Trips 2027"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -548,7 +644,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "360 Photo exif metadata.md",
+                "file": "Trips 2027.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -558,7 +654,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 360 Photo exif metadata"
+              "title": "Backlinks for Trips 2027"
             }
           }
         ]
@@ -581,8 +677,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "75f1957a998ac503",
+  "active": "ad34d046891f99c0",
   "lastOpenFiles": [
+    "Haida Gwaii Trip.md",
+    "Trips 2027.md",
+    "attachments/Pasted image 20260726090152.png",
+    "Haida Gwaii.md",
+    "Untitled 3.md",
+    "Broughton Archipelago.md",
+    "App ideas.md",
+    "360 Photo exif metadata.md",
     "Saturna and Pender Island.md",
     "Bow rudder.md",
     "attachments/Pasted image 20260604112520.png",
@@ -593,7 +697,6 @@
     "Discover Canada.md",
     "Kinbasket Lake.md",
     "Untitled.canvas",
-    "Untitled 3.md",
     "Untitled.base",
     "Untitled 2.md",
     "Untitled 1.md",
@@ -607,11 +710,7 @@
     "8mlways2l.md",
     "Hiking.md",
     "Skiing.md",
-    "360 Photo exif metadata.md",
-    "野生動物預防.md",
     "Destinations.base",
-    "Weather and Lee cocking.md",
-    "獨木舟 Paddling Skills.md",
     "attachments/Pasted image 20260429135658.png",
     "attachments/Pasted image 20260429135635.png",
     "attachments/Pasted image 20260429135625.png",
@@ -619,8 +718,6 @@
     "attachments/Pasted image 20260429104444.png",
     "attachments/Pasted image 20260429100652.png",
     "attachments/Pasted image 20260429095324.png",
-    "Mud Lake Delta.md",
-    "attachments/Pasted image 20260429092530.png",
     "洋流",
     "Blog Post Status.base",
     "attachments/wells_gray_clearwater_azure_marine_map_f0ac0fd443.pdf",
