@@ -1,5 +1,5 @@
 ---
-theme: planning
+theme: trip-plan
 ---
 # Campspots
 Raft Rim

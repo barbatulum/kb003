@@ -1,5 +1,6 @@
 ---
-theme: trip-plan
+theme: trip
+destination: "[[Haida Gwaii]]"
 ---
 
 # [[Haida Gwaii]]
