@@ -4,8 +4,8 @@
   "title": "Hi",
   "titleGenerationStatus": "failed",
   "createdAt": 1785178675258,
-  "updatedAt": 1785342045482,
-  "lastResponseAt": 1785342045482,
+  "updatedAt": 1785348694023,
+  "lastResponseAt": 1785348694023,
   "sessionId": "18504c13-a7dc-419f-8961-1b1889cf2907",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,11 +14,11 @@
   "usage": {
     "model": "haiku",
     "inputTokens": 8,
-    "cacheCreationInputTokens": 724,
-    "cacheReadInputTokens": 31999,
+    "cacheCreationInputTokens": 501,
+    "cacheReadInputTokens": 44166,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 32731,
-    "percentage": 16
+    "contextTokens": 44675,
+    "percentage": 22
   }
 }

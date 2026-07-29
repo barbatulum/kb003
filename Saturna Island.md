@@ -1,3 +1,7 @@
+---
+theme: destination
+---
+
 陸地景觀
 East Point Light
 Veruna Beach

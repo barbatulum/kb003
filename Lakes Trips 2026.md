@@ -1,3 +1,7 @@
+---
+theme: trip
+---
+
 - [[Clearwater and Azure Lake]]
 - [[Blue River]]
 ## Clearwater and Azure Lake

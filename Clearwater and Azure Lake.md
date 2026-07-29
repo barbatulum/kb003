@@ -1,3 +1,7 @@
+---
+theme: destination
+---
+
 ### Campgrounds
 ![[wells_gray_clearwater_azure_marine_map_f0ac0fd443.pdf]]
 

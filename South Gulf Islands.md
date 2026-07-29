@@ -1,3 +1,7 @@
+---
+theme: destination
+---
+
 東北島鏈的潮汐迷宮
 
 南海灣群島位於溫哥華島與大分水嶺之間，屬於薩利希海（Salish Sea）的內海水域，擁有較為乾爽的微氣候。研究重點在於梅恩島（Mayne Island）、彭德島（Pender Islands）與薩圖納島（Saturna Island）所形成的東北側島鏈。這一區域的皮划艇遠征高度依賴於對「活躍通道」（Active Pass）等
