@@ -437,7 +437,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Trips 2027.md",
+                    "file": "Maligne Lake Trip.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -452,7 +452,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Trips 2027"
+                  "title": "Maligne Lake Trip"
                 }
               }
             ],
@@ -668,7 +668,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trips 2027.md",
+                "file": "Maligne Lake Trip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -678,7 +678,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Trips 2027"
+              "title": "Backlinks for Maligne Lake Trip"
             }
           }
         ]
@@ -702,12 +702,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "2414d1aeb8d49bb3",
+  "active": "ad34d046891f99c0",
   "lastOpenFiles": [
+    "Trips 2027.md",
     "Haida Gwaii Trip.md.tmp.41364.eeb0c7c53470",
     "Maligne Lake Trip.md.tmp.41364.c696ef4b340a",
     "Haida Gwaii Trip.md",
-    "Trips 2027.md",
     "attachments/Pasted image 20260726090152.png",
     "Haida Gwaii.md",
     "Untitled 3.md",
@@ -749,7 +749,6 @@
     "attachments/wells_gray_clearwater_azure_marine_map_f0ac0fd443.pdf",
     "attachments/exiftool(-k).exe",
     "attachments",
-    "Tags",
-    "New Text Document.txt"
+    "Tags"
   ]
 }
