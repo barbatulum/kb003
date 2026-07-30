@@ -437,7 +437,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Maligne Lake Trip.md",
+                    "file": "App ideas.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -452,7 +452,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Maligne Lake Trip"
+                  "title": "App ideas"
                 }
               }
             ],
@@ -568,7 +568,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "exif",
+                "query": "Only yes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -618,8 +618,7 @@
               "title": "GCal Month View"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "58038f2bf6c310a7",
@@ -668,7 +667,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maligne Lake Trip.md",
+                "file": "App ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -678,7 +677,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Maligne Lake Trip"
+              "title": "Backlinks for App ideas"
             }
           }
         ]
@@ -704,6 +703,7 @@
   },
   "active": "ad34d046891f99c0",
   "lastOpenFiles": [
+    "Maligne Lake Trip.md",
     "Lakes Trips 2026.md.tmp.12264.f740c68f4e4d",
     "South Gulf Islands.md.tmp.12264.35a2970e43cd",
     "Nootka Sound.md.tmp.12264.8f6199089529",
@@ -714,7 +714,6 @@
     "Clayoquot Sound.md.tmp.12264.56672efa759c",
     "Cape Scott.md.tmp.12264.26f5b47d3cc0",
     "Blue River.md.tmp.12264.bccef4c89e01",
-    "Haida Gwaii.md.tmp.12264.c35878e0cf65",
     "Trips 2027.md",
     "Haida Gwaii Trip.md",
     "attachments/Pasted image 20260726090152.png",

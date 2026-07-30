@@ -1771,12 +1771,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 6,
-        "ch": 26
+        "line": 5,
+        "ch": 76
       },
       "to": {
-        "line": 6,
-        "ch": 26
+        "line": 5,
+        "ch": 76
       }
     },
     "expandedKeys": []
