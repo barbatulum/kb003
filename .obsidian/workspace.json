@@ -454,9 +454,21 @@
                   "icon": "lucide-file",
                   "title": "App ideas"
                 }
+              },
+              {
+                "id": "05d0c7dc80ffae6b",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.13.4"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.13.4"
+                }
               }
             ],
-            "currentTab": 18
+            "currentTab": 19
           },
           {
             "id": "e72450e46819fe2c",
@@ -507,7 +519,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -667,7 +682,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "App ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -677,7 +691,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for App ideas"
+              "title": "Backlinks"
             }
           }
         ]
@@ -701,7 +715,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ad34d046891f99c0",
+  "active": "05d0c7dc80ffae6b",
   "lastOpenFiles": [
     "Maligne Lake Trip.md",
     "Lakes Trips 2026.md.tmp.12264.f740c68f4e4d",
