@@ -473,7 +473,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Read Island Camping.md",
+                    "file": "Penn Island Camping.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -488,7 +488,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Read Island Camping"
+                  "title": "Penn Island Camping"
                 }
               }
             ],
@@ -706,7 +706,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Read Island Camping.md",
+                "file": "Penn Island Camping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -742,8 +742,18 @@
   },
   "active": "33650f48b05a4f92",
   "lastOpenFiles": [
-    "attachments/Pasted image 20260807101858.png",
-    "Read Island Camping.md",
+    "attachments/Pasted image 20260809162711.png",
+    "attachments/Pasted image 20260809162708.png",
+    "attachments/Pasted image 20260809162704.png",
+    "attachments/Pasted image 20260809162658.png",
+    "attachments/Pasted image 20260809162653.png",
+    "attachments/Pasted image 20260809162647.png",
+    "attachments/Pasted image 20260809162455.png",
+    "attachments/Pasted image 20260809162452.png",
+    "attachments/Pasted image 20260809162447.png",
+    "attachments/Pasted image 20260809162444.png",
+    "attachments/Pasted image 20260809162439.png",
+    "Penn Island Camping.md",
     "Maligne Lake Trip.md",
     "Lakes Trips 2026.md.tmp.12264.f740c68f4e4d",
     "South Gulf Islands.md.tmp.12264.35a2970e43cd",
@@ -757,7 +767,6 @@
     "Blue River.md.tmp.12264.bccef4c89e01",
     "Trips 2027.md",
     "Haida Gwaii Trip.md",
-    "attachments/Pasted image 20260726090152.png",
     "Haida Gwaii.md",
     "Untitled 3.md",
     "Broughton Archipelago.md",
@@ -765,8 +774,6 @@
     "360 Photo exif metadata.md",
     "Saturna and Pender Island.md",
     "Bow rudder.md",
-    "attachments/Pasted image 20260604112520.png",
-    "attachments/Pasted image 20260604112425.png",
     "洋流與礁岩滑行.md",
     "Capsized 翻船.md",
     "車是基地 vs 車只是交通工具.md",
@@ -781,13 +788,6 @@
     "穿越海峽.md",
     "Kayak Expedition.md",
     "評估流速.md",
-    "浪上.md",
-    "attachments/Pasted image 20260429135658.png",
-    "attachments/Pasted image 20260429135635.png",
-    "attachments/Pasted image 20260429135625.png",
-    "attachments/Pasted image 20260429135553.png",
-    "attachments/Pasted image 20260429104444.png",
-    "attachments/Pasted image 20260429100652.png",
-    "attachments/Pasted image 20260429095324.png"
+    "浪上.md"
   ]
 }
