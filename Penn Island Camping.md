@@ -221,6 +221,14 @@ Penn Islands North -> Whale Passage ->Central -> South west
 Penn Islands 群島中附近另有數個其他營地。  
 大型商業帶隊團體（guided groups）經常使用此地。
 
-# Evans Bay and Penn Island
+# Destinations
+- Von Donop Inlet
+	- 要跨海峽天氣要最好
+	- 著名森林峽灣行程
+- Rendevous Island
+	- 天氣需求次佳
+	- 壯麗遠山, 鯨魚
+- Evans Bay and Penn Island
+	- **低潮時**潮間帶生物很多
 # 
 # 返航
