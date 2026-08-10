@@ -2,6 +2,9 @@
 
 # 啟程
 ## 營位
+
+Penn Islands North -> Whale Passage ->Central -> South west
+
 ![[Pasted image 20260809161545.png]]
 ##### Read Point east
 50.13305, -125.13633 
@@ -109,7 +112,6 @@
 景觀佳，環境漂亮。
 屬於較敏感的自然區域，有野花生長，使用時應盡量降低對植被的影響。
 附近曾有貝類養殖租賃區，目前已停止使用，但仍留有一些養殖設施或廢棄物。
-
 ##### Penn Islands southwest
 
 | ![[Pasted image 20260809162647.png]] | ![[Pasted image 20260809162653.png]] | ![[Pasted image 20260809162658.png]] |
@@ -218,4 +220,7 @@
 景觀佳，環境漂亮且較為隱蔽。  
 Penn Islands 群島中附近另有數個其他營地。  
 大型商業帶隊團體（guided groups）經常使用此地。
+
+# Evans Bay and Penn Island
+# 
 # 返航
