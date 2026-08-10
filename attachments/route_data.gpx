@@ -1,0 +1,22 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="togpx"><metadata/><trk><name></name><desc>Leg Number=1
+Course=31.377672301260418
+Leg Distance=0.7127389815827957
+Total Distance=0.7127389815827957</desc><trkseg><trkpt lat="50.13482225840931" lon="-125.19264071646597"/><trkpt lat="50.140288628879595" lon="-125.18743899658128"/></trkseg></trk><trk><name></name><desc>Leg Number=2
+Course=89.96688926491078
+Leg Distance=2.2723319647288007
+Total Distance=2.9850709463115965</desc><trkseg><trkpt lat="50.140288628879595" lon="-125.18743899658128"/><trkpt lat="50.14029606402202" lon="-125.155652309585"/></trkseg></trk><trk><name></name><desc>Leg Number=3
+Course=146.78338688821242
+Leg Distance=1.4786888999322654
+Total Distance=4.463759846243862</desc><trkseg><trkpt lat="50.14029606402202" lon="-125.155652309585"/><trkpt lat="50.12918310423349" lon="-125.14430177858239"/></trkseg></trk><trk><name></name><desc>Leg Number=4
+Course=108.30077350714828
+Leg Distance=1.0912742279159056
+Total Distance=5.555034074159767</desc><trkseg><trkpt lat="50.12918310423349" lon="-125.14430177858239"/><trkpt lat="50.126109221029175" lon="-125.12980884960595"/></trkseg></trk><trk><name></name><desc>Leg Number=5
+Course=40.78779618392008
+Leg Distance=8.345414947096549
+Total Distance=13.900449021256316</desc><trkseg><trkpt lat="50.126109221029175" lon="-125.12980884960595"/><trkpt lat="50.18282259388138" lon="-125.05335848467438"/></trkseg></trk><trk><name></name><desc>Leg Number=6
+Course=89.99602032266608
+Leg Distance=0.7401265889265064
+Total Distance=14.640575610182822</desc><trkseg><trkpt lat="50.18282259388138" lon="-125.05335848467438"/><trkpt lat="50.18282259388138" lon="-125.04299597732143"/></trkseg></trk><trk><name></name><desc>Leg Number=7
+Course=46.55766195792512
+Leg Distance=1.8944975897608984
+Total Distance=16.53507319994372</desc><trkseg><trkpt lat="50.18282259388138" lon="-125.04299597732143"/><trkpt lat="50.19451545570657" lon="-125.02370735516743"/></trkseg></trk></gpx>

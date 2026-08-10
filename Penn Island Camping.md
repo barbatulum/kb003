@@ -1,6 +1,18 @@
 ![[Pasted image 20260807101858.png]]
 
 # 啟程
+## 路線
+![[Pasted image 20260810153321.png|56]]
+![[Pasted image 20260810154023.png]]
+
+| Leg | Distance | Total | Leg | Distance | Total |
+| --- | -------- | ----- | --- | -------- | ----- |
+| 1   | .71      | .71   | 5   | 8.35     | 13.9  |
+| 2   | 2.27     | 2.99  | 6   | .74      | 14.64 |
+| 3   | 1.48     | 4.45  | 7   | 1.89     | 16.54 |
+| 4   | 1.09     | 5.56  |     |          |       |
+
+![[Route Planning.csv]]![[route_data.gpx]]
 ## 營位
 
 Penn Islands North -> Whale Passage ->Central -> South west
@@ -223,12 +235,12 @@ Penn Islands 群島中附近另有數個其他營地。
 
 # Destinations
 - Von Donop Inlet
-	- 要跨海峽天氣要最好
+	- 要跨海峽天氣要好
 	- 著名森林峽灣行程
 - Rendevous Island
 	- 天氣需求次佳
 	- 壯麗遠山, 鯨魚
 - Evans Bay and Penn Island
 	- **低潮時**潮間帶生物很多
-# 
+
 # 返航

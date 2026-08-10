@@ -583,7 +583,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ef304b43531412ad",
@@ -716,7 +717,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -735,6 +737,11 @@
   },
   "active": "33650f48b05a4f92",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260810154023.png",
+    "attachments/route_data.gpx",
+    "attachments/Route Planning.csv",
+    "attachments/17-3.jpg",
+    "attachments/Pasted image 20260810153321.png",
     "attachments/Pasted image 20260809162711.png",
     "attachments/Pasted image 20260809162708.png",
     "attachments/Pasted image 20260809162704.png",
@@ -743,9 +750,6 @@
     "attachments/Pasted image 20260809162647.png",
     "attachments/Pasted image 20260809162455.png",
     "attachments/Pasted image 20260809162452.png",
-    "attachments/Pasted image 20260809162447.png",
-    "attachments/Pasted image 20260809162444.png",
-    "attachments/Pasted image 20260809162439.png",
     "Penn Island Camping.md",
     "Maligne Lake Trip.md",
     "Lakes Trips 2026.md.tmp.12264.f740c68f4e4d",
@@ -756,8 +760,6 @@
     "Howe Sound.md.tmp.12264.7ff6c50b0dc2",
     "Saturna Island.md.tmp.12264.e52dd32ea678",
     "Clayoquot Sound.md.tmp.12264.56672efa759c",
-    "Cape Scott.md.tmp.12264.26f5b47d3cc0",
-    "Blue River.md.tmp.12264.bccef4c89e01",
     "Trips 2027.md",
     "Haida Gwaii Trip.md",
     "Haida Gwaii.md",
