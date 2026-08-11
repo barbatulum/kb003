@@ -242,5 +242,6 @@ Penn Islands 群島中附近另有數個其他營地。
 	- 壯麗遠山, 鯨魚
 - Evans Bay and Penn Island
 	- **低潮時**潮間帶生物很多
+	- 就在營地旁邊
 
 # 返航
