@@ -1,5 +1,3 @@
-Overlanding Road Info
-
 - [Back Road Status](https://backroadstatus.com/) 
 - [BC Forest Map](http://www.bcforestmap.com/)
 - [Land Usage](https://maps.gov.bc.ca/ess/hm/imap4m/)
