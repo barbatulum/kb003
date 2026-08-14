@@ -486,9 +486,21 @@
               "icon": "lucide-file",
               "title": "Penn Island Camping"
             }
+          },
+          {
+            "id": "faddb8925f9186ea",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.6"
+            }
           }
         ],
-        "currentTab": 20
+        "currentTab": 21
       },
       {
         "id": "8b344f35a19bd6e4",
@@ -735,7 +747,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "33650f48b05a4f92",
+  "active": "faddb8925f9186ea",
   "lastOpenFiles": [
     "attachments/Pasted image 20260810154023.png",
     "attachments/route_data.gpx",
