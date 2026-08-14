@@ -1,4 +1,4 @@
-
+![[IMG_6900.heic]]
 
 ![IMG_6900.heic](blob:capacitor://localhost/1dbdb6b0-1f8d-4665-bca2-b7ae293a4323)
 
