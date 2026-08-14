@@ -498,9 +498,33 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.13.6"
             }
+          },
+          {
+            "id": "ca9dc43485d988eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 4"
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       },
       {
         "id": "8b344f35a19bd6e4",
@@ -744,11 +768,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "workspaces:Manage workspace layouts": false,
-      "realclaudian:Open Claudian": false
+      "realclaudian:Open Claudian": false,
+      "obsidian-importer:Import notes": false
     }
   },
-  "active": "faddb8925f9186ea",
+  "active": "ca9dc43485d988eb",
   "lastOpenFiles": [
+    "——/羅賴把.md",
+    "——/Parking types.md",
+    "——/馬達距離.md",
+    "——/Untitled.md",
+    "——/Paddle Canada Level 1.md",
+    "——/attachments/Ping-Yu Cheng-Level 1-Sea Kayak-Skills -fr.pdf",
+    "——/attachments/Ping-Yu Cheng-Level 1-Sea Kayak-Skills.pdf",
+    "——/Adobe Canada Life.md",
+    "——/Bardel Equitable Health.md",
+    "——/USGS Legends.md",
+    "——/Topo Legends.md",
+    "——/Garmin 地圖選擇.md",
+    "——/Rocky talkie.md",
+    "——/attachments/PDF.pdf",
+    "——/attachments",
+    "——/GoPro modes.md",
+    "——/Pulley.md",
+    "——/Sea2Summit stretch lock.md",
+    "——/Rope tightener.md",
+    "——/GoPro remote.md",
+    "——/Addresses.md",
+    "——/懸掛熊袋.md",
+    "——/手電筒 Manual.md",
+    "——/劈柴.md",
+    "——/Thule Hullvator Pro 船隻間隔.md",
+    "——/Overland road info.md",
+    "——/T1M捲尺.md",
+    "——/感應燈.md",
+    "——/Milo 對講機.md",
+    "Untitled 5.md",
+    "attachments/PDF.pdf",
+    "——",
+    "Untitled",
     "attachments/Pasted image 20260810154023.png",
     "attachments/route_data.gpx",
     "attachments/Route Planning.csv",
@@ -761,40 +819,7 @@
     "attachments/Pasted image 20260809162653.png",
     "attachments/Pasted image 20260809162647.png",
     "attachments/Pasted image 20260809162455.png",
-    "attachments/Pasted image 20260809162452.png",
-    "Penn Island Camping.md",
-    "Maligne Lake Trip.md",
     "Lakes Trips 2026.md.tmp.12264.f740c68f4e4d",
-    "South Gulf Islands.md.tmp.12264.35a2970e43cd",
-    "Nootka Sound.md.tmp.12264.8f6199089529",
-    "Mud Lake Delta.md.tmp.12264.08e5c25a2c70",
-    "Kyuquot Sound.md.tmp.12264.aee67474ff19",
-    "Howe Sound.md.tmp.12264.7ff6c50b0dc2",
-    "Saturna Island.md.tmp.12264.e52dd32ea678",
-    "Clayoquot Sound.md.tmp.12264.56672efa759c",
-    "Trips 2027.md",
-    "Haida Gwaii Trip.md",
-    "Haida Gwaii.md",
-    "Untitled 3.md",
-    "Broughton Archipelago.md",
-    "App ideas.md",
-    "360 Photo exif metadata.md",
-    "Saturna and Pender Island.md",
-    "Bow rudder.md",
-    "洋流與礁岩滑行.md",
-    "Capsized 翻船.md",
-    "車是基地 vs 車只是交通工具.md",
-    "Discover Canada.md",
-    "Kinbasket Lake.md",
-    "Untitled.canvas",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Saturna Island.md",
-    "Overlanding.md",
-    "離岸流.md",
-    "穿越海峽.md",
-    "Kayak Expedition.md",
-    "評估流速.md",
-    "浪上.md"
+    "Untitled.canvas"
   ]
 }
