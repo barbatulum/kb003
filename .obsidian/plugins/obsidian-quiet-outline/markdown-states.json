@@ -1796,15 +1796,15 @@
     "expandedKeys": []
   },
   "Haida Gwaii Trip.md": {
-    "scroll": 5.067123163115537,
+    "scroll": 5.056164426511884,
     "cursor": {
       "from": {
-        "line": 12,
-        "ch": 20
+        "line": 10,
+        "ch": 9
       },
       "to": {
-        "line": 12,
-        "ch": 20
+        "line": 10,
+        "ch": 9
       }
     },
     "expandedKeys": []
@@ -1838,26 +1838,24 @@
     "expandedKeys": []
   },
   "Penn Island Camping.md": {
-    "scroll": 0.146231680803033,
+    "scroll": 24.562779120110932,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 0
+        "line": 17,
+        "ch": 39
       },
       "to": {
-        "line": 0,
-        "ch": 0
+        "line": 17,
+        "ch": 39
       }
     },
     "expandedKeys": [
+      "item-2-2",
       "item-1-0",
       "item-5-3",
       "item-5-5",
       "item-5-7",
-      "item-5-9",
-      "item-5-11",
-      "item-5-13",
-      "item-2-2"
+      "item-5-9"
     ]
   },
   "——/Addresses.md": {

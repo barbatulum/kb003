@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haida Gwaii Trip.md",
+                "file": "Penn Island Camping.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Haida Gwaii Trip"
+              "title": "Penn Island Camping"
             }
           }
         ],
@@ -290,8 +290,8 @@
   },
   "active": "ba50c8bcc779e69a",
   "lastOpenFiles": [
-    "2027 Trips.md",
     "Haida Gwaii Trip.md",
+    "2027 Trips.md",
     "——/Thule Hullvator Pro 船隻間隔.md",
     "——/T1M捲尺.md",
     "——/Sea2Summit stretch lock.md",
