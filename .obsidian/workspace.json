@@ -153,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Only yes",
+                "query": "air cana",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -269,8 +269,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -288,7 +287,7 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "ba50c8bcc779e69a",
+  "active": "bbd3a8d83f49f1b8",
   "lastOpenFiles": [
     "Haida Gwaii Trip.md",
     "2027 Trips.md",
