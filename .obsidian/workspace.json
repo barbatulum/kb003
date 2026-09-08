@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Penn Island Camping.md",
+                "file": "360 Photo exif metadata.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Penn Island Camping"
+              "title": "360 Photo exif metadata"
             }
           }
         ],
@@ -252,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Penn Island Camping.md",
+                "file": "360 Photo exif metadata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,6 +289,7 @@
   },
   "active": "ba50c8bcc779e69a",
   "lastOpenFiles": [
+    "Penn Island Camping.md",
     "Haida Gwaii Trip.md",
     "2027 Trips.md",
     "——/Thule Hullvator Pro 船隻間隔.md",
@@ -324,7 +325,6 @@
     "——/Passwords.md",
     "——/Paddle Canada Level 1.md",
     "——/Milo 對講機.md",
-    "——/Insta GPS remote.md",
     "——/attachments/IMG_6901 1.heic",
     "——/attachments/IMG_6901.heic",
     "——/attachments/IMG_6903.heic",
