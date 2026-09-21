@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Chen",
+      "path": "Chen.md"
+    },
+    {
       "basename": "Haida Gwaii Trip",
       "path": "Haida Gwaii Trip.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "App ideas",
       "path": "App ideas.md"
-    },
-    {
-      "basename": "Haida Gwaii",
-      "path": "Haida Gwaii.md"
     }
   ],
   "omittedPaths": [],

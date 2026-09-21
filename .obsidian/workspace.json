@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "Haida Gwaii Trip"
             }
+          },
+          {
+            "id": "e78b8122922ef79b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Chen"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -252,7 +276,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haida Gwaii Trip.md",
+                "file": "Chen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,8 +311,10 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "ba50c8bcc779e69a",
+  "active": "e78b8122922ef79b",
   "lastOpenFiles": [
+    "Haida Gwaii Trip.md",
+    "Chen.md",
     "Broughton Archipelago.md",
     "獨木舟 Paddling Skills.md",
     "Ski Equipments.md",
@@ -300,7 +326,6 @@
     "——/attachments/IMG_1591.png",
     "——/attachments/IMG_1590.png",
     "Penn Island Camping.md",
-    "Haida Gwaii Trip.md",
     "2027 Trips.md",
     "——/Thule Hullvator Pro 船隻間隔.md",
     "——/T1M捲尺.md",
@@ -318,7 +343,6 @@
     "——/繩結.md",
     "——/道路資訊 Overland Road Info.md",
     "——/馬達距離.md",
-    "——/羅賴把.md",
     "——/attachments/IMG_2794.png",
     "——/attachments/Trucker's Hitch.jpeg",
     "——/attachments/IMG_3021.jpeg",
