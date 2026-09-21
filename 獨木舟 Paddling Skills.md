@@ -8,3 +8,8 @@
 - Low brace turn
 - [[Kayak 平移技巧]]
 - Bow rudder bow draw
+- [A complete guide to Kayaking in Desolation Sound – The Trail of B.](https://thetrailofb.com/2022/11/06/kayak-guide-desolation-sound/)
+- S-Turn
+- [Rolling a sea kayak - Overview of the roll - sample lesson - YouTube](https://www.youtube.com/watch?v=PNcQ3LxaSA0)
+- [Online Sea Kayaking - YouTube](https://www.youtube.com/@onlineseakayaking)
+- Canadian Sailing Directions

@@ -1,0 +1,7 @@
+- 骨傳導耳機
+- Ski
+	- VOLKL M7 MANTRA
+	- Volkl Mantra 102
+	- [ChatGPT - Mogul 滑雪板推薦](https://chatgpt.com/share/67a572f3-d330-8009-a0ce-45dbe048a218)
+- Pack
+	- Slope Pro 180x Chest Pack

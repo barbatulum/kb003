@@ -1,14 +1,14 @@
 {
   "Broughton Archipelago.md": {
-    "scroll": 0,
+    "scroll": 29.90656643742842,
     "cursor": {
       "from": {
-        "line": 5,
-        "ch": 0
+        "line": 37,
+        "ch": 32
       },
       "to": {
-        "line": 5,
-        "ch": 0
+        "line": 37,
+        "ch": 32
       }
     },
     "expandedKeys": []
@@ -71,12 +71,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 9,
-        "ch": 21
+        "line": 14,
+        "ch": 29
       },
       "to": {
-        "line": 9,
-        "ch": 21
+        "line": 14,
+        "ch": 29
       }
     },
     "expandedKeys": []
@@ -99,12 +99,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 11,
-        "ch": 3
+        "line": 5,
+        "ch": 13
       },
       "to": {
-        "line": 11,
-        "ch": 3
+        "line": 5,
+        "ch": 13
       }
     },
     "expandedKeys": []
@@ -559,11 +559,11 @@
     "cursor": {
       "from": {
         "line": 5,
-        "ch": 394
+        "ch": 178
       },
       "to": {
         "line": 5,
-        "ch": 0
+        "ch": 178
       }
     },
     "expandedKeys": []
@@ -1786,28 +1786,30 @@
     "cursor": {
       "from": {
         "line": 0,
-        "ch": 0
+        "ch": 3
       },
       "to": {
         "line": 0,
-        "ch": 0
+        "ch": 3
       }
     },
     "expandedKeys": []
   },
   "Haida Gwaii Trip.md": {
-    "scroll": 5.056164426511884,
+    "scroll": 7.937484629424937,
     "cursor": {
       "from": {
-        "line": 10,
-        "ch": 9
+        "line": 12,
+        "ch": 20
       },
       "to": {
-        "line": 10,
-        "ch": 9
+        "line": 12,
+        "ch": 20
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-1-1"
+    ]
   },
   "Trips 2027.md": {
     "scroll": 0.16256684122170392,
@@ -2387,6 +2389,48 @@
       "to": {
         "line": 4,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Carving.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 2
+      },
+      "to": {
+        "line": 0,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Ski Equipments.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 28
+      },
+      "to": {
+        "line": 6,
+        "ch": 28
+      }
+    },
+    "expandedKeys": []
+  },
+  "Animation Reel.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 3
+      },
+      "to": {
+        "line": 0,
+        "ch": 3
       }
     },
     "expandedKeys": []
