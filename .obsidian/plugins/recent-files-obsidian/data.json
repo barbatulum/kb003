@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Seatle",
+      "path": "Seatle.md"
+    },
+    {
+      "basename": "Destinations",
+      "path": "Destinations.base"
+    },
+    {
+      "basename": "Planets",
+      "path": "Planets.md"
+    },
+    {
+      "basename": "Gardening",
+      "path": "Gardening.md"
+    },
+    {
+      "basename": "First Aid 急救包內容",
+      "path": "First Aid 急救包內容.md"
+    },
+    {
       "basename": "Chen",
       "path": "Chen.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Pasted image 20260429100652",
       "path": "attachments/Pasted image 20260429100652.png"
-    },
-    {
-      "basename": "Saturna Island",
-      "path": "Saturna Island.md"
-    },
-    {
-      "basename": "Overlanding Useful Links",
-      "path": "Overlanding Useful Links.md"
-    },
-    {
-      "basename": "Kinbasket Lake",
-      "path": "Kinbasket Lake.md"
-    },
-    {
-      "basename": "洋流與礁岩滑行",
-      "path": "洋流與礁岩滑行.md"
-    },
-    {
-      "basename": "App ideas",
-      "path": "App ideas.md"
     }
   ],
   "omittedPaths": [],

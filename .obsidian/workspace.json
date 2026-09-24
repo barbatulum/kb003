@@ -78,9 +78,57 @@
               "icon": "lucide-file",
               "title": "Chen"
             }
+          },
+          {
+            "id": "b6df0ed6fd80e7f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "First Aid 急救包內容.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "First Aid 急救包內容"
+            }
+          },
+          {
+            "id": "f741bdf4c0ba1453",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seatle.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Seatle"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -276,7 +324,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chen.md",
+                "file": "Seatle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,10 +359,22 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "e78b8122922ef79b",
+  "active": "f741bdf4c0ba1453",
   "lastOpenFiles": [
-    "Haida Gwaii Trip.md",
+    "Destinations.base",
+    "Seatle.md",
+    "Planets.md",
+    "attachments/Pasted image 20260924131157.png",
+    "attachments/Pasted image 20260924131016.png",
+    "attachments/Pasted image 20260924131004.png",
+    "attachments/Pasted image 20260924130957.png",
+    "attachments/Pasted image 20260924130948.png",
+    "attachments/Pasted image 20260924130937.png",
+    "attachments/Pasted image 20260924130924.png",
+    "Gardening.md",
+    "First Aid 急救包內容.md",
     "Chen.md",
+    "Haida Gwaii Trip.md",
     "Broughton Archipelago.md",
     "獨木舟 Paddling Skills.md",
     "Ski Equipments.md",
@@ -330,7 +390,6 @@
     "——/Thule Hullvator Pro 船隻間隔.md",
     "——/T1M捲尺.md",
     "——/Sea2Summit stretch lock.md",
-    "——/attachments/Sea to Summit stretch lock.png",
     "——/Rope tightener Nite Ize Figure 9.md",
     "——/Topo Legends.md",
     "——/USGS Legends.md",
@@ -338,17 +397,6 @@
     "——/地址 Addresses.md",
     "——/劈柴.md",
     "——/感應燈.md",
-    "——/懸掛熊袋 Hanging Bear bag.md",
-    "——/手電筒 Manual.md",
-    "——/繩結.md",
-    "——/道路資訊 Overland Road Info.md",
-    "——/馬達距離.md",
-    "——/attachments/IMG_2794.png",
-    "——/attachments/Trucker's Hitch.jpeg",
-    "——/attachments/IMG_3021.jpeg",
-    "——/attachments/IMG_3945.jpg",
-    "——/attachments/IMG_5407.jpg",
-    "——/attachments/IMG_5406.jpg",
     "——/attachments/IMG_6901 1.heic",
     "——/attachments/IMG_6901.heic",
     "——/attachments/IMG_6903.heic",
