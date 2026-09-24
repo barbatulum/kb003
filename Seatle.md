@@ -15,4 +15,4 @@ theme: destination
 - Trader Joe
 
 ### Eat
-Crab Pot Seattle
+- Crab Pot Seattle
