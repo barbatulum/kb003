@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "Seatle"
             }
+          },
+          {
+            "id": "9f691d4ca0f5f01d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bags.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bags"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -324,7 +348,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seatle.md",
+                "file": "Bags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -359,9 +383,15 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "f741bdf4c0ba1453",
+  "active": "9f691d4ca0f5f01d",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260928144906.png",
+    "Banff.md",
     "Destinations.base",
+    "Blue River.md",
+    "——/GoPro Remote.md",
+    "——/Insta GPS remote.md",
+    "Bags.md",
     "Seatle.md",
     "Planets.md",
     "attachments/Pasted image 20260924131157.png",
@@ -392,11 +422,6 @@
     "——/Sea2Summit stretch lock.md",
     "——/Rope tightener Nite Ize Figure 9.md",
     "——/Topo Legends.md",
-    "——/USGS Legends.md",
-    "——/健保 Adobe Canada Life.md",
-    "——/地址 Addresses.md",
-    "——/劈柴.md",
-    "——/感應燈.md",
     "——/attachments/IMG_6901 1.heic",
     "——/attachments/IMG_6901.heic",
     "——/attachments/IMG_6903.heic",
@@ -406,7 +431,6 @@
     "——/attachments/Ping-Yu Cheng-Level 1-Sea Kayak-Skills -fr.pdf",
     "——/attachments/Ping-Yu Cheng-Level 1-Sea Kayak-Skills.pdf",
     "——/attachments/PDF.pdf",
-    "——/attachments",
     "Untitled.canvas"
   ]
 }

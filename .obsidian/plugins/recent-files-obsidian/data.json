@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Seatle",
-      "path": "Seatle.md"
+      "basename": "Bags",
+      "path": "Bags.md"
+    },
+    {
+      "basename": "Banff",
+      "path": "Banff.md"
     },
     {
       "basename": "Destinations",
       "path": "Destinations.base"
+    },
+    {
+      "basename": "Blue River",
+      "path": "Blue River.md"
+    },
+    {
+      "basename": "GoPro Remote",
+      "path": "——/GoPro Remote.md"
+    },
+    {
+      "basename": "Insta GPS remote",
+      "path": "——/Insta GPS remote.md"
+    },
+    {
+      "basename": "Seatle",
+      "path": "Seatle.md"
     },
     {
       "basename": "Planets",
@@ -149,16 +169,8 @@
       "path": "——/Milo 對講機.md"
     },
     {
-      "basename": "Insta GPS remote",
-      "path": "——/Insta GPS remote.md"
-    },
-    {
       "basename": "Honda eu2200i",
       "path": "——/Honda eu2200i.md"
-    },
-    {
-      "basename": "GoPro Remote",
-      "path": "——/GoPro Remote.md"
     },
     {
       "basename": "GoPro Modes",
@@ -171,10 +183,6 @@
     {
       "basename": "Barkley Sound",
       "path": "Barkley Sound.md"
-    },
-    {
-      "basename": "Blue River",
-      "path": "Blue River.md"
     },
     {
       "basename": "Kayak Expedition",
@@ -191,14 +199,6 @@
     {
       "basename": "車是基地 vs 車只是交通工具",
       "path": "車是基地 vs 車只是交通工具.md"
-    },
-    {
-      "basename": "Weather and Lee cocking",
-      "path": "Weather and Lee cocking.md"
-    },
-    {
-      "basename": "Pasted image 20260429100652",
-      "path": "attachments/Pasted image 20260429100652.png"
     }
   ],
   "omittedPaths": [],

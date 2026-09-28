@@ -1033,7 +1033,7 @@
     "expandedKeys": []
   },
   "Blue River.md": {
-    "scroll": 7.788941630122375,
+    "scroll": 11.45219722097734,
     "cursor": {
       "from": {
         "line": 7,
@@ -2503,6 +2503,20 @@
       "to": {
         "line": 17,
         "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "Bags.md": {
+    "scroll": 6.641877645157604,
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 4
+      },
+      "to": {
+        "line": 23,
+        "ch": 4
       }
     },
     "expandedKeys": []
