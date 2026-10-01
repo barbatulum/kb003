@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Camping Tent Setup.md",
+                "file": "360 Photo exif metadata.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Camping Tent Setup"
+              "title": "360 Photo exif metadata"
             }
           }
         ]
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camping Tent Setup.md",
+                "file": "360 Photo exif metadata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,8 +275,8 @@
   },
   "active": "ede2ac844b523633",
   "lastOpenFiles": [
-    "帳篷搭配.md",
     "Camping Tent Setup.md",
+    "帳篷搭配.md",
     "Tarp Setup.md",
     "Off-Road skills.md",
     "——/LTIS.md",
