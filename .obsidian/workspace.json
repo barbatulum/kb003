@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "360 Photo exif metadata.md",
+                "file": "Camping Tent Setup.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "360 Photo exif metadata"
+              "title": "Camping Tent Setup"
             }
           }
         ]
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "360 Photo exif metadata.md",
+                "file": "Camping Tent Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,6 +275,7 @@
   },
   "active": "ede2ac844b523633",
   "lastOpenFiles": [
+    "360 Photo exif metadata.md",
     "Camping Tent Setup.md",
     "帳篷搭配.md",
     "Tarp Setup.md",
@@ -307,7 +308,6 @@
     "Animation Reel.md",
     "Skiing.md",
     "Carving.md",
-    "360 Photo exif metadata.md",
     "——/attachments/IMG_1592.png",
     "Penn Island Camping.md",
     "2027 Trips.md",
