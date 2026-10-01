@@ -8,156 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8063e8d1c5742071",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Haida Gwaii Trip.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Haida Gwaii Trip"
-            }
-          },
-          {
-            "id": "ba50c8bcc779e69a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Haida Gwaii Trip.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Haida Gwaii Trip"
-            }
-          },
-          {
-            "id": "e78b8122922ef79b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Chen"
-            }
-          },
-          {
-            "id": "b6df0ed6fd80e7f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "First Aid 急救包內容.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "First Aid 急救包內容"
-            }
-          },
-          {
-            "id": "f741bdf4c0ba1453",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seatle.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Seatle"
-            }
-          },
-          {
-            "id": "9f691d4ca0f5f01d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "——/LTIS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "LTIS"
-            }
-          },
-          {
             "id": "ede2ac844b523633",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Off-Road skills.md",
+                "file": "Camping Tent Setup.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Off-Road skills"
+              "title": "Camping Tent Setup"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -322,8 +177,19 @@
               "icon": "calendar-days",
               "title": "GCal Month View"
             }
+          },
+          {
+            "id": "09d3d1cd0daf511e",
+            "type": "leaf",
+            "state": {
+              "type": "sync",
+              "state": {},
+              "icon": "refresh-ccw",
+              "title": "Sync changes"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "58038f2bf6c310a7",
@@ -372,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Off-Road skills.md",
+                "file": "Camping Tent Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -409,8 +275,15 @@
   },
   "active": "ede2ac844b523633",
   "lastOpenFiles": [
-    "——/LTIS.md",
+    "帳篷搭配.md",
+    "Camping Tent Setup.md",
+    "Tarp Setup.md",
     "Off-Road skills.md",
+    "——/LTIS.md",
+    "Haida Gwaii Trip.md",
+    "Chen Trip.md",
+    "Seatle.md",
+    "First Aid 急救包內容.md",
     "attachments/Pasted image 20260929101633.png",
     "Bags.md",
     "attachments/Pasted image 20260928144906.png",
@@ -419,7 +292,6 @@
     "Blue River.md",
     "——/GoPro Remote.md",
     "——/Insta GPS remote.md",
-    "Seatle.md",
     "Planets.md",
     "attachments/Pasted image 20260924131157.png",
     "attachments/Pasted image 20260924131016.png",
@@ -429,9 +301,6 @@
     "attachments/Pasted image 20260924130937.png",
     "attachments/Pasted image 20260924130924.png",
     "Gardening.md",
-    "First Aid 急救包內容.md",
-    "Chen.md",
-    "Haida Gwaii Trip.md",
     "Broughton Archipelago.md",
     "獨木舟 Paddling Skills.md",
     "Ski Equipments.md",
@@ -443,8 +312,6 @@
     "Penn Island Camping.md",
     "2027 Trips.md",
     "——/Thule Hullvator Pro 船隻間隔.md",
-    "——/T1M捲尺.md",
-    "——/Sea2Summit stretch lock.md",
     "——/attachments/IMG_6901 1.heic",
     "——/attachments/IMG_6901.heic",
     "——/attachments/IMG_6903.heic",

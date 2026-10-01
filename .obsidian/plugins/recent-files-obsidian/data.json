@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Camping Tent Setup",
+      "path": "Camping Tent Setup.md"
+    },
+    {
+      "basename": "Tarp Setup",
+      "path": "Tarp Setup.md"
+    },
+    {
       "basename": "Off-Road skills",
       "path": "Off-Road skills.md"
     },
     {
       "basename": "LTIS",
       "path": "——/LTIS.md"
+    },
+    {
+      "basename": "Haida Gwaii Trip",
+      "path": "Haida Gwaii Trip.md"
+    },
+    {
+      "basename": "Chen Trip",
+      "path": "Chen Trip.md"
+    },
+    {
+      "basename": "Seatle",
+      "path": "Seatle.md"
+    },
+    {
+      "basename": "First Aid 急救包內容",
+      "path": "First Aid 急救包內容.md"
     },
     {
       "basename": "Bags",
@@ -33,28 +57,12 @@
       "path": "——/Insta GPS remote.md"
     },
     {
-      "basename": "Seatle",
-      "path": "Seatle.md"
-    },
-    {
       "basename": "Planets",
       "path": "Planets.md"
     },
     {
       "basename": "Gardening",
       "path": "Gardening.md"
-    },
-    {
-      "basename": "First Aid 急救包內容",
-      "path": "First Aid 急救包內容.md"
-    },
-    {
-      "basename": "Chen",
-      "path": "Chen.md"
-    },
-    {
-      "basename": "Haida Gwaii Trip",
-      "path": "Haida Gwaii Trip.md"
     },
     {
       "basename": "Broughton Archipelago",
@@ -187,18 +195,6 @@
     {
       "basename": "Garmin 地圖選擇",
       "path": "——/Garmin 地圖選擇.md"
-    },
-    {
-      "basename": "Barkley Sound",
-      "path": "Barkley Sound.md"
-    },
-    {
-      "basename": "Kayak Expedition",
-      "path": "Kayak Expedition.md"
-    },
-    {
-      "basename": "Saturna and Pender Island",
-      "path": "Saturna and Pender Island.md"
     }
   ],
   "omittedPaths": [],
