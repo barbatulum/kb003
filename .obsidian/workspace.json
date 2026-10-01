@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overlanding Useful Links.md",
+                "file": "Camping Tent Setup.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Overlanding Useful Links"
+              "title": "Camping Tent Setup"
             }
           }
         ]
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overlanding Useful Links.md",
+                "file": "Camping Tent Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,6 +275,7 @@
   },
   "active": "ede2ac844b523633",
   "lastOpenFiles": [
+    "Overlanding Useful Links.md",
     "Camping Tent Setup.md",
     "360 Photo exif metadata.md",
     "帳篷搭配.md",
@@ -311,7 +312,6 @@
     "——/attachments/IMG_1592.png",
     "Penn Island Camping.md",
     "2027 Trips.md",
-    "——/Thule Hullvator Pro 船隻間隔.md",
     "——/attachments/IMG_6901 1.heic",
     "——/attachments/IMG_6901.heic",
     "——/attachments/IMG_6903.heic",
