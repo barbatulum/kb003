@@ -1,6 +1,10 @@
 ---
 theme: trip
 destination: "[[Haida Gwaii]]"
+trip-type:
+  - car-camping
+  - kayak-camping
+  - paddling
 ---
 
 # [[Haida Gwaii]]

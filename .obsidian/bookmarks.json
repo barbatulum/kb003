@@ -23,7 +23,7 @@
     {
       "type": "file",
       "ctime": 1774020080180,
-      "path": "Destinations.base",
+      "path": "Bases/Destinations.base",
       "title": "Destination"
     },
     {
@@ -58,7 +58,7 @@
         {
           "type": "file",
           "ctime": 1773169792491,
-          "path": "Blog Post Status.base"
+          "path": "Bases/Blog Post Status.base"
         }
       ],
       "title": "Bases"

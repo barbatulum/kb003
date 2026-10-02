@@ -1,5 +1,10 @@
 ---
 theme: trip
+tags:
+trip-type:
+  - kayak-camping
+  - car-camping
+  - paddling
 ---
 
 - [[Clearwater and Azure Lake]]

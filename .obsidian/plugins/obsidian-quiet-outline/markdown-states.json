@@ -686,11 +686,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 0,
+        "line": 3,
         "ch": 0
       },
       "to": {
-        "line": 0,
+        "line": 3,
         "ch": 0
       }
     },
@@ -919,12 +919,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 1,
-        "ch": 22
+        "line": 0,
+        "ch": 0
       },
       "to": {
-        "line": 1,
-        "ch": 22
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -991,18 +991,15 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 0,
+        "line": 8,
         "ch": 0
       },
       "to": {
-        "line": 0,
+        "line": 8,
         "ch": 0
       }
     },
-    "expandedKeys": [
-      "item-2-0",
-      "item-3-1"
-    ]
+    "expandedKeys": []
   },
   "Overlanding 電力 Setup.md": {
     "scroll": 0,
@@ -1172,11 +1169,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
+        "line": 7,
         "ch": 0
       },
       "to": {
-        "line": 4,
+        "line": 7,
         "ch": 0
       }
     },
@@ -2593,5 +2590,91 @@
       }
     },
     "expandedKeys": []
+  },
+  "Cariboo Chilcotin Coast.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 75
+      },
+      "to": {
+        "line": 7,
+        "ch": 75
+      }
+    },
+    "expandedKeys": []
+  },
+  "Bowron Lake.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Tsʼilʔos Provincial Park.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Untitled 5.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Seymour Narros.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Seymour Narrows.md": {
+    "scroll": 568.3913480014077,
+    "cursor": {
+      "from": {
+        "line": 573,
+        "ch": 0
+      },
+      "to": {
+        "line": 573,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-2-1"
+    ]
   }
 }
