@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Retirement Plan",
+      "path": "Retirement Plan.md"
+    },
+    {
       "basename": "Camping Tent Setup",
       "path": "Camping Tent Setup.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "GoPro Modes",
       "path": "——/GoPro Modes.md"
-    },
-    {
-      "basename": "Garmin 地圖選擇",
-      "path": "——/Garmin 地圖選擇.md"
     }
   ],
   "omittedPaths": [],

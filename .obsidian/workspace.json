@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Camping Tent Setup"
             }
+          },
+          {
+            "id": "df105e96add6c577",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Retirement Plan.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Retirement Plan"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camping Tent Setup.md",
+                "file": "Retirement Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,10 +298,11 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "ede2ac844b523633",
+  "active": "df105e96add6c577",
   "lastOpenFiles": [
-    "Overlanding Useful Links.md",
     "Camping Tent Setup.md",
+    "Retirement Plan.md",
+    "Overlanding Useful Links.md",
     "360 Photo exif metadata.md",
     "帳篷搭配.md",
     "Tarp Setup.md",
@@ -311,7 +337,6 @@
     "Carving.md",
     "——/attachments/IMG_1592.png",
     "Penn Island Camping.md",
-    "2027 Trips.md",
     "——/attachments/IMG_6901 1.heic",
     "——/attachments/IMG_6901.heic",
     "——/attachments/IMG_6903.heic",
