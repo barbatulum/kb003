@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Seymour Narrows",
-      "path": "Seymour Narrows.md"
-    },
-    {
       "basename": "Trips",
       "path": "Bases/Trips.base"
+    },
+    {
+      "basename": "Chilko Lake",
+      "path": "Chilko Lake.md"
+    },
+    {
+      "basename": "Seymour Narrows",
+      "path": "Seymour Narrows.md"
     },
     {
       "basename": "Tsʼilʔos Provincial Park",
@@ -195,10 +199,6 @@
     {
       "basename": "懸掛熊袋 Hanging Bear bag",
       "path": "——/懸掛熊袋 Hanging Bear bag.md"
-    },
-    {
-      "basename": "手電筒 Manual",
-      "path": "——/手電筒 Manual.md"
     }
   ],
   "omittedPaths": [],

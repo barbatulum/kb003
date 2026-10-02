@@ -2662,19 +2662,47 @@
     "expandedKeys": []
   },
   "Seymour Narrows.md": {
-    "scroll": 568.3913480014077,
+    "scroll": 665.4355722955893,
     "cursor": {
       "from": {
-        "line": 573,
-        "ch": 0
+        "line": 690,
+        "ch": 148
       },
       "to": {
-        "line": 573,
-        "ch": 0
+        "line": 690,
+        "ch": 148
       }
     },
     "expandedKeys": [
       "item-2-1"
     ]
+  },
+  "Chilco Lake.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 143
+      },
+      "to": {
+        "line": 4,
+        "ch": 143
+      }
+    },
+    "expandedKeys": []
+  },
+  "Chilko Lake.md": {
+    "scroll": 41.48919091010169,
+    "cursor": {
+      "from": {
+        "line": 57,
+        "ch": 39
+      },
+      "to": {
+        "line": 57,
+        "ch": 39
+      }
+    },
+    "expandedKeys": []
   }
 }

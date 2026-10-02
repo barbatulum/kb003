@@ -648,3 +648,44 @@ FLOOD PATH
 For more information on kayaking Seymour Narrows, see [Downhill Both Ways](https://issuu.com/wildcoast/docs/15sp_webr/30)
 
 ‡ I wear a [Kokatat SeaO2 PFD](https://kokatat.com/product/seao2-pfd-lvusea), which provides 22 pounds of flotation when inflated.
+
+## REFERENCE LINKS
+
+Current & Tide:- [Beazley Passage Current - Tables](http://www.tides.gc.ca/eng/data/table/2017/curr_ref/5200) **(PST only)**
+- [Beazley Passage Current - Graph](http://tides.mobilegeographics.com/locations/6259.html) (PST/PDT)
+- [Surge Narrows Tide - Tables](http://www.tides.gc.ca/eng/station?sid=8045) (PST/PDT)
+- [Surge Narrows Tide - Graph](http://tides.mobilegeographics.com/locations/6257.html) (PST/PDT)
+
+WEATHER forecasts:
+- [marine forecast Strait of Georgia, north of Nanaimo](http://weather.gc.ca/marine/forecast_e.html?mapID=03&siteID=14301)
+- [marine forecast Johnstone Strait](http://weather.gc.ca/marine/forecast_e.html?mapID=03&siteID=06800)
+- [Windy.com](https://www.windy.com/?49.502,-125.291,8,i:pressure)
+- [SpotWx 2 day forecast](https://spotwx.com/products/grib_index.php?model=gem_lam_continental&lat=50.21909&lon=-125.14801&tz=-8)
+- [SpotWx 10 day forecast](https://spotwx.com/products/grib_index.php?model=gem_glb_25km&lat=50.21909&lon=-125.14801&tz=-8)
+- [earth.nullschool wind forecast](https://earth.nullschool.net/#current/wind/surface/level/orthographic=-125.0,47.0,8000)
+- [Sailflow wind forecast](http://www.sailflow.com/map#50.086,-125.134,9,2)  
+
+WEATHER observations:
+- [GOES-W satellite image](http://weather.msfc.nasa.gov/cgi-bin/get-goes?satellite=GOES-W%20PACUS&lat=51&lon=-124&info=vis&mapcolor=red)
+- [DND Comox Fronts & Isobars](https://flightplanning.navcanada.ca/cgi-bin/GenerProduit.pl?Produit=COMOX&Langue=anglais&Region=&NoSession=NS_Inconnu)
+- [lighthouse observations](http://weather.gc.ca/marine/weatherConditions-lightstation_e.html?mapID=02&siteID=16200)
+- [buoy & land observations](http://weather.gc.ca/marine/weatherConditions-regionalSummary_e.html?mapID=02&siteID=16200&stationID=46206)
+- [alyak wind & waves](http://www.alyak.ca/WindMap/Wind.php)
+- [alyak sky & precipitation](http://www.alyak.ca/WindMap/Sky.php)
+
+VIDEOS:
+- [Discovery Passage Passage 2010](https://www.youtube.com/watch?v=Jy7nZ0Y8nGY)
+- [Timelapse from Fishing Pier](https://www.youtube.com/watch?v=KsFrjXaDEPg)
+- [Intro to Charts & Tides](https://www.youtube.com/watch?v=a-tp1n3iiRM)
+- [a south easterly](https://www.youtube.com/watch?v=hnnwv0LNjpM)
+- [Board Surfing at Stories Beach](https://www.youtube.com/watch?v=q5VkBUMbUrQ)
+- [Eagle Eye Adventures](https://www.youtube.com/watch?v=6SPi0gCb1fo)
+- [Ripple Rock Lookout - Drone Footage](https://www.youtube.com/watch?v=roNS06oAcnM)
+- [Ripple Rock Explosion](https://www.youtube.com/watch?v=SJCFkqDKYYw)
+
+MISCELLANEOUS:
+- [Comox Valley Kayaks](http://www.comoxvalleykayaks.com/)
+- [Accommodation](https://www.campbellriver.travel/accommodations/)  [Camping](http://www.campbellriverlodging.worldweb.com/Campgrounds/)  [Dining](https://gocampbellriver.com/category/campbell-river-business-listings/campbell-river-dining/campbell-river-restaurants/)
+- [Sailing Directions](https://books.google.ca/books?id=YEH50xSJedQC&pg=PA98#v=onepage&q&f=false)
+- [Quadra Ferry schedule](http://www.bcferries.com/schedules/northern/crqi-current.php)  [Quadra Ferry location](http://bcferries.applocation.net/routemaps/route21.html)
+- [Sunrise & Sunset](https://www.timeanddate.com/sun/canada/campbell-river)  [Moon Phases](http://www.moonconnection.com/moon_phases_calendar.phtml)

@@ -1,0 +1,4 @@
+---
+theme: trip
+trip-type:
+---

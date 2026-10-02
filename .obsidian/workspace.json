@@ -35,24 +35,13 @@
             "id": "df105e96add6c577",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Seymour Narrows.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Bases/Trips.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Seymour Narrows"
+              "icon": "lucide-table",
+              "title": "Trips"
             }
           },
           {
@@ -286,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seymour Narrows.md",
+                "file": "Bases/Trips.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,13 +312,19 @@
   },
   "active": "df105e96add6c577",
   "lastOpenFiles": [
+    "Tokyo Waterway.md",
+    "Love Lake.md",
+    "Wahleach Lake.md",
+    "Kentucky Lake.md",
+    "Buccaneer Bay.md",
+    "Chilko Lake.md",
+    "Bases/Trips.base",
+    "Seymour Narrows.md",
     "attachments/Pasted image 20261002125139.png",
     "attachments/Pasted image 20261002124838.png",
     "attachments/Pasted image 20261002124639.png",
     "attachments/Pasted image 20261002124522.png",
     "attachments/Pasted image 20261002123521.png",
-    "Bases/Trips.base",
-    "Seymour Narrows.md",
     "Tsʼilʔos Provincial Park.md",
     "Bowron Lake.md",
     "Lakes Trips 2026.md",
@@ -353,17 +348,11 @@
     "——/LTIS.md",
     "Haida Gwaii Trip.md",
     "Chen Trip.md",
-    "Seatle.md",
-    "First Aid 急救包內容.md",
     "attachments/Pasted image 20260929101633.png",
-    "Bags.md",
     "attachments/Pasted image 20260928144906.png",
-    "Banff.md",
-    "Blue River.md",
     "attachments/Pasted image 20260924131157.png",
     "attachments/Pasted image 20260924131016.png",
     "attachments/Pasted image 20260924131004.png",
-    "attachments/Pasted image 20260924130957.png",
     "——/attachments/IMG_6901 1.heic",
     "——/attachments/IMG_6901.heic",
     "——/attachments/IMG_6903.heic",
