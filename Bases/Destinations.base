@@ -4,3 +4,5 @@ views:
     filters:
       and:
         - theme == "destination"
+  - type: cards
+    name: View

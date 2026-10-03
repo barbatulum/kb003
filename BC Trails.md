@@ -1,0 +1,16 @@
+---
+theme: destination
+---
+- Conrad Kain Hut Trail (Radium Hot Spring)
+	- [alltrails.com](https://www.alltrails.com/trail/canada/british-columbia/kain-hut-trail-to-applebee-campground)
+- Hermit Trail (Glacier National Park)
+- Floe Lake (Kootenay National Park)
+- Wedgemount Lake (Whistler)
+- The Niblet (Mount Assiniboine Provincial Park)
+- Opabin Plateau (Yoho National Park)
+- 5040 Peak
+- Watersprite Lake
+- Joffre Lake
+- Panorama Ridge
+- Canoe Mountain
+- Berg Lake Trail

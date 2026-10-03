@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Destinations",
+      "path": "Bases/Destinations.base"
+    },
+    {
+      "basename": "France",
+      "path": "France.md"
+    },
+    {
+      "basename": "Worldwide Kayaking",
+      "path": "Worldwide Kayaking.md"
+    },
+    {
       "basename": "Trips",
       "path": "Bases/Trips.base"
+    },
+    {
+      "basename": "Worldwide Ski Resorts",
+      "path": "Worldwide Ski Resorts.md"
+    },
+    {
+      "basename": "BC Trails",
+      "path": "BC Trails.md"
     },
     {
       "basename": "Haida Gwaii Trip",
@@ -47,10 +67,6 @@
     {
       "basename": "Tokyo Waterway",
       "path": "Tokyo Waterway.md"
-    },
-    {
-      "basename": "Destinations",
-      "path": "Bases/Destinations.base"
     },
     {
       "basename": "Chilko Lake",
@@ -183,22 +199,6 @@
     {
       "basename": "T1M捲尺",
       "path": "——/T1M捲尺.md"
-    },
-    {
-      "basename": "Sea2Summit stretch lock",
-      "path": "——/Sea2Summit stretch lock.md"
-    },
-    {
-      "basename": "Rope tightener Nite Ize Figure 9",
-      "path": "——/Rope tightener Nite Ize Figure 9.md"
-    },
-    {
-      "basename": "Topo Legends",
-      "path": "——/Topo Legends.md"
-    },
-    {
-      "basename": "USGS Legends",
-      "path": "——/USGS Legends.md"
     }
   ],
   "omittedPaths": [],

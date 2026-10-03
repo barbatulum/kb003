@@ -2637,11 +2637,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 4,
+        "line": 0,
         "ch": 0
       },
       "to": {
-        "line": 4,
+        "line": 0,
         "ch": 0
       }
     },
@@ -2788,5 +2788,92 @@
       }
     },
     "expandedKeys": []
+  },
+  "Italy.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "BC Trails.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 17
+      },
+      "to": {
+        "line": 15,
+        "ch": 17
+      }
+    },
+    "expandedKeys": []
+  },
+  "World Ski Resorts.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 12
+      },
+      "to": {
+        "line": 8,
+        "ch": 12
+      }
+    },
+    "expandedKeys": []
+  },
+  "Worldwide Kayaking.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 16
+      },
+      "to": {
+        "line": 13,
+        "ch": 16
+      }
+    },
+    "expandedKeys": []
+  },
+  "Worldwide Ski Resorts.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 3
+      },
+      "to": {
+        "line": 14,
+        "ch": 3
+      }
+    },
+    "expandedKeys": []
+  },
+  "France.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 53
+      },
+      "to": {
+        "line": 9,
+        "ch": 53
+      }
+    },
+    "expandedKeys": [
+      "item-2-0",
+      "item-3-2"
+    ]
   }
 }
