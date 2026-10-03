@@ -1793,15 +1793,15 @@
     "expandedKeys": []
   },
   "Haida Gwaii Trip.md": {
-    "scroll": 33.20416448877935,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 50,
-        "ch": 32
+        "line": 51,
+        "ch": 15
       },
       "to": {
-        "line": 50,
-        "ch": 32
+        "line": 51,
+        "ch": 15
       }
     },
     "expandedKeys": [
@@ -2662,7 +2662,7 @@
     "expandedKeys": []
   },
   "Seymour Narrows.md": {
-    "scroll": 665.4355722955893,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 690,
@@ -2701,6 +2701,90 @@
       "to": {
         "line": 57,
         "ch": 39
+      }
+    },
+    "expandedKeys": []
+  },
+  "Tokyo Waterway.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Buccaneer Bay.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Kentucky Lake.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Love Lake.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Maligne Lake.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Wahleach Lake.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 0
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
       }
     },
     "expandedKeys": []

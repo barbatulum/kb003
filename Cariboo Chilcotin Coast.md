@@ -1,5 +1,5 @@
 ---
-theme: trip
+theme: destination
 trip-type:
   - car-camping
   - paddling

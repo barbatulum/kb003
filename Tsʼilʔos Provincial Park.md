@@ -1,5 +1,5 @@
 ---
-theme: trip
+theme: destination
 tags:
 trip-type:
   - car-camping

@@ -5,28 +5,60 @@
       "path": "Bases/Trips.base"
     },
     {
-      "basename": "Chilko Lake",
-      "path": "Chilko Lake.md"
-    },
-    {
-      "basename": "Seymour Narrows",
-      "path": "Seymour Narrows.md"
+      "basename": "Haida Gwaii Trip",
+      "path": "Haida Gwaii Trip.md"
     },
     {
       "basename": "Tsʼilʔos Provincial Park",
       "path": "Tsʼilʔos Provincial Park.md"
     },
     {
+      "basename": "Wahleach Lake",
+      "path": "Wahleach Lake.md"
+    },
+    {
+      "basename": "Seymour Narrows",
+      "path": "Seymour Narrows.md"
+    },
+    {
+      "basename": "Maligne Lake",
+      "path": "Maligne Lake.md"
+    },
+    {
+      "basename": "Love Lake",
+      "path": "Love Lake.md"
+    },
+    {
+      "basename": "Kentucky Lake",
+      "path": "Kentucky Lake.md"
+    },
+    {
+      "basename": "Buccaneer Bay",
+      "path": "Buccaneer Bay.md"
+    },
+    {
+      "basename": "Cariboo Chilcotin Coast",
+      "path": "Cariboo Chilcotin Coast.md"
+    },
+    {
       "basename": "Bowron Lake",
       "path": "Bowron Lake.md"
     },
     {
-      "basename": "Lakes Trips 2026",
-      "path": "Lakes Trips 2026.md"
+      "basename": "Tokyo Waterway",
+      "path": "Tokyo Waterway.md"
     },
     {
-      "basename": "Maligne Lake Trip",
-      "path": "Maligne Lake Trip.md"
+      "basename": "Destinations",
+      "path": "Bases/Destinations.base"
+    },
+    {
+      "basename": "Chilko Lake",
+      "path": "Chilko Lake.md"
+    },
+    {
+      "basename": "Lakes Trips 2026",
+      "path": "Lakes Trips 2026.md"
     },
     {
       "basename": "Camping Tent Setup",
@@ -37,16 +69,8 @@
       "path": "Camping Drill I.md"
     },
     {
-      "basename": "Cariboo Chilcotin Coast",
-      "path": "Cariboo Chilcotin Coast.md"
-    },
-    {
       "basename": "Untitled 4",
       "path": "Untitled 4.md"
-    },
-    {
-      "basename": "Destinations",
-      "path": "Bases/Destinations.base"
     },
     {
       "basename": "Blog Post Status",
@@ -83,10 +107,6 @@
     {
       "basename": "LTIS",
       "path": "——/LTIS.md"
-    },
-    {
-      "basename": "Haida Gwaii Trip",
-      "path": "Haida Gwaii Trip.md"
     },
     {
       "basename": "Chen Trip",
@@ -179,26 +199,6 @@
     {
       "basename": "USGS Legends",
       "path": "——/USGS Legends.md"
-    },
-    {
-      "basename": "健保 Adobe Canada Life",
-      "path": "——/健保 Adobe Canada Life.md"
-    },
-    {
-      "basename": "地址 Addresses",
-      "path": "——/地址 Addresses.md"
-    },
-    {
-      "basename": "劈柴",
-      "path": "——/劈柴.md"
-    },
-    {
-      "basename": "感應燈",
-      "path": "——/感應燈.md"
-    },
-    {
-      "basename": "懸掛熊袋 Hanging Bear bag",
-      "path": "——/懸掛熊袋 Hanging Bear bag.md"
     }
   ],
   "omittedPaths": [],
