@@ -2307,14 +2307,14 @@
     "expandedKeys": []
   },
   "——/繩結.md": {
-    "scroll": 12.410635701214423,
+    "scroll": 8.004538330010181,
     "cursor": {
       "from": {
-        "line": 6,
+        "line": 10,
         "ch": 0
       },
       "to": {
-        "line": 6,
+        "line": 10,
         "ch": 0
       }
     },
@@ -2895,14 +2895,44 @@
     ]
   },
   "——/繩結 2.md": {
-    "scroll": 2.3432380540476725,
+    "scroll": 9.357410834314924,
     "cursor": {
       "from": {
-        "line": 6,
+        "line": 8,
+        "ch": 15
+      },
+      "to": {
+        "line": 8,
+        "ch": 15
+      }
+    },
+    "expandedKeys": [
+      "item-2-0"
+    ]
+  },
+  "——/繩結 2 1.md": {
+    "scroll": 0.005333333509763078,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 13
+      },
+      "to": {
+        "line": 1,
+        "ch": 13
+      }
+    },
+    "expandedKeys": []
+  },
+  "——/繩結 3.md": {
+    "scroll": 7.767612097840916,
+    "cursor": {
+      "from": {
+        "line": 13,
         "ch": 0
       },
       "to": {
-        "line": 6,
+        "line": 13,
         "ch": 0
       }
     },

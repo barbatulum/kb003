@@ -9,6 +9,10 @@
       "path": "——/繩結 2.md"
     },
     {
+      "basename": "繩結 3",
+      "path": "——/繩結 3.md"
+    },
+    {
       "basename": "Destinations",
       "path": "Bases/Destinations.base"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Penn Island Camping",
       "path": "Penn Island Camping.md"
-    },
-    {
-      "basename": "2027 Trips",
-      "path": "2027 Trips.md"
     }
   ],
   "omittedPaths": [],
