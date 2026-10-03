@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "繩結",
+      "path": "——/繩結.md"
+    },
+    {
+      "basename": "繩結 2",
+      "path": "——/繩結 2.md"
+    },
+    {
       "basename": "Destinations",
       "path": "Bases/Destinations.base"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2027 Trips",
       "path": "2027 Trips.md"
-    },
-    {
-      "basename": "Thule Hullvator Pro 船隻間隔",
-      "path": "——/Thule Hullvator Pro 船隻間隔.md"
-    },
-    {
-      "basename": "T1M捲尺",
-      "path": "——/T1M捲尺.md"
     }
   ],
   "omittedPaths": [],

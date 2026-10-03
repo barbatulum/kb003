@@ -2307,18 +2307,20 @@
     "expandedKeys": []
   },
   "——/繩結.md": {
-    "scroll": 42.89896611285555,
+    "scroll": 12.410635701214423,
     "cursor": {
       "from": {
-        "line": 44,
-        "ch": 13
+        "line": 6,
+        "ch": 0
       },
       "to": {
-        "line": 44,
+        "line": 6,
         "ch": 0
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-3-0"
+    ]
   },
   "——/羅賴把.md": {
     "scroll": 0,
@@ -2875,5 +2877,35 @@
       "item-2-0",
       "item-3-2"
     ]
+  },
+  "——/繩結 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-3-0"
+    ]
+  },
+  "——/繩結 2.md": {
+    "scroll": 2.3432380540476725,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }

@@ -90,9 +90,33 @@
               "icon": "lucide-table",
               "title": "Trips"
             }
+          },
+          {
+            "id": "ca727fb0d7052e35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "——/繩結.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "繩結"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -298,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bases/Destinations.base",
+                "file": "——/繩結.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -334,13 +358,15 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "de84059c8389113d",
+  "active": "ca727fb0d7052e35",
   "lastOpenFiles": [
+    "——/繩結 2.md",
+    "——/繩結.md",
+    "Bases/Destinations.base",
     "Arrowhead Provincial Park.md",
     "Ausable Chasm (Ontario).md",
     "Belmond Andean Explorer - 南美豪華臥鋪列車.md",
     "France.md",
-    "Bases/Destinations.base",
     "瓜地馬拉.md",
     "Morroco.md",
     "Worldwide Kayaking.md",
@@ -367,8 +393,6 @@
     "attachments/Pasted image 20261002123521.png",
     "Lakes Trips 2026.md",
     "Camping Tent Setup.md",
-    "Camping Drill I.md",
-    "Trips.md",
     "Bases/Blog Post Status.base",
     "Bases",
     "Untitled.canvas",
