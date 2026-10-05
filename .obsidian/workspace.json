@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "——/繩結.md",
+                "file": "360 Photo exif metadata.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,7 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "繩結"
+              "title": "360 Photo exif metadata"
             }
           }
         ],
@@ -322,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "——/繩結.md",
+                "file": "360 Photo exif metadata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -360,11 +360,11 @@
   },
   "active": "ca727fb0d7052e35",
   "lastOpenFiles": [
+    "——/繩結.md",
     "——/attachments/Pasted image 20261003153443.png",
     "——/attachments/Pasted image 20261003152247.png",
     "——/attachments/Pasted image 20261003151805.png",
     "——/繩結 2.md",
-    "——/繩結.md",
     "——/繩結 3.md",
     "——/attachments/Pasted image 20261003144852.png",
     "——/attachments/Pasted image 20261003143105.png",
@@ -397,7 +397,6 @@
     "attachments/Pasted image 20261002125139.png",
     "attachments/Pasted image 20261002124838.png",
     "attachments/Pasted image 20261002124639.png",
-    "attachments/Pasted image 20261002124522.png",
     "Bases/Blog Post Status.base",
     "Bases",
     "Untitled.canvas",
