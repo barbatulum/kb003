@@ -138,9 +138,21 @@
               "icon": "lucide-file",
               "title": "8mways2l Blog"
             }
+          },
+          {
+            "id": "4b3cc87d53b50615",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -378,11 +390,10 @@
       "obsidian-git:Open Git source control": false,
       "workspaces:Manage workspace layouts": false,
       "realclaudian:Open Claudian": false,
-      "obsidian-importer:Import notes": false,
-      "notes-explorer:Notes explorer": false
+      "obsidian-importer:Import notes": false
     }
   },
-  "active": "1c49ea92e8a7faec",
+  "active": "4b3cc87d53b50615",
   "lastOpenFiles": [
     "360 Photo exif metadata.md",
     "8mways2l Blog.md",
