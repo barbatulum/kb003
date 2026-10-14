@@ -150,9 +150,33 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.14.4"
             }
+          },
+          {
+            "id": "6a536d23f7e6f68b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dual Weld.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dual Weld"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -358,7 +382,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8mways2l Blog.md",
+                "file": "Dual Weld.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -390,11 +414,14 @@
       "obsidian-git:Open Git source control": false,
       "workspaces:Manage workspace layouts": false,
       "realclaudian:Open Claudian": false,
-      "obsidian-importer:Import notes": false
+      "obsidian-importer:Import notes": false,
+      "notes-explorer:Notes explorer": false
     }
   },
-  "active": "4b3cc87d53b50615",
+  "active": "6a536d23f7e6f68b",
   "lastOpenFiles": [
+    "Dual Weld.md",
+    "Bg3.md",
     "360 Photo exif metadata.md",
     "8mways2l Blog.md",
     "——/繩結.md",
@@ -428,8 +455,6 @@
     "Kentucky Lake.md",
     "Buccaneer Bay.md",
     "Cariboo Chilcotin Coast.md",
-    "Bowron Lake.md",
-    "Tokyo Waterway.md",
     "attachments/Pasted image 20261002125139.png",
     "attachments/Pasted image 20261002124838.png",
     "attachments/Pasted image 20261002124639.png",

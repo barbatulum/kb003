@@ -2955,5 +2955,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "Dual Weld.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 44,
+        "ch": 45
+      },
+      "to": {
+        "line": 44,
+        "ch": 45
+      }
+    },
+    "expandedKeys": []
   }
 }

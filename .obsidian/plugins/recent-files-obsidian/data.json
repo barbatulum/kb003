@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Dual Weld",
+      "path": "Dual Weld.md"
+    },
+    {
       "basename": "8mways2l Blog",
       "path": "8mways2l Blog.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Skiing",
       "path": "Skiing.md"
-    },
-    {
-      "basename": "Carving",
-      "path": "Carving.md"
     }
   ],
   "omittedPaths": [],
