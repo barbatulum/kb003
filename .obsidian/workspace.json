@@ -198,9 +198,57 @@
               "icon": "lucide-file",
               "title": "Shooter"
             }
+          },
+          {
+            "id": "e5729503b4f5ba9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BarbMonk.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "BarbMonk"
+            }
+          },
+          {
+            "id": "40f365eb41ab690c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Light Cleric.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Light Cleric"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -406,7 +454,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shooter.md",
+                "file": "Dual Weld.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -442,10 +490,12 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "7b7d24b3e1f2bab8",
+  "active": "6a536d23f7e6f68b",
   "lastOpenFiles": [
-    "Dual Weld.md",
     "Shooter.md",
+    "Light Cleric.md",
+    "BarbMonk.md",
+    "Dual Weld.md",
     "Bg3.md",
     "360 Photo exif metadata.md",
     "8mways2l Blog.md",
@@ -477,8 +527,6 @@
     "Maligne Lake Trip.md",
     "Maligne Lake.md",
     "Love Lake.md",
-    "Kentucky Lake.md",
-    "Buccaneer Bay.md",
     "attachments/Pasted image 20261002125139.png",
     "attachments/Pasted image 20261002124838.png",
     "attachments/Pasted image 20261002124639.png",

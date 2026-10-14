@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Dual Weld",
+      "path": "Dual Weld.md"
+    },
+    {
       "basename": "Shooter",
       "path": "Shooter.md"
     },
     {
-      "basename": "Dual Weld",
-      "path": "Dual Weld.md"
+      "basename": "Light Cleric",
+      "path": "Light Cleric.md"
+    },
+    {
+      "basename": "BarbMonk",
+      "path": "BarbMonk.md"
     },
     {
       "basename": "8mways2l Blog",
@@ -191,14 +199,6 @@
     {
       "basename": "Broughton Archipelago",
       "path": "Broughton Archipelago.md"
-    },
-    {
-      "basename": "獨木舟 Paddling Skills",
-      "path": "獨木舟 Paddling Skills.md"
-    },
-    {
-      "basename": "Ski Equipments",
-      "path": "Ski Equipments.md"
     }
   ],
   "omittedPaths": [],
