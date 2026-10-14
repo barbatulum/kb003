@@ -2648,7 +2648,7 @@
       },
       "to": {
         "line": 0,
-        "ch": 0
+        "ch": 4
       }
     },
     "expandedKeys": []
@@ -2966,6 +2966,20 @@
       "to": {
         "line": 44,
         "ch": 45
+      }
+    },
+    "expandedKeys": []
+  },
+  "Shooter.md": {
+    "scroll": 1.0111111791045524,
+    "cursor": {
+      "from": {
+        "line": 60,
+        "ch": 20
+      },
+      "to": {
+        "line": 60,
+        "ch": 20
       }
     },
     "expandedKeys": []

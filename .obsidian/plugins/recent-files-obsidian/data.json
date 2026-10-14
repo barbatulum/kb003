@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Shooter",
+      "path": "Shooter.md"
+    },
+    {
       "basename": "Dual Weld",
       "path": "Dual Weld.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Ski Equipments",
       "path": "Ski Equipments.md"
-    },
-    {
-      "basename": "Skiing",
-      "path": "Skiing.md"
     }
   ],
   "omittedPaths": [],
