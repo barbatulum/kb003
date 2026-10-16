@@ -248,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -454,7 +454,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dual Weld.md",
+                "file": "BarbMonk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -490,12 +490,12 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "6a536d23f7e6f68b",
+  "active": "e5729503b4f5ba9b",
   "lastOpenFiles": [
+    "Dual Weld.md",
     "Shooter.md",
     "Light Cleric.md",
     "BarbMonk.md",
-    "Dual Weld.md",
     "Bg3.md",
     "360 Photo exif metadata.md",
     "8mways2l Blog.md",
