@@ -248,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -454,7 +454,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shooter.md",
+                "file": "360 Photo exif metadata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -490,11 +490,11 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "7b7d24b3e1f2bab8",
+  "active": "ca727fb0d7052e35",
   "lastOpenFiles": [
+    "Shooter.md",
     "Dual Weld.md",
     "BarbMonk.md",
-    "Shooter.md",
     "Light Cleric.md",
     "Bg3.md",
     "360 Photo exif metadata.md",

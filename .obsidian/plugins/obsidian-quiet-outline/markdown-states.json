@@ -558,12 +558,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 3,
-        "ch": 459
+        "line": 0,
+        "ch": 398
       },
       "to": {
-        "line": 3,
-        "ch": 459
+        "line": 0,
+        "ch": 1
       }
     },
     "expandedKeys": []
@@ -2971,15 +2971,15 @@
     "expandedKeys": []
   },
   "Shooter.md": {
-    "scroll": 35.864582657814026,
+    "scroll": 35.86458212137222,
     "cursor": {
       "from": {
-        "line": 7,
-        "ch": 11
+        "line": 38,
+        "ch": 0
       },
       "to": {
-        "line": 7,
-        "ch": 11
+        "line": 38,
+        "ch": 0
       }
     },
     "expandedKeys": []
