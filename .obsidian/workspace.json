@@ -4,263 +4,202 @@
     "type": "split",
     "children": [
       {
-        "id": "412e6dece3518ba5",
-        "type": "tabs",
+        "id": "a26e32999118f99c",
+        "type": "split",
         "children": [
           {
-            "id": "ede2ac844b523633",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Camping Tent Setup.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "50cd3632ea427fac",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3612f88dce2519bf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "London Trip.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "London Trip"
                 }
               },
-              "icon": "lucide-file",
-              "title": "Camping Tent Setup"
-            }
-          },
-          {
-            "id": "df105e96add6c577",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Bases/Destinations.base",
-                "viewName": "View"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "Destinations"
-            }
-          },
-          {
-            "id": "de84059c8389113d",
-            "type": "leaf",
-            "state": {
-              "type": "notes-explorer",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notes-explorer"
-            }
-          },
-          {
-            "id": "3b9cdce18c04bc4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worldwide Ski Resorts.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+              {
+                "id": "de84059c8389113d",
+                "type": "leaf",
+                "state": {
+                  "type": "notes-explorer",
+                  "state": {},
+                  "icon": "book-copy",
+                  "title": "Notes explorer"
                 }
               },
-              "icon": "lucide-file",
-              "title": "Worldwide Ski Resorts"
-            }
+              {
+                "id": "1c49ea92e8a7faec",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "8mways2l Blog.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "8mways2l Blog"
+                }
+              }
+            ]
           },
           {
-            "id": "00edbaeb770c917e",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Bases/Trips.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Trips"
-            }
-          },
-          {
-            "id": "ca727fb0d7052e35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "360 Photo exif metadata.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "412e6dece3518ba5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "17e2d96531765342",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "London Trip - 建築.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "London Trip - 建築"
                 }
               },
-              "icon": "lucide-file",
-              "title": "360 Photo exif metadata"
-            }
-          },
-          {
-            "id": "31ab5c6e8e32f624",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.5"
-            }
-          },
-          {
-            "id": "1c49ea92e8a7faec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8mways2l Blog.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+              {
+                "id": "6a536d23f7e6f68b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "London Trip - 展覽.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "London Trip - 展覽"
                 }
               },
-              "icon": "lucide-file",
-              "title": "8mways2l Blog"
-            }
-          },
-          {
-            "id": "4b3cc87d53b50615",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.4"
-            }
-          },
-          {
-            "id": "6a536d23f7e6f68b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dual Weld.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+              {
+                "id": "7b7d24b3e1f2bab8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "London Trip - 演出.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "London Trip - 演出"
                 }
               },
-              "icon": "lucide-file",
-              "title": "Dual Weld"
-            }
-          },
-          {
-            "id": "7b7d24b3e1f2bab8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shooter.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+              {
+                "id": "e5729503b4f5ba9b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "London Trip - 逛街.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "London Trip - 逛街"
                 }
               },
-              "icon": "lucide-file",
-              "title": "Shooter"
-            }
-          },
-          {
-            "id": "e5729503b4f5ba9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BarbMonk.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+              {
+                "id": "a86e9359aea36997",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "London Trip - 活動.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "London Trip - 活動"
                 }
-              },
-              "icon": "lucide-file",
-              "title": "BarbMonk"
-            }
-          },
-          {
-            "id": "40f365eb41ab690c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Light Cleric.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Light Cleric"
-            }
+              }
+            ],
+            "currentTab": 2
           }
         ],
-        "currentTab": 6
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -466,7 +405,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "360 Photo exif metadata.md",
+                "file": "London Trip - 演出.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -498,18 +437,30 @@
       "obsidian-git:Open Git source control": false,
       "workspaces:Manage workspace layouts": false,
       "realclaudian:Open Claudian": false,
-      "obsidian-importer:Import notes": false
+      "obsidian-importer:Import notes": false,
+      "notes-explorer:Notes explorer": false
     }
   },
-  "active": "31ab5c6e8e32f624",
+  "active": "7b7d24b3e1f2bab8",
   "lastOpenFiles": [
-    "Shooter.md",
-    "Dual Weld.md",
-    "BarbMonk.md",
+    "London Trip - 展覽.md",
+    "London Trip.md",
+    "London Trip - 活動.md",
+    "London Trip - 演出.md",
+    "London Trip - 逛街.md",
+    "London Trip - 建築.md",
     "Light Cleric.md",
-    "Bg3.md",
-    "360 Photo exif metadata.md",
+    "Shooter.md",
+    "BarbMonk.md",
     "8mways2l Blog.md",
+    "Camping Tent Setup.md",
+    "Bases/Destinations.base",
+    "Worldwide Ski Resorts.md",
+    "Bases/Trips.base",
+    "360 Photo exif metadata.md",
+    "Dual Weld.md",
+    "Untitled 5.md",
+    "Bg3.md",
     "——/繩結.md",
     "——/attachments/Pasted image 20261003153443.png",
     "——/attachments/Pasted image 20261003152247.png",
@@ -520,7 +471,6 @@
     "——/attachments/Pasted image 20261003143105.png",
     "——/attachments/Pasted image 20261003141231.png",
     "——/attachments/Pasted image 20261003141209.png",
-    "Bases/Destinations.base",
     "Arrowhead Provincial Park.md",
     "Ausable Chasm (Ontario).md",
     "Belmond Andean Explorer - 南美豪華臥鋪列車.md",
@@ -528,16 +478,6 @@
     "瓜地馬拉.md",
     "Morroco.md",
     "Worldwide Kayaking.md",
-    "Bases/Trips.base",
-    "Worldwide Ski Resorts.md",
-    "BC Trails.md",
-    "Haida Gwaii Trip.md",
-    "Tsʼilʔos Provincial Park.md",
-    "Wahleach Lake.md",
-    "Seymour Narrows.md",
-    "Maligne Lake Trip.md",
-    "Maligne Lake.md",
-    "Love Lake.md",
     "attachments/Pasted image 20261002125139.png",
     "attachments/Pasted image 20261002124838.png",
     "attachments/Pasted image 20261002124639.png",

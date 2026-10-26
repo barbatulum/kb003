@@ -1,0 +1,5 @@
+- V&A《Punk to Pop》《Sculpture in Clay》
+- RA Summer Exhibition
+- Barbican《Characters of Fashion》
+- Design Museum《The Nue Black Aesthetic》
+- Serpentine Pavilion 2027
