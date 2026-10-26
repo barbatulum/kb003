@@ -1,19 +1,19 @@
 完整排名與比較
 
-| 排名  | 街區／區域                                 | 評分  | 主要特色                     | 逛街重點                 | 建議停留     |
-| --- | ------------------------------------- | --- | ------------------------ | -------------------- | -------- |
-| 1   | Shoreditch／Brick Lane／Spitalfields    | 9.5 | 倫敦創意文化、街頭藝術、多元族裔         | 復古衣物、獨立品牌、唱片、設計小店    | 4–6h     |
-| 2   | Notting Hill／Portobello／Golborne Road | 9.4 | 彩色排屋、古董、歷史市集、住宅街         | 古董、二手服裝、居家選物、咖啡      | 4–5h     |
-| 3   | Marylebone High Street                | 9.3 | 優雅英倫街區、獨立書店、生活品味         | 書店、文具、服裝、精緻食品        | 2–3h     |
-| 4   | **Coal Drops Yard／King's Cross**      | 9.2 | 工業遺產再生、Heatherwick 建築、運河 | 當代設計、選物、建築攝影         | 2–4h     |
-| 5   | Seven Dials／Neal's Yard               | 9.1 | 歷史街巷、特色店鋪、劇院文化           | 英國品牌、美妝、特色小店         | 2–3h     |
-| 6   | Broadway Market／London Fields         | 9.0 | 在地週末生活、獨立商店、街頭美食         | 手作、食品、二手衣物、咖啡        | 2–3h     |
-| 7   | **Greenwich／Greenwich Market**        | 8.9 | 海事歷史、古建築、市集、公園           | 工藝品、古董、設計小物          | 4–6h     |
-| 8   | Soho／Carnaby／Liberty                  | 8.8 | 潮流、音樂史、百貨建築、餐飲           | 時裝、唱片、設計品牌、百貨        | 3–4h     |
-| 9   | Columbia Road Flower Market           | 8.7 | 週日花市、維多利亞街景、獨立小店         | 植物、花卉、陶器、居家裝飾        | 1–2h     |
-| 10  | Hampstead Village                     | 8.6 | 文學、傳統英國村莊、老酒館            | 小書店、古董、咖啡館           | 3–4h     |
-| 11  | King's Road／Sloane Square             | 8.3 | 高級住宅區、經典英倫時尚             | 精品、家具、設計、Peter Jones | 2–3h     |
-| 12  | Bermondsey Street                     | 8.1 | 老倉庫、畫廊、餐飲、安靜街道           | 藝廊、設計小店、特色餐廳         | 1.5–2.5h |
+| 排名  | 街區／區域                                  | 評分  | 主要特色                     | 逛街重點                 | 建議停留     |
+| --- | -------------------------------------- | --- | ------------------------ | -------------------- | -------- |
+| 1   | **Shoreditch／Brick Lane／Spitalfields** | 9.5 | 倫敦創意文化、街頭藝術、多元族裔         | 復古衣物、獨立品牌、唱片、設計小店    | 4–6h     |
+| 2   | Notting Hill／Portobello／Golborne Road  | 9.4 | 彩色排屋、古董、歷史市集、住宅街         | 古董、二手服裝、居家選物、咖啡      | 4–5h     |
+| 3   | Marylebone High Street                 | 9.3 | 優雅英倫街區、獨立書店、生活品味         | 書店、文具、服裝、精緻食品        | 2–3h     |
+| 4   | **Coal Drops Yard／King's Cross**       | 9.2 | 工業遺產再生、Heatherwick 建築、運河 | 當代設計、選物、建築攝影         | 2–4h     |
+| 5   | Seven Dials／Neal's Yard                | 9.1 | 歷史街巷、特色店鋪、劇院文化           | 英國品牌、美妝、特色小店         | 2–3h     |
+| 6   | Broadway Market／London Fields          | 9.0 | 在地週末生活、獨立商店、街頭美食         | 手作、食品、二手衣物、咖啡        | 2–3h     |
+| 7   | **Greenwich／Greenwich Market**         | 8.9 | 海事歷史、古建築、市集、公園           | 工藝品、古董、設計小物          | 4–6h     |
+| 8   | Soho／Carnaby／Liberty                   | 8.8 | 潮流、音樂史、百貨建築、餐飲           | 時裝、唱片、設計品牌、百貨        | 3–4h     |
+| 9   | Columbia Road Flower Market            | 8.7 | 週日花市、維多利亞街景、獨立小店         | 植物、花卉、陶器、居家裝飾        | 1–2h     |
+| 10  | Hampstead Village                      | 8.6 | 文學、傳統英國村莊、老酒館            | 小書店、古董、咖啡館           | 3–4h     |
+| 11  | King's Road／Sloane Square              | 8.3 | 高級住宅區、經典英倫時尚             | 精品、家具、設計、Peter Jones | 2–3h     |
+| 12  | Bermondsey Street                      | 8.1 | 老倉庫、畫廊、餐飲、安靜街道           | 藝廊、設計小店、特色餐廳         | 1.5–2.5h |
 
 但 Broadway Market 和 Columbia Road 都有特定市集日，若碰上週末，實際行程優先度應該提高。
 
@@ -107,6 +107,7 @@ Heatherwick Studio 的親吻屋頂是亮點。19 世紀煤炭倉庫改造成設�
 最適合：下午至晚上，順路吃晚餐或看戲。
 
 ### Columbia Road Flower Market
+![[Pasted image 20261026123053.png]]
 
 週日傳統花市相當有氣氛，除了滿街鮮花，周邊還有陶藝、古董與家用品小店。缺點是人潮密集，且花市本身不算很長。
 
@@ -116,10 +117,10 @@ Heatherwick Studio 的親吻屋頂是亮點。19 世紀煤炭倉庫改造成設�
 
 僅週日 8:00–15:00。
 
-![8 Destinasi di Hampstead, Desa Kecil nan Indah di London | IDN Times](https://images.openai.com/static-rsc-4/Munb5_VPXcl102xBHdiklC02AC6VfEUO96ATZSt53LZJaXTFL1v70QVAjdwfB4L4S-Dxv8ZMX5rRzHi5BoZspnPnL0oH0p7VuZrSA_2BSl-S1wWUMT5WpLh41-UugyWdzgIDiPor7r8YkGdPhJ_GoWzYgJ9NmoC0s-oxNU5Jh4Q?purpose=inline)
+
 
 ### Hampstead Village
-
+![8 Destinasi di Hampstead, Desa Kecil nan Indah di London | IDN Times](https://images.openai.com/static-rsc-4/Munb5_VPXcl102xBHdiklC02AC6VfEUO96ATZSt53LZJaXTFL1v70QVAjdwfB4L4S-Dxv8ZMX5rRzHi5BoZspnPnL0oH0p7VuZrSA_2BSl-S1wWUMT5WpLh41-UugyWdzgIDiPor7r8YkGdPhJ_GoWzYgJ9NmoC0s-oxNU5Jh4Q?purpose=inline)
 最適合感受倫敦安靜、傳統、富有文學氣息的一面。逛街不是重點，但住宅建築、老酒館和綠地很值得探索。
 
 推薦路線：Hampstead High Street → Flask Walk → Church Row → Hampstead Heath
@@ -128,10 +129,10 @@ Heatherwick Studio 的親吻屋頂是亮點。19 世紀煤炭倉庫改造成設�
 
 最適合：晴朗的平日半天。
 
-![Pavilion Road - All You SHOULD Know Before Going (2026 Reviews)](https://images.openai.com/static-rsc-4/ATcNiKqJXq9H6CnWq3GsNiQhbvBxrJteHV3QU7dSBWyqNONVciipqQMdrn14rOdIIjKsCv-RiXA-tugvFZiIg0ydMcxSD8rio8o9J8YHMBpiEFuyBtIn73XlZ88VnZY1ungS4dSLV-NSOBHv0RgXv6qIIjDF1hlzJaNSpHusi40?purpose=inline)
+
 
 ### King's Road／Sloane Square
-
+![Pavilion Road - All You SHOULD Know Before Going (2026 Reviews)](https://images.openai.com/static-rsc-4/ATcNiKqJXq9H6CnWq3GsNiQhbvBxrJteHV3QU7dSBWyqNONVciipqQMdrn14rOdIIjKsCv-RiXA-tugvFZiIg0ydMcxSD8rio8o9J8YHMBpiEFuyBtIn73XlZ88VnZY1ungS4dSLV-NSOBHv0RgXv6qIIjDF1hlzJaNSpHusi40?purpose=inline)
 高級住宅區與時尚商店街。景色優雅、餐飲選擇好，但如果已經去 Marylebone，體驗有一些重複。
 
 推薦路線：Sloane Square → Peter Jones → Pavilion Road → Duke of York Square → King's Road
@@ -141,9 +142,10 @@ Heatherwick Studio 的親吻屋頂是亮點。19 世紀煤炭倉庫改造成設�
 最適合：平日下午或週六。
 
 
-![Bermondsey, London: Contemporary Art, History, and Gastronomy](https://images.openai.com/static-rsc-4/Mb730Z87lM-48DE2NeBD0LiUyH1x5zxSGhtZlLo9L4SZ10TjmkocbzsT65WvnU47Hv35O6h5BQBpckJk-qXwnoa7gBU5t2Uhnn_HwPtXonsYLhKF5k2jtoz2U3H_B0dcuHKBlwzTbpIBQcJmRbFWc8K4aX27ivd666w-XfKMY9A?purpose=inline)
+
 
 ### Bermondsey Street
+![Bermondsey, London: Contemporary Art, History, and Gastronomy](https://images.openai.com/static-rsc-4/Mb730Z87lM-48DE2NeBD0LiUyH1x5zxSGhtZlLo9L4SZ10TjmkocbzsT65WvnU47Hv35O6h5BQBpckJk-qXwnoa7gBU5t2Uhnn_HwPtXonsYLhKF5k2jtoz2U3H_B0dcuHKBlwzTbpIBQcJmRbFWc8K4aX27ivd666w-XfKMY9A?purpose=inline)
 
 相對安靜的老倉庫與藝廊街區。個性鮮明但範圍較小，最適合接在 Borough Market 或 London Bridge 後面。
 

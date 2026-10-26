@@ -126,6 +126,30 @@
                 }
               },
               {
+                "id": "d3585ab90d95bd96",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "London Trips - 公園.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "London Trips - 公園"
+                }
+              },
+              {
                 "id": "7b7d24b3e1f2bab8",
                 "type": "leaf",
                 "state": {
@@ -198,7 +222,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -407,7 +431,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "London Trip - 逛街.md",
+                "file": "London Trips - 公園.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -443,11 +467,13 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "e5729503b4f5ba9b",
+  "active": "d3585ab90d95bd96",
   "lastOpenFiles": [
-    "London Trip - 演出.md",
     "London Trip - 展覽.md",
+    "London Trips - 公園.md",
     "London Trip - 逛街.md",
+    "attachments/Pasted image 20261026123053.png",
+    "London Trip - 演出.md",
     "London Trip - 活動.md",
     "London Trip.md",
     "London Trip - 建築.md",
@@ -479,10 +505,8 @@
     "France.md",
     "瓜地馬拉.md",
     "Morroco.md",
-    "Worldwide Kayaking.md",
     "attachments/Pasted image 20261002125139.png",
     "attachments/Pasted image 20261002124838.png",
-    "attachments/Pasted image 20261002124639.png",
     "Bases/Blog Post Status.base",
     "Bases",
     "Untitled.canvas",

@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "London Trips - 公園",
+      "path": "London Trips - 公園.md"
+    },
+    {
+      "basename": "London Trip - 展覽",
+      "path": "London Trip - 展覽.md"
+    },
+    {
       "basename": "London Trip - 逛街",
       "path": "London Trip - 逛街.md"
     },
     {
       "basename": "London Trip - 演出",
       "path": "London Trip - 演出.md"
-    },
-    {
-      "basename": "London Trip - 展覽",
-      "path": "London Trip - 展覽.md"
     },
     {
       "basename": "London Trip - 活動",
@@ -195,10 +199,6 @@
     {
       "basename": "First Aid 急救包內容",
       "path": "First Aid 急救包內容.md"
-    },
-    {
-      "basename": "Bags",
-      "path": "Bags.md"
     }
   ],
   "omittedPaths": [],
