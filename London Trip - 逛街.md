@@ -4,3 +4,6 @@
 - **Seven Dials／Neal’s Yard**：七條石板路上集中了老牌品牌、小店和美妝店，緊鄰 Covent Garden。 [visitlondon](https://www.visitlondon.com/things-to-do/shopping/christmas-shopping-hotspots)
 - **King’s Road／Sloane Square**：可以順道逛老牌百貨 Peter Jones 和 Duke of York Square。 [visitlondon](https://www.visitlondon.com/things-to-do/shopping/christmas-shopping-hotspots)
 - 另外還有 Marylebone High Street、Liberty／Carnaby Street／Soho，以及週日的 Columbia Road 花市和 Spitalfields 市集（依記憶推薦）。
+- Spitalfields → Brick Lane → Redchurch Street → Shoreditch 跟西倫敦的 7/1 完全不同：這一天看東倫敦街景、設計小店、咖啡、街頭文化，不再排大型 museum。
+- Notting Hill → Portobello Road → Westbourne Grove → Golborne Road → Kensington Gardens
+- Greenwich Marcket

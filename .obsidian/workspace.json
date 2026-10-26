@@ -10,6 +10,7 @@
           {
             "id": "50cd3632ea427fac",
             "type": "tabs",
+            "dimension": 35.36804308797127,
             "children": [
               {
                 "id": "3612f88dce2519bf",
@@ -74,6 +75,7 @@
           {
             "id": "412e6dece3518ba5",
             "type": "tabs",
+            "dimension": 64.63195691202873,
             "children": [
               {
                 "id": "17e2d96531765342",
@@ -444,10 +446,10 @@
   "active": "7b7d24b3e1f2bab8",
   "lastOpenFiles": [
     "London Trip - 展覽.md",
-    "London Trip.md",
-    "London Trip - 活動.md",
     "London Trip - 演出.md",
     "London Trip - 逛街.md",
+    "London Trip - 活動.md",
+    "London Trip.md",
     "London Trip - 建築.md",
     "Light Cleric.md",
     "Shooter.md",
