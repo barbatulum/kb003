@@ -116,6 +116,18 @@
             }
           },
           {
+            "id": "31ab5c6e8e32f624",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
+            }
+          },
+          {
             "id": "1c49ea92e8a7faec",
             "type": "leaf",
             "state": {
@@ -248,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -486,11 +498,10 @@
       "obsidian-git:Open Git source control": false,
       "workspaces:Manage workspace layouts": false,
       "realclaudian:Open Claudian": false,
-      "obsidian-importer:Import notes": false,
-      "notes-explorer:Notes explorer": false
+      "obsidian-importer:Import notes": false
     }
   },
-  "active": "ca727fb0d7052e35",
+  "active": "31ab5c6e8e32f624",
   "lastOpenFiles": [
     "Shooter.md",
     "Dual Weld.md",
