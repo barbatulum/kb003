@@ -3030,12 +3030,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 7,
-        "ch": 13
+        "line": 0,
+        "ch": 9
       },
       "to": {
-        "line": 7,
-        "ch": 13
+        "line": 0,
+        "ch": 9
       }
     },
     "expandedKeys": [
@@ -3125,6 +3125,20 @@
       "to": {
         "line": 55,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "London Trip - 小眾展館.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 104
+      },
+      "to": {
+        "line": 1,
+        "ch": 104
       }
     },
     "expandedKeys": []

@@ -174,6 +174,30 @@
                 }
               },
               {
+                "id": "b8c09ea4c2ec8ffe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "London Trip - 小眾展館.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "London Trip - 小眾展館"
+                }
+              },
+              {
                 "id": "e5729503b4f5ba9b",
                 "type": "leaf",
                 "state": {
@@ -222,7 +246,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           }
         ],
         "direction": "horizontal"
@@ -431,7 +455,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "London Trip - 演出.md",
+                "file": "London Trip - 小眾展館.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -467,15 +491,15 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "7b7d24b3e1f2bab8",
+  "active": "b8c09ea4c2ec8ffe",
   "lastOpenFiles": [
-    "Untitled 6.md",
+    "London Trip - 演出.md",
+    "London Trip - 小眾展館.md",
     "London Trips - 公園.md",
     "London Trip.md",
     "London Trip - 展覽.md",
     "London Trip - 逛街.md",
     "attachments/Pasted image 20261026123053.png",
-    "London Trip - 演出.md",
     "London Trip - 活動.md",
     "London Trip - 建築.md",
     "Light Cleric.md",
