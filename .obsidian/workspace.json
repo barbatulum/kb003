@@ -150,30 +150,6 @@
                 }
               },
               {
-                "id": "25a80bfe82889be8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Untitled 6.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Untitled 6"
-                }
-              },
-              {
                 "id": "7b7d24b3e1f2bab8",
                 "type": "leaf",
                 "state": {
@@ -455,7 +431,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 6.md",
+                "file": "London Trip - 演出.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -491,10 +467,10 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "25a80bfe82889be8",
+  "active": "7b7d24b3e1f2bab8",
   "lastOpenFiles": [
-    "London Trips - 公園.md",
     "Untitled 6.md",
+    "London Trips - 公園.md",
     "London Trip.md",
     "London Trip - 展覽.md",
     "London Trip - 逛街.md",
