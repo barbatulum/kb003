@@ -150,6 +150,30 @@
                 }
               },
               {
+                "id": "25a80bfe82889be8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Untitled 6.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Untitled 6"
+                }
+              },
+              {
                 "id": "7b7d24b3e1f2bab8",
                 "type": "leaf",
                 "state": {
@@ -222,7 +246,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           }
         ],
         "direction": "horizontal"
@@ -431,7 +455,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "London Trip.md",
+                "file": "Untitled 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -467,15 +491,16 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "3612f88dce2519bf",
+  "active": "25a80bfe82889be8",
   "lastOpenFiles": [
     "London Trips - 公園.md",
+    "Untitled 6.md",
+    "London Trip.md",
     "London Trip - 展覽.md",
     "London Trip - 逛街.md",
     "attachments/Pasted image 20261026123053.png",
     "London Trip - 演出.md",
     "London Trip - 活動.md",
-    "London Trip.md",
     "London Trip - 建築.md",
     "Light Cleric.md",
     "Shooter.md",
@@ -504,7 +529,6 @@
     "Belmond Andean Explorer - 南美豪華臥鋪列車.md",
     "France.md",
     "瓜地馬拉.md",
-    "Morroco.md",
     "attachments/Pasted image 20261002125139.png",
     "attachments/Pasted image 20261002124838.png",
     "Bases/Blog Post Status.base",
