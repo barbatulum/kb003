@@ -251,7 +251,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "阿舅 Vacation.md",
+                    "file": "360 Photo exif metadata.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -266,7 +266,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "阿舅 Vacation"
+                  "title": "360 Photo exif metadata"
                 }
               }
             ],
@@ -479,7 +479,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "阿舅 Vacation.md",
+                "file": "360 Photo exif metadata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

@@ -555,14 +555,14 @@
     "expandedKeys": []
   },
   "360 Photo exif metadata.md": {
-    "scroll": 0,
+    "scroll": 0.9041590821107678,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 398
+        "line": 5,
+        "ch": 394
       },
       "to": {
-        "line": 0,
+        "line": 5,
         "ch": 0
       }
     },
@@ -3147,11 +3147,11 @@
     "scroll": 6.519908553158695,
     "cursor": {
       "from": {
-        "line": 21,
+        "line": 15,
         "ch": 6
       },
       "to": {
-        "line": 21,
+        "line": 15,
         "ch": 6
       }
     },
