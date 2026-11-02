@@ -13,3 +13,9 @@
 - [Rolling a sea kayak - Overview of the roll - sample lesson - YouTube](https://www.youtube.com/watch?v=PNcQ3LxaSA0)
 - [Online Sea Kayaking - YouTube](https://www.youtube.com/@onlineseakayaking)
 - Canadian Sailing Directions
+- [dancingwiththesea.org](https://dancingwiththesea.org/)
+- 划槳得時候腳要踢(一隻伸直一隻屈膝)
+	- 槳的後面的時候其實身體往前壓而不是往後仰 [ChatGPT](https://chatgpt.com/c/6ae8d071-0cd4-83e9-8845-209d815fe458)
+		- 槳在水中會有支撐力,特別是在後面的時候 [ChatGPT](https://chatgpt.com/c/6ae8d097-3b78-83ea-b374-b8295c6716a6)
+- 
+- 

@@ -251,7 +251,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "360 Photo exif metadata.md",
+                    "file": "獨木舟 Paddling Skills.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -266,7 +266,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "360 Photo exif metadata"
+                  "title": "獨木舟 Paddling Skills"
                 }
               }
             ],
@@ -479,7 +479,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "360 Photo exif metadata.md",
+                "file": "獨木舟 Paddling Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -517,6 +517,7 @@
   },
   "active": "0b1d70fbec8addf0",
   "lastOpenFiles": [
+    "360 Photo exif metadata.md",
     "阿舅 Vacation.md",
     "London Trip - 小眾展館.md",
     "London Trip - 演出.md",
@@ -535,7 +536,6 @@
     "Bases/Destinations.base",
     "Worldwide Ski Resorts.md",
     "Bases/Trips.base",
-    "360 Photo exif metadata.md",
     "Dual Weld.md",
     "Untitled 5.md",
     "Bg3.md",
