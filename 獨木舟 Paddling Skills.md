@@ -1,4 +1,5 @@
 - [ACA Strokes & Maneuvers Refinement \| Eskape Kayak](http://eskapekayak.com/aca-instructor-certification-workshops/aca-strokes-maneuvers-refinement/)
+- [online sea kayaking 線上課](https://www.onlineseakayaking.com/subscriptions) ; Sea Kayak with Gordon Brown
 - [This video is about Downwind HD version. \| Surfski Center \| Facebook](https://fb.watch/E0tAaj0Saq/)
 - [Instagram](https://www.instagram.com/reel/DO6R8O4jecB/)
 - [Online Sea Kayaking Turning Tips: Opposite Edge Turns - YouTube](https://youtube.com/watch?v=exeP6x5AZdo&si=4ffxvFznzaMdhpwv)
