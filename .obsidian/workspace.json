@@ -394,7 +394,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:overlanding",
+                "query": "druid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -539,7 +539,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "f60ca377b872f7f6",
+  "active": "bbd3a8d83f49f1b8",
   "lastOpenFiles": [
     "獨木舟 Paddling Skills.md",
     "2027 Road Trips.md",
