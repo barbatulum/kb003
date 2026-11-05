@@ -3158,5 +3158,19 @@
     "expandedKeys": [
       "item-3-2"
     ]
+  },
+  "2027 Road Trips.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 2
+      },
+      "to": {
+        "line": 10,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
   }
 }

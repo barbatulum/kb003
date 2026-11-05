@@ -1,0 +1,11 @@
+Northwestern BC
+[ChatGPT: Chat, Work, Create & Code with AI](https://chatgpt.com/c/6aecb84b-0adc-83ea-956f-d0e937c12deb)
+方案 A：Northwestern BC
+- 3–4 週｜約 2 個主要 Basecamp
+- Smithers / Babine Mountains + Stewart / Meziadin。
+- 車程較少，仍然有冰河、FSR、山區健行與湖泊，而且可以在 Smithers 做完整補給。
+
+方案 B：Northwestern BC + Atlin
+- 4–5 週｜2–3 個 Basecamp
+- Stewart / Meziadin + Atlin，途中可短暫停 Dease Lake。
+- 適合把目的地放在湖泊、remote backroads 和較長時間的野外生活。
