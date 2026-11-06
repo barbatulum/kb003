@@ -275,7 +275,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "2027 Road Trips.md",
+                    "file": "2027 暑假.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -290,7 +290,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "2027 Road Trips"
+                  "title": "2027 暑假"
                 }
               }
             ],
@@ -503,7 +503,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2027 Road Trips.md",
+                "file": "2027 暑假.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -539,10 +539,10 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "bbd3a8d83f49f1b8",
+  "active": "f60ca377b872f7f6",
   "lastOpenFiles": [
     "獨木舟 Paddling Skills.md",
-    "2027 Road Trips.md",
+    "2027 暑假.md",
     "360 Photo exif metadata.md",
     "阿舅 Vacation.md",
     "London Trip - 小眾展館.md",

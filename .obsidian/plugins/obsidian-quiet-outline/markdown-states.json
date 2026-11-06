@@ -3163,12 +3163,26 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 10,
-        "ch": 2
+        "line": 7,
+        "ch": 28
       },
       "to": {
-        "line": 10,
-        "ch": 2
+        "line": 7,
+        "ch": 28
+      }
+    },
+    "expandedKeys": []
+  },
+  "2027 暑假.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []
