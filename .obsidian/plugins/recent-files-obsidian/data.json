@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Light Cleric",
+      "path": "Light Cleric.md"
+    },
+    {
+      "basename": "Dual Weld",
+      "path": "Dual Weld.md"
+    },
+    {
+      "basename": "Shooter",
+      "path": "Shooter.md"
+    },
+    {
       "basename": "BarbMonk",
       "path": "BarbMonk.md"
     },
@@ -53,14 +65,6 @@
       "path": "London Trip - 建築.md"
     },
     {
-      "basename": "Light Cleric",
-      "path": "Light Cleric.md"
-    },
-    {
-      "basename": "Shooter",
-      "path": "Shooter.md"
-    },
-    {
       "basename": "8mways2l Blog",
       "path": "8mways2l Blog.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "Trips",
       "path": "Bases/Trips.base"
-    },
-    {
-      "basename": "Dual Weld",
-      "path": "Dual Weld.md"
     },
     {
       "basename": "Untitled 5",
