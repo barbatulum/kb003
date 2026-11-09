@@ -275,7 +275,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Light Cleric.md",
+                    "file": "Dual Weld.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -290,7 +290,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Light Cleric"
+                  "title": "Dual Weld"
                 }
               }
             ],
@@ -503,7 +503,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Light Cleric.md",
+                "file": "Dual Weld.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -539,11 +539,12 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "bbd3a8d83f49f1b8",
+  "active": "f60ca377b872f7f6",
   "lastOpenFiles": [
+    "BarbMonk.md",
+    "Light Cleric.md",
     "Dual Weld.md",
     "Shooter.md",
-    "BarbMonk.md",
     "2027 暑假.md",
     "獨木舟 Paddling Skills.md",
     "360 Photo exif metadata.md",
@@ -557,7 +558,6 @@
     "attachments/Pasted image 20261026123053.png",
     "London Trip - 活動.md",
     "London Trip - 建築.md",
-    "Light Cleric.md",
     "8mways2l Blog.md",
     "Camping Tent Setup.md",
     "Bases/Destinations.base",
