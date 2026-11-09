@@ -292,9 +292,33 @@
                   "icon": "lucide-file",
                   "title": "Dual Weld"
                 }
+              },
+              {
+                "id": "6692880aadf5fcf9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2027 Trips Dashboard.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2027 Trips Dashboard"
+                }
               }
             ],
-            "currentTab": 8
+            "currentTab": 9
           }
         ],
         "direction": "horizontal"
@@ -503,7 +527,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dual Weld.md",
+                "file": "2027 Trips Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -539,11 +563,13 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "f60ca377b872f7f6",
+  "active": "6692880aadf5fcf9",
   "lastOpenFiles": [
+    "Broughton Archipelago.md",
+    "2027 Trips Dashboard.md",
+    "Dual Weld.md",
     "BarbMonk.md",
     "Light Cleric.md",
-    "Dual Weld.md",
     "Shooter.md",
     "2027 暑假.md",
     "獨木舟 Paddling Skills.md",
@@ -575,8 +601,6 @@
     "——/attachments/Pasted image 20261003143105.png",
     "——/attachments/Pasted image 20261003141231.png",
     "——/attachments/Pasted image 20261003141209.png",
-    "Arrowhead Provincial Park.md",
-    "Ausable Chasm (Ontario).md",
     "attachments/Pasted image 20261002125139.png",
     "attachments/Pasted image 20261002124838.png",
     "Bases/Blog Post Status.base",

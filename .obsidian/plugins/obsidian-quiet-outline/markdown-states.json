@@ -1,6 +1,6 @@
 {
   "Broughton Archipelago.md": {
-    "scroll": 29.90656643742842,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 37,
@@ -3182,6 +3182,34 @@
       },
       "to": {
         "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "Trips Dashboard.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 25
+      },
+      "to": {
+        "line": 0,
+        "ch": 25
+      }
+    },
+    "expandedKeys": []
+  },
+  "2027 Trips Dashboard.md": {
+    "scroll": 0.2702702702702703,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
         "ch": 0
       }
     },
