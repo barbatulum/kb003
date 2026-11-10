@@ -318,7 +318,7 @@
                 }
               }
             ],
-            "currentTab": 9
+            "currentTab": 8
           }
         ],
         "direction": "horizontal"
@@ -527,7 +527,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2027 Trips Dashboard.md",
+                "file": "Dual Weld.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -563,10 +563,10 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "6692880aadf5fcf9",
+  "active": "f60ca377b872f7f6",
   "lastOpenFiles": [
-    "Broughton Archipelago.md",
     "2027 Trips Dashboard.md",
+    "Broughton Archipelago.md",
     "Dual Weld.md",
     "BarbMonk.md",
     "Light Cleric.md",
