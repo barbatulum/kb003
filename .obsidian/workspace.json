@@ -294,6 +294,18 @@
                 }
               },
               {
+                "id": "d779d11e286b3d6e",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.15.0"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.15.0"
+                }
+              },
+              {
                 "id": "6692880aadf5fcf9",
                 "type": "leaf",
                 "state": {
@@ -318,7 +330,7 @@
                 }
               }
             ],
-            "currentTab": 8
+            "currentTab": 9
           }
         ],
         "direction": "horizontal"
@@ -527,7 +539,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dual Weld.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -563,7 +574,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "f60ca377b872f7f6",
+  "active": "d779d11e286b3d6e",
   "lastOpenFiles": [
     "2027 Trips Dashboard.md",
     "Broughton Archipelago.md",
