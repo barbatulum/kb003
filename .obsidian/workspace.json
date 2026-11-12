@@ -297,12 +297,24 @@
                 "id": "d779d11e286b3d6e",
                 "type": "leaf",
                 "state": {
-                  "type": "release-notes",
+                  "type": "markdown",
                   "state": {
-                    "currentVersion": "1.15.0"
+                    "file": "——/地址 Addresses.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
                   },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.15.0"
+                  "icon": "lucide-file",
+                  "title": "地址 Addresses"
                 }
               },
               {
@@ -430,7 +442,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sorce",
+                "query": "695",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -539,6 +551,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "——/地址 Addresses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -574,7 +587,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "d779d11e286b3d6e",
+  "active": "bbd3a8d83f49f1b8",
   "lastOpenFiles": [
     "2027 Trips Dashboard.md",
     "Broughton Archipelago.md",
