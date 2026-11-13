@@ -318,6 +318,18 @@
                 }
               },
               {
+                "id": "dd88e309005c5f80",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.15.1"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.15.1"
+                }
+              },
+              {
                 "id": "6692880aadf5fcf9",
                 "type": "leaf",
                 "state": {
@@ -342,7 +354,7 @@
                 }
               }
             ],
-            "currentTab": 9
+            "currentTab": 10
           }
         ],
         "direction": "horizontal"
@@ -551,7 +563,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "——/地址 Addresses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -587,7 +598,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "bbd3a8d83f49f1b8",
+  "active": "dd88e309005c5f80",
   "lastOpenFiles": [
     "2027 Trips Dashboard.md",
     "Broughton Archipelago.md",

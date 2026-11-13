@@ -2,5 +2,6 @@
   "cssTheme": "Obsidian Nord",
   "enabledCssSnippets": [
     "sidebar-note"
-  ]
+  ],
+  "showRibbon": true
 }
