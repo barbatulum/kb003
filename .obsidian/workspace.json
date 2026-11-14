@@ -563,6 +563,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "London Trip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -598,7 +599,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "dd88e309005c5f80",
+  "active": "3612f88dce2519bf",
   "lastOpenFiles": [
     "2027 Trips Dashboard.md",
     "Broughton Archipelago.md",
