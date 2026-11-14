@@ -2957,15 +2957,15 @@
     "expandedKeys": []
   },
   "Dual Weld.md": {
-    "scroll": 57.38229362169901,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 5,
-        "ch": 0
+        "line": 4,
+        "ch": 11
       },
       "to": {
-        "line": 5,
-        "ch": 26
+        "line": 4,
+        "ch": 23
       }
     },
     "expandedKeys": []
@@ -2985,7 +2985,7 @@
     "expandedKeys": []
   },
   "BarbMonk.md": {
-    "scroll": 54.73769072666045,
+    "scroll": 38.93072843551636,
     "cursor": {
       "from": {
         "line": 9,
