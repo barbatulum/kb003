@@ -275,7 +275,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Dual Weld.md",
+                    "file": "——/GoPro Remote.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -290,7 +290,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Dual Weld"
+                  "title": "GoPro Remote"
                 }
               },
               {
@@ -563,7 +563,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dual Weld.md",
+                "file": "——/GoPro Remote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -601,11 +601,12 @@
   },
   "active": "f60ca377b872f7f6",
   "lastOpenFiles": [
+    "——/GoPro Modes.md",
+    "Dual Weld.md",
     "BarbMonk.md",
     "London Trip.md",
     "2027 Trips Dashboard.md",
     "Broughton Archipelago.md",
-    "Dual Weld.md",
     "Light Cleric.md",
     "Shooter.md",
     "2027 暑假.md",
@@ -632,7 +633,6 @@
     "——/attachments/Pasted image 20261003152247.png",
     "——/attachments/Pasted image 20261003151805.png",
     "——/繩結 2.md",
-    "——/繩結 3.md",
     "——/attachments/Pasted image 20261003144852.png",
     "——/attachments/Pasted image 20261003143105.png",
     "——/attachments/Pasted image 20261003141231.png",

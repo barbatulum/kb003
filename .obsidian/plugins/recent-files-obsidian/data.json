@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "GoPro Remote",
+      "path": "——/GoPro Remote.md"
+    },
+    {
+      "basename": "GoPro Modes",
+      "path": "——/GoPro Modes.md"
+    },
+    {
       "basename": "Dual Weld",
       "path": "Dual Weld.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Untitled",
       "path": "Untitled.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.canvas"
-    },
-    {
-      "basename": "Retirement Plan",
-      "path": "Retirement Plan.md"
     }
   ],
   "omittedPaths": [],
