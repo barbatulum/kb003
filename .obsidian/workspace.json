@@ -78,222 +78,6 @@
             "dimension": 64.63195691202873,
             "children": [
               {
-                "id": "17e2d96531765342",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "London Trip - 建築.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "London Trip - 建築"
-                }
-              },
-              {
-                "id": "6a536d23f7e6f68b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "London Trip - 展覽.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "London Trip - 展覽"
-                }
-              },
-              {
-                "id": "d3585ab90d95bd96",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "London Trips - 公園.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "London Trips - 公園"
-                }
-              },
-              {
-                "id": "7b7d24b3e1f2bab8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "London Trip - 演出.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "London Trip - 演出"
-                }
-              },
-              {
-                "id": "b8c09ea4c2ec8ffe",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "London Trip - 小眾展館.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "London Trip - 小眾展館"
-                }
-              },
-              {
-                "id": "e5729503b4f5ba9b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "London Trip - 逛街.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "London Trip - 逛街"
-                }
-              },
-              {
-                "id": "a86e9359aea36997",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "London Trip - 活動.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "London Trip - 活動"
-                }
-              },
-              {
-                "id": "0b1d70fbec8addf0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "獨木舟 Paddling Skills.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "獨木舟 Paddling Skills"
-                }
-              },
-              {
-                "id": "d779d11e286b3d6e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "——/地址 Addresses.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "地址 Addresses"
-                }
-              },
-              {
                 "id": "dd88e309005c5f80",
                 "type": "leaf",
                 "state": {
@@ -340,57 +124,8 @@
                   "icon": "lucide-file",
                   "title": "Penn Island Camping"
                 }
-              },
-              {
-                "id": "6692880aadf5fcf9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Penn Island Camping.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Penn Island Camping"
-                }
-              },
-              {
-                "id": "f6b8a6c2576a725f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Penn Island Trip.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Penn Island Trip"
-                }
               }
-            ],
-            "currentTab": 9
+            ]
           }
         ],
         "direction": "horizontal"
@@ -637,11 +372,19 @@
   },
   "active": "dd88e309005c5f80",
   "lastOpenFiles": [
-    "Penn Island Camping.md",
+    "BarbMonk.md",
     "Penn Island Trip.md",
-    "attachments/Pasted image 20261121133845.png",
+    "Penn Island Camping.md",
+    "London Trip - 建築.md",
+    "London Trip - 展覽.md",
+    "London Trips - 公園.md",
+    "London Trip - 演出.md",
+    "London Trip - 小眾展館.md",
+    "London Trip - 逛街.md",
+    "London Trip - 活動.md",
     "獨木舟 Paddling Skills.md",
     "——/地址 Addresses.md",
+    "attachments/Pasted image 20261121133845.png",
     "2027 Trips Dashboard.md",
     "attachments/Pasted image 20261121133407.png",
     "attachments/Pasted image 20261121133327.png",
@@ -649,7 +392,6 @@
     "——/GoPro Remote.md",
     "——/GoPro Modes.md",
     "Dual Weld.md",
-    "BarbMonk.md",
     "London Trip.md",
     "Broughton Archipelago.md",
     "Light Cleric.md",
@@ -657,14 +399,7 @@
     "2027 暑假.md",
     "360 Photo exif metadata.md",
     "阿舅 Vacation.md",
-    "London Trip - 小眾展館.md",
-    "London Trip - 演出.md",
-    "London Trips - 公園.md",
-    "London Trip - 展覽.md",
-    "London Trip - 逛街.md",
     "attachments/Pasted image 20261026123053.png",
-    "London Trip - 活動.md",
-    "London Trip - 建築.md",
     "8mways2l Blog.md",
     "Camping Tent Setup.md",
     "Bases/Destinations.base",
