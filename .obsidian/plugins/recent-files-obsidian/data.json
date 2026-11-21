@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Penn Island Trip",
+      "path": "Penn Island Trip.md"
+    },
+    {
+      "basename": "Penn Island Camping",
+      "path": "Penn Island Camping.md"
+    },
+    {
+      "basename": "獨木舟 Paddling Skills",
+      "path": "獨木舟 Paddling Skills.md"
+    },
+    {
+      "basename": "地址 Addresses",
+      "path": "——/地址 Addresses.md"
+    },
+    {
+      "basename": "2027 Trips Dashboard",
+      "path": "2027 Trips Dashboard.md"
+    },
+    {
       "basename": "GoPro Remote",
       "path": "——/GoPro Remote.md"
     },
@@ -21,14 +41,6 @@
       "path": "London Trip.md"
     },
     {
-      "basename": "地址 Addresses",
-      "path": "——/地址 Addresses.md"
-    },
-    {
-      "basename": "2027 Trips Dashboard",
-      "path": "2027 Trips Dashboard.md"
-    },
-    {
       "basename": "Broughton Archipelago",
       "path": "Broughton Archipelago.md"
     },
@@ -43,10 +55,6 @@
     {
       "basename": "2027 暑假",
       "path": "2027 暑假.md"
-    },
-    {
-      "basename": "獨木舟 Paddling Skills",
-      "path": "獨木舟 Paddling Skills.md"
     },
     {
       "basename": "360 Photo exif metadata",
@@ -191,14 +199,6 @@
     {
       "basename": "Untitled 4",
       "path": "Untitled 4.md"
-    },
-    {
-      "basename": "Blog Post Status",
-      "path": "Bases/Blog Post Status.base"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     }
   ],
   "omittedPaths": [],
