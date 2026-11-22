@@ -225,7 +225,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "695",
+                "query": "Kalamalka",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -370,7 +370,7 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "dd88e309005c5f80",
+  "active": "bbd3a8d83f49f1b8",
   "lastOpenFiles": [
     "BarbMonk.md",
     "Penn Island Trip.md",
