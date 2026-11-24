@@ -102,6 +102,30 @@
                 }
               },
               {
+                "id": "731b770d308521ff",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ACT 3 companion.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "ACT 3 companion"
+                }
+              },
+              {
                 "id": "f60ca377b872f7f6",
                 "type": "leaf",
                 "state": {
@@ -125,7 +149,8 @@
                   "title": "Penn Island Camping"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -334,7 +359,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Penn Island Trip.md",
+                "file": "ACT 3 companion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -370,10 +395,11 @@
       "notes-explorer:Notes explorer": false
     }
   },
-  "active": "bbd3a8d83f49f1b8",
+  "active": "731b770d308521ff",
   "lastOpenFiles": [
-    "BarbMonk.md",
     "Penn Island Trip.md",
+    "ACT 3 companion.md",
+    "BarbMonk.md",
     "Penn Island Camping.md",
     "London Trip - 建築.md",
     "London Trip - 展覽.md",
