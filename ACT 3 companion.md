@@ -1,46 +1,26 @@
 Rivington
 
-初次進入 Rivington
-
-Jaheira / Karlach / Shadowheart
-
-Gur Camp
-
-Astarion / Jaheira / 自選
-
-Ferg Drogher
-
-Shadowheart / Jaheira / 自選
-
-Circus of the Last Days
-
-戀愛對象 / 自選 / 自選
-
+- 初次進入 Rivington
+  Jaheira / Karlach / Shadowheart
+- Gur Camp
+  Astarion / Jaheira / 自選
+- Ferg Drogher
+  Shadowheart / Jaheira / 自選
+- Circus of the Last Days
+  戀愛對象 / 自選 / 自選
 Wyrm's Crossing
-
-Danthelon's Dancing Axe
-
-Jaheira / Lae'zel / Karlach
-
-Sharess' Caress
-
-Lae'zel / Gale / Karlach
-
-Gortash 加冕
-
-Karlach / Wyll / Jaheira
-
+- Danthelon's Dancing Axe
+  Jaheira / Lae'zel / Karlach
+- Sharess' Caress
+  Lae'zel / Gale / Karlach
+- Gortash 加冕
+  Karlach / Wyll / Jaheira
 Lower City
-
-Nine-Fingers Guildhall
-
-Jaheira / Karlach / 自選
-
-Counting House
-
-Jaheira / Karlach / 自選
-
-Abandoned Cistern，招募 Minsc
+- Nine-Fingers Guildhall
+  Jaheira / Karlach / 自選
+- Counting House
+  Jaheira / Karlach / 自選
+- Abandoned Cistern，招募 Minsc
 
 Jaheira / Karlach / 自選
 

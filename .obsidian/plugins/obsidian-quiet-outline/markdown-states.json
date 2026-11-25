@@ -3227,5 +3227,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "ACT 3 companion.md": {
+    "scroll": 0.43200000762939456,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 26
+      },
+      "to": {
+        "line": 14,
+        "ch": 26
+      }
+    },
+    "expandedKeys": []
   }
 }
