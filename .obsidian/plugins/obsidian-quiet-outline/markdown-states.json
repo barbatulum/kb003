@@ -3229,15 +3229,15 @@
     "expandedKeys": []
   },
   "ACT 3 companion.md": {
-    "scroll": 0.43200000762939456,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 9,
-        "ch": 13
+        "ch": 16
       },
       "to": {
-        "line": 9,
-        "ch": 13
+        "line": 3,
+        "ch": 0
       }
     },
     "expandedKeys": []
